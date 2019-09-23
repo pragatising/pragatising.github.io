@@ -1,0 +1,270 @@
+
+*{
+  font-family: "FuturaLT-Book", sans-serif;
+ 
+}
+
+.parafont{
+ font-size: 1.2vw!important;
+ font-weight: 500!important;
+ color: grey!important;
+}
+
+.lightgrey{
+
+    background-color: #fbfbfb!important;
+}
+.parafont1{
+ font-size: 1.1vw!important;
+ font-weight: 500!important;
+ color: grey!important;
+}
+
+.subtitlefont{
+
+font-size:1.2vw!important;
+font-weight: bold!important;
+color: black !important;
+}
+
+
+.resize-img{
+
+    width: 40vw!important;
+    background-color: #f9f7f7;
+
+}
+.line-dotted{
+    transform: rotate(-90deg) translate(-11vw, 0);
+    width:90%;
+    text-align:center;
+    border-top: 0.1vw dashed #000;
+    line-height:0.1em;
+   
+}
+
+.line-dotted span { 
+    background:#fff; padding:0 10px;
+}
+
+.divide{
+
+   
+}
+
+.mockup{
+    border-radius: 1.2vw;
+    box-shadow: 0px 5px 9px 1px #ab1c1c6b;
+    width: 75%;
+}
+.peach-bg{
+    background-color: #fde3df!important;
+    
+background-size: 200% 100%;
+background-position:left bottom;
+}   
+
+
+
+	#my-name {
+      	font-family: 'Futura PT', serif;
+        font-weight: 200;
+        text-align: center;
+        color: black;
+        font-size:1.6vw ;
+      }
+
+      #my-name:after{
+
+      	content: ""; /* This is necessary for the pseudo element to work. */ 
+    	display: block; /* This will put the pseudo element on its own line. */
+    	margin: 0 auto; /* This will center the border. */
+    	width: 2%; /* Change this to whatever width you want. */
+    	border-bottom: 0.1vw solid black;
+    	padding-top: 1vw;}
+
+        .line-anime a:after, .line-anime:after{
+           -webkit-animation: line-anime 0.4s ease-out both;
+                    animation: line-anime 0.4s ease-out both;
+              }
+
+             @-webkit-keyframes line-anime {
+          0% {
+            -webkit-transform: scaleX(0.4);
+                    transform: scaleX(0.4);
+            -webkit-transform-origin: 0% 0%;
+                    transform-origin: 0% 0%;
+          }
+          100% {
+            -webkit-transform: scaleX(1);
+                    transform: scaleX(1);
+            -webkit-transform-origin: 0% 0%;
+                    transform-origin: 0% 0%;
+          }
+        }
+        @keyframes line-anime{
+          0% {
+            -webkit-transform: scaleX(0.4);
+                    transform: scaleX(0.4);
+            -webkit-transform-origin: 0% 0%;
+                    transform-origin: 0% 0%;
+          }
+          100% {
+            -webkit-transform: scaleX(1);
+                    transform: scaleX(1);
+            -webkit-transform-origin: 0% 0%;
+                    transform-origin: 0% 0%;
+          }
+        }
+
+
+        .menu-bar-port{
+
+        margin-top: 1%;
+        font-family: 'Futura Thin';
+        align-content: center;
+
+
+        }
+
+
+
+        .navbar {
+        
+        font-family: 'Futura';
+        font-weight: 500;
+        margin:auto !important;
+        font-size: 0.9em!important;
+
+
+
+      }
+
+      .navbar .col {
+
+        display: flex;
+        max-width: fit-content;
+        margin: auto;
+      }
+
+       .navbar:after {
+        
+        content: ""; /* This is necessary for the pseudo element to work. */ 
+    	display: block; /* This will put the pseudo element on its own line. */
+    	margin: 0 auto; /* This will center the border. */
+    	width: 100%; /* Change this to whatever width you want. */
+    	border-bottom: 0.1vw solid #e6e6e6;
+    	opacity: 0.5;
+    	padding-top: 1vw;
+
+      }
+
+
+      
+
+		
+
+    	#about-me div div div img{
+    		width: 5%;
+    		
+    		
+    	}
+
+    	
+    	
+    	.line-anime {
+            
+    		list-style: none;
+    		padding: 0;
+    		font-weight: 500;
+    		font-size: 1.2vw;
+    		margin-top: 1vw;
+            text-decoration: none;
+            color: grey;
+
+    	}
+
+    	#work ul li:not(:last-child){
+
+    		margin-bottom: 1.5vw;
+
+    	}
+
+    
+
+		.line-anime:hover{
+			color: #0010ff;
+            text-decoration: none;
+
+    	}    	
+
+    	.line-anime:after{
+
+    	content: ""; /* This is necessary for the pseudo element to work. */ 
+    	display: block; /* This will put the pseudo element on its own line. */
+    	/* margin: 0 auto; */ /* This will center the border. */
+    	width: 5vw; /* Change this to whatever width you want. */
+    	border-bottom: 0.15vw solid black;
+    	padding-top: 1vw;
+    }
+    
+   
+
+
+    	.heading-para{
+
+    		font-family: 'Futura PT', sans-serif;    
+    		font-size: 1.2vw;
+    			}
+
+    
+   /* ------------------------------ gist css---------------------
+ */
+
+         .page-title{
+            font-family: Futura PT;
+            font-size: 1.8vw;
+            font-weight: 500;
+            margin-top: 5%;
+         }
+
+        .page-title:after{
+
+        content: ""; /* This is necessary for the pseudo element to work. */ 
+        display: block; /* This will put the pseudo element on its own line. */
+        /* margin: 0 auto; */ /* This will center the border. */
+        width: 10%; /* Change this to whatever width you want. */
+        border-bottom: 0.4vw solid #1900ff;
+        padding-top: .5vw;
+
+         }
+         .page-title-sub{
+
+                    font-family: Futura PT;
+                    font-size: 1.2vw;
+                    font-weight: 200;
+                    color: grey;
+                    margin-top: 3%;
+                    
+                }
+
+        .sub-head{
+
+                    font-family: Futura PT;
+                    font-size: 1.5vw;
+                    font-weight: 300;
+                    margin-top: 10%;
+                    margin-bottom: 10%;
+                   
+        }
+
+        .within-50{
+
+            max-width: 100%;
+            max-height: 100%;
+
+        }
+
+
+
+
