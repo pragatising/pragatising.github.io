@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="612" height="303" viewBox="0 0 612 303">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb100"/>
+      <stop offset="1" stop-color="#ffc400"/>
+    </linearGradient>
+    <clipPath id="clip-Artboard_1">
+      <rect width="612" height="303"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="612" height="303" fill="#fff"/>
+    <text id="Research_" data-name="Research
+" transform="translate(0 45)" fill="#351d4c" font-size="13" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="14">Research</tspan></text>
+    <text id="Interviews_Comparative_Study_Observation_Affinity_mapping" data-name="Interviews
+Comparative Study
+Observation
+Affinity mapping" transform="translate(0 101)" fill="#555" font-size="13" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="13">Interviews</tspan><tspan x="0" y="35">Comparative Study</tspan><tspan x="0" y="57">Observation</tspan><tspan x="0" y="79">Affinity mapping</tspan></text>
+    <text id="Design" transform="translate(227 45)" fill="#351d4c" font-size="13" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="14">Design</tspan></text>
+    <text id="Storyboarding_User_Personas_Use_cases_Ideation_Brainstorming_Wireframes_Feedback_Learning_Prototype_User_Feedback_Interactive_Design" data-name="Storyboarding &amp; User Personas
+Use cases
+Ideation &amp; Brainstorming
+Wireframes
+Feedback
+Learning Prototype
+User Feedback
+Interactive Design" transform="translate(227 101)" fill="#555" font-size="13" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="13">Storyboarding &amp; User </tspan><tspan x="0" y="35">Personas</tspan><tspan x="0" y="57">Use cases</tspan><tspan x="0" y="79">Ideation &amp; Brainstorming</tspan><tspan x="0" y="101">Wireframes</tspan><tspan x="0" y="123">Feedback</tspan><tspan x="0" y="145">Learning Prototype</tspan><tspan x="0" y="167">User Feedback</tspan><tspan x="0" y="189">Interactive Design</tspan></text>
+    <text id="Evaluation" transform="translate(455 45)" fill="#351d4c" font-size="13" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="14">Evaluation</tspan></text>
+    <text id="Heuristic_Evaluation_Cognitive_Walkthrough" data-name="Heuristic Evaluation
+Cognitive Walkthrough" transform="translate(455 101)" fill="#555" font-size="13" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="13">Heuristic Evaluation</tspan><tspan x="0" y="35">Cognitive Walkthrough</tspan></text>
+    <rect id="Rectangle_439" data-name="Rectangle 439" width="110" height="5" rx="2.5" transform="translate(0 74)" fill="#ff1264"/>
+    <rect id="Rectangle_439-2" data-name="Rectangle 439" width="110" height="5" rx="2.5" transform="translate(227 74)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_439-3" data-name="Rectangle 439" width="110" height="5" rx="2.5" transform="translate(455 74)" fill="#0fd0a3"/>
+  </g>
+</svg>
