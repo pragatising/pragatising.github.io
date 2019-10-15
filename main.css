@@ -11,7 +11,7 @@ html, body{
 }
 
 .navstyle{
-font-size: 1.1vw!important;
+font-size: 0.9em!important;
  font-weight: 500!important;
  color: black!important;
  padding-right: 10vw;
@@ -19,7 +19,7 @@ font-size: 1.1vw!important;
 }
 
 .parafont{
- font-size: 1.1vw!important;
+ font-size: 0.9em!important;
  font-weight: 500!important;
  color: black!important;
 }
@@ -29,14 +29,14 @@ font-size: 1.1vw!important;
     background-color: #fbfbfb!important;
 }
 .parafont1{
- font-size: 1.1vw!important;
+ font-size: 0.9em!important;
  font-weight: 500!important;
  color: grey!important;
 }
 
 .subtitlefont{
 
-font-size:1.1vw!important;
+font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
 /* border-bottom: 2px solid black; */
@@ -45,11 +45,11 @@ width: 20vw;
 
 .subtitlefont1{
 
-font-size:1.1vw!important;
+font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
 border-bottom: 2px solid black;
-width: 20vw;
+width: 13em;
 }
 
 .resize-img{
@@ -201,7 +201,7 @@ background-position:left bottom;
     		list-style: none;
     		padding: 0;
     		font-weight: 500;
-    		font-size: 1.2vw;
+    		font-size: 1.1em;
     		margin-top: 1vw;
             text-decoration: none;
             color: grey;
@@ -210,7 +210,7 @@ background-position:left bottom;
 
     	#work ul li:not(:last-child){
 
-    		margin-bottom: 1.5vw;
+    		margin-bottom: 1.2em;
 
     	}
 
@@ -238,7 +238,7 @@ background-position:left bottom;
     	.heading-para{
 
     		font-family: 'Futura PT', sans-serif;    
-    		font-size: 1.2vw;
+    		font-size: 1em;
     			}
 
     
@@ -265,7 +265,7 @@ background-position:left bottom;
          .page-title-sub{
 
                     font-family: Futura PT;
-                    font-size: 1.2vw;
+                    font-size: 1.1em;
                     font-weight: 200;
                     color: grey;
                     margin-top: 3%;
@@ -275,7 +275,7 @@ background-position:left bottom;
         .sub-head{
 
                     font-family: Futura PT;
-                    font-size: 1.5vw;
+                    font-size: 1.2em;
                     font-weight: 300;
                     margin-top: 10%;
                     margin-bottom: 10%;
@@ -316,3 +316,74 @@ height: 30vw;
 width: 30vw;
 object-fit: contain;
 }
+
+
+/* 
+handel specific */
+
+.mockup-handel{
+
+    /* box-shadow:0px 1px 4px 4px #6767672e; */
+    border-radius: .7vw;
+}
+
+
+/* button scroll to top */
+
+
+#button {
+  display: inline-block;
+  background-color: black;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 25px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#button::after {
+  content: "\2191";
+  font-family: Futura;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 50px;
+  color: #fff;
+}
+#button:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#button:active {
+  background-color: #555;
+}
+#button.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.background-light{
+
+    background-color: #fbfbfb;
+}
+
+.image{
+
+  /* box-shadow: 1px 1px 6px #0000005e; */
+    border-radius: 6px;
+}
+
+
+.video-style{
+
+box-shadow: 1px 1px 6px #0000005e;
+    border-radius: 6px;
+}
+
+
