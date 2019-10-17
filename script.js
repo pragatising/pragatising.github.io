@@ -1,20 +1,15 @@
-// $(document).ready(function() {
-//     $(".container1").load("home.html");
-// });
+var btn = $('#button');
 
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 100) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
 
-    // $(this).on("click", function(){
-    //     var el=this; 
-        
+btn.on('click', function(e) {
+  e.preventDefault();
+  $('html, body').animate({scrollTop:0}, '100');
+});
 
-    // });
-
-// $( this ).click(function( event ) {
-   
-//   $(".home").remove();
-//          $(".container1").load(event.target.getAttribute("data-page"));
-// });
-
-
-
-   
