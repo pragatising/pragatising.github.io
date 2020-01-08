@@ -1,26 +1,46 @@
 
+
+@charset "UTF-8";
+@charset "iso-8859-15"; 
+@import url(//db.onlinewebfonts.com/c/30294b8401300f8aa798b2a02892bd2e?family=Futura+LT);
+@import url(//db.onlinewebfonts.com/c/6daaeacf369f5c15f3308f379ab05b77?family=Futura+LT)
+@import url(//db.onlinewebfonts.com/c/5520b2b875202fac53dc536bc7aca367?family=Futura);
+@import url(//db.onlinewebfonts.com/c/12fd3b0603f2ab22d6bf2bed80521841?family=Futura+LT);
+@font-face {font-family: "Futura LT"; 
+src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot"); 
+src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot?#iefix") format("embedded-opentype"), 
+url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff2") format("woff2"), 
+url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff") format("woff"), 
+url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.ttf") format("truetype"), 
+url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.svg#Futura LT") format("svg"); }
+
+
 *{
-  font-family: "FuturaLT-Book", sans-serif;
- 
+
+  font-family: 'Futura LT', sans-serif; 
+  
 }
 
 html, body{
 
+  
     margin: 0;
     height: 100%;
 }
 
 .navstyle{
+  font-family: 'Futura LT'; 
 font-size: 0.9em!important;
- font-weight: 500!important;
+ font-weight: 00!important;
  color: black!important;
  padding-right: 10vw;
 
 }
 
 .parafont{
+  font-family: 'Futura LT'; 
  font-size: 0.9em!important;
- font-weight: 500!important;
+ font-weight: 200!important;
  color: black!important;
 }
 
@@ -29,6 +49,7 @@ font-size: 0.9em!important;
     background-color: #fbfbfb!important;
 }
 .parafont1{
+  font-family: 'Futura LT'; 
  font-size: 0.9em!important;
  font-weight: 500!important;
  color: grey!important;
@@ -36,6 +57,7 @@ font-size: 0.9em!important;
 
 .subtitlefont{
 
+font-family: 'Futura LT'!important; 
 font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
@@ -44,7 +66,7 @@ width: 20vw;
 }
 
 .subtitlefont1{
-
+font-family: 'Futura LT'!important; 
 font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
@@ -75,11 +97,15 @@ width: 13em;
 
    
 }
+.light-grey{
 
+  background-color: #F7F7F7;
+}
 .mockup{
-    border-radius: 1.2vw;
-    box-shadow: 0px 5px 9px 1px #ab1c1c6b;
+    border-radius: 1vw;
+    box-shadow: 7px 9px 20px 1px #0b16691c;
     width: 75%;
+    
 }
 .peach-bg{
     background-color: #fde3df!important;
@@ -386,4 +412,5 @@ box-shadow: 1px 1px 6px #0000005e;
     border-radius: 10px;
 }
 
+.iframe_display{visibility:hidden}
 
