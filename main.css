@@ -63,15 +63,35 @@ font-weight: bold!important;
 color: black !important;
 /* border-bottom: 2px solid black; */
 width: 20vw;
+height: 2vw;
+
 }
+
+.underline-index{
+  width: 60%;
+}
+.projects:hover >.underline-index{ border-top: 2px solid red;
+  
+  transition: border-top 0.7s ease 0s;
+  
+  
+
+}
+
+.projects:hover{
+  text-decoration: none;
+}
+
+
 
 .subtitlefont1{
 font-family: 'Futura LT'!important; 
 font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
-border-bottom: 2px solid black;
+/* border-bottom: 2px solid black; */
 width: 13em;
+
 }
 
 .resize-img{
@@ -215,7 +235,9 @@ background-position:left bottom;
 		
 
     	#about-me div div div img{
-    		width: 5%;
+    		width: 50%;
+    border: 1px solid black;
+    margin-top: 2vw;
     		
     		
     	}
