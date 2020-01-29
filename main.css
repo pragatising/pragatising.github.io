@@ -68,7 +68,7 @@ height: 2vw;
 }
 
 .underline-index{
-  width: 60%;
+  width: 100%;
 }
 .projects:hover >.underline-index{ border-top: 2px solid red;
   
@@ -100,6 +100,29 @@ width: 13em;
     background-color: #f9f7f7;
 
 }
+
+.project-title{
+
+  letter-spacing: 8px;
+  font-family: Futura-LT;
+}
+
+.hash-tags{
+  font-size: small;
+    color: grey;
+    margin-top: 3%;
+    font-family: Futura LT;
+    letter-spacing: 3px!important;
+}
+.cover-images{
+
+    width: 100%!important;
+    border: 1px solid #e8e8e8!important;
+    border-radius: 3px;
+    box-shadow: 1px 2px 5px #eaeaea;
+}
+
+
 .line-dotted{
     transform: rotate(-90deg) translate(-11vw, 0);
     width:90%;
@@ -113,10 +136,7 @@ width: 13em;
     background:#fff; padding:0 10px;
 }
 
-.divide{
 
-   
-}
 .light-grey{
 
   background-color: #F7F7F7;
