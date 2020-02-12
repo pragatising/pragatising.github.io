@@ -28,6 +28,9 @@ html, body{
     height: 100%;
 }
 
+
+
+
 .navstyle{
   font-family: 'Futura LT'; 
 font-size: 0.9em!important;
@@ -49,7 +52,7 @@ font-size: 0.9em!important;
     background-color: #fbfbfb!important;
 }
 .parafont1{
-  font-family: 'Futura LT'; 
+font-family: 'Futura LT'; 
  font-size: 0.9em!important;
  font-weight: 500!important;
  color: grey!important;
@@ -62,8 +65,7 @@ font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
 /* border-bottom: 2px solid black; */
-width: 20vw;
-height: 2vw;
+
 
 }
 
@@ -123,11 +125,14 @@ width: 13em;
 }
 
 
+
+@media only screen and (min-width: 641px) {
+
 .line-dotted{
     transform: rotate(-90deg) translate(-11vw, 0);
     width:90%;
     text-align:center;
-    border-top: 0.1vw dashed #000;
+    border-top: 1px solid #000;
     line-height:0.1em;
    
 }
@@ -135,6 +140,24 @@ width: 13em;
 .line-dotted span { 
     background:#fff; padding:0 10px;
 }
+
+}
+
+@media only screen and (max-width: 640px) {
+
+.line-dotted{
+  
+margin-bottom: 0;
+    
+   
+}
+
+.line-dotted span { 
+margin-bottom: 0;
+}
+}
+
+
 
 
 .light-grey{
