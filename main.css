@@ -74,7 +74,7 @@ margin-bottom: 20px;
 .underline-index{
   width: 100%;
 }
-.projects:hover >.underline-index{ border-top: 2px solid red;
+.projects:hover >.underline-index{ border-top: 2px solid blue;
   
   transition: border-top 0.7s ease 0s;
   
