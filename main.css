@@ -61,6 +61,10 @@ font-family: 'Futura LT';
  font-weight: 500!important;
  color: grey!important;
  margin-bottom: 50px;
+ margin-top: 20px!important;
+
+
+
 }
 
 .subtitlefont{
@@ -71,6 +75,8 @@ font-weight: bold!important;
 color: black !important;
 /* border-bottom: 2px solid black; */
 margin-bottom: 20px;
+margin-top: 20px!important;
+
 
 
 }
@@ -477,6 +483,8 @@ handel specific */
 
   /* box-shadow: 1px 1px 6px #0000005e; */
     border-radius: 10px;
+    margin-bottom: 150px!important;
+    margin-top: 50px;
 }
 
 
