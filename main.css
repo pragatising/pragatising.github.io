@@ -1,33 +1,33 @@
 
 
 @charset "UTF-8";
-@charset "iso-8859-15"; 
+@charset "iso-8859-15";
 @import url(//db.onlinewebfonts.com/c/30294b8401300f8aa798b2a02892bd2e?family=Futura+LT);
 @import url(//db.onlinewebfonts.com/c/6daaeacf369f5c15f3308f379ab05b77?family=Futura+LT)
 @import url(//db.onlinewebfonts.com/c/5520b2b875202fac53dc536bc7aca367?family=Futura);
 @import url(//db.onlinewebfonts.com/c/12fd3b0603f2ab22d6bf2bed80521841?family=Futura+LT);
-@font-face {font-family: "Futura LT"; 
-src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot"); 
-src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot?#iefix") format("embedded-opentype"), 
-url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff2") format("woff2"), 
-url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff") format("woff"), 
-url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.ttf") format("truetype"), 
+@font-face {font-family: "Futura LT";
+src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot");
+src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot?#iefix") format("embedded-opentype"),
+url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff2") format("woff2"),
+url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff") format("woff"),
+url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.ttf") format("truetype"),
 url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.svg#Futura LT") format("svg"); }
 
 .footer{
   font-size: 0.8em;
-  margin-top: 2px;  
+  margin-top: 2px;
 
 }
 *{
 
-  font-family: 'Futura LT', sans-serif; 
-  
+  font-family: 'Futura LT', sans-serif;
+
 }
 
 html, body{
 
-  
+
     margin: 0;
     height: 100%;
 }
@@ -36,16 +36,18 @@ html, body{
 
 
 .navstyle{
-  font-family: 'Futura LT'; 
+  font-family: 'Futura LT';
 font-size: 0.9em!important;
  font-weight: 00!important;
  color: black!important;
  padding-right: 10vw;
 
 }
-
+.spacing{
+   margin-top:80px!important;
+}
 .parafont{
-  font-family: 'Futura LT'; 
+  font-family: 'Futura LT';
  font-size: 0.9em!important;
  font-weight: 200!important;
  color: black!important;
@@ -56,11 +58,11 @@ font-size: 0.9em!important;
     background-color: #fbfbfb!important;
 }
 .parafont1{
-font-family: 'Futura LT'; 
+font-family: 'Futura LT';
  font-size: 0.9em!important;
  font-weight: 500!important;
  color: grey!important;
- margin-bottom: 50px;
+ margin-bottom: 80px;
  margin-top: 20px!important;
 
 
@@ -69,7 +71,7 @@ font-family: 'Futura LT';
 
 .subtitlefont{
 
-font-family: 'Futura LT'!important; 
+font-family: 'Futura LT'!important;
 font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
@@ -85,10 +87,10 @@ margin-top: 20px!important;
   width: 100%;
 }
 .projects:hover >.underline-index{ border-top: 2px solid blue;
-  
+
   transition: border-top 0.7s ease 0s;
-  
-  
+
+
 
 }
 
@@ -99,7 +101,7 @@ margin-top: 20px!important;
 
 
 .subtitlefont1{
-font-family: 'Futura LT'!important; 
+font-family: 'Futura LT'!important;
 font-size:0.9em!important;
 font-weight: bold!important;
 color: black !important;
@@ -146,10 +148,10 @@ width: 13em;
     text-align:center;
     border-top: 1px solid #000;
     line-height:0.1em;
-   
+
 }
 
-.line-dotted span { 
+.line-dotted span {
     background:#fff; padding:0 10px;
 }
 
@@ -158,20 +160,20 @@ width: 13em;
 @media only screen and (max-width: 640px) {
 
 .line-dotted{
-  
+
 margin-bottom: 0;
-    
-   
+
+
 }
 
-.line-dotted span { 
+.line-dotted span {
 margin-bottom: 0;
 }
 }
 
 /* .high-light{
   color: #007DFF ;
-  
+
 }
  */
 
@@ -183,14 +185,14 @@ margin-bottom: 0;
     border-radius: 1vw;
     box-shadow: 7px 9px 20px 1px #0b16691c;
     width: 67%;
-    
+
 }
 .peach-bg{
     background-color: #fde3df!important;
-    
+
 background-size: 200% 100%;
 background-position:left bottom;
-}   
+}
 
 
 
@@ -204,7 +206,7 @@ background-position:left bottom;
 
       #my-name:after{
 
-      	content: ""; /* This is necessary for the pseudo element to work. */ 
+      	content: ""; /* This is necessary for the pseudo element to work. */
     	display: block; /* This will put the pseudo element on its own line. */
     	margin: 0 auto; /* This will center the border. */
     	width: 2%; /* Change this to whatever width you want. */
@@ -245,65 +247,74 @@ background-position:left bottom;
           }
         }
 
+.navbar-dropdown{
+    box-shadow: none!important;
+    border-top: 1px solid black!important;
+    padding: 9px;
+    background-color: #fafafa!important;
+}
 
-        .menu-bar-port{
+.navbar-dropdown a{
 
-        margin-top: 1%;
-        font-family: 'Futura Thin';
-        align-content: center;
+    margin-bottom: 15px;
 
+}
 
-        }
+.navbar-dropdown a:hover{
 
-
-
-        .navbar {
-        
-        font-family: 'Futura';
-        font-weight: 500;
-        margin:auto !important;
-        font-size: 0.9em!important;
+    background-color:#f7f7f7!important;
 
 
+}
+.nav-border{
+    border-bottom: 0.5px solid #f2f0ee;
+}
 
-      }
+.project-info{
+    text-transform: capitalize;
+    font-family: Futura LT;
+    color: grey;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-bottom:100px;
 
-      .navbar .col {
+}
 
-        display: flex;
-        max-width: fit-content;
-        margin: auto;
-      }
+.divide{
+    border: 0;
+    height: 0;
+    border-top: 0.7px solid rgba(0, 0, 0, 0.1);
 
-       .navbar:after {
-        
-        content: ""; /* This is necessary for the pseudo element to work. */ 
-    	display: block; /* This will put the pseudo element on its own line. */
-    	margin: 0 auto; /* This will center the border. */
-    	width: 100%; /* Change this to whatever width you want. */
-    	border-bottom: 0.1vw solid #e6e6e6;
-    	opacity: 0.5;
-    	padding-top: 1vw;
+}
 
-      }
+#footer-style{
+
+  left: 0;
+  bottom: 0;
+  margin-top:100px;
+  text-align: center;
+}
 
 
-      
-
-		
 
     	#about-me div div div img{
     		width: 50%;
     border: 1px solid black;
     margin-top: 2vw;
-    		
-    		
+
+
     	}
 
-    	
-    	
+.footer-text{
+    font-family: Futura LT;
+    font-weight: 100;
+    color: grey;
+    font-size: 12px;
+
+}
+
     	.line-anime {
-            
+
     		list-style: none;
     		padding: 0;
     		font-weight: 500;
@@ -320,34 +331,34 @@ background-position:left bottom;
 
     	}
 
-    
+
 
 		.line-anime:hover{
 			color: #0010ff;
             text-decoration: none;
 
-    	}    	
+    	}
 
     	.line-anime:after{
 
-    	content: ""; /* This is necessary for the pseudo element to work. */ 
+    	content: ""; /* This is necessary for the pseudo element to work. */
     	display: block; /* This will put the pseudo element on its own line. */
     	/* margin: 0 auto; */ /* This will center the border. */
-    	width: 5vw; /* Change this to whatever width you want. */
+    	width: 20px; /* Change this to whatever width you want. */
     	border-bottom: 0.15vw solid black;
     	padding-top: 1vw;
     }
-    
-   
+
+
 
 
     	.heading-para{
 
-    		font-family: 'Futura PT', sans-serif;    
+    		font-family: 'Futura PT', sans-serif;
     		font-size: 1em;
     			}
 
-    
+
    /* ------------------------------ gist css---------------------
  */
 
@@ -360,7 +371,7 @@ background-position:left bottom;
 
         .page-title:after{
 
-        content: ""; /* This is necessary for the pseudo element to work. */ 
+        content: ""; /* This is necessary for the pseudo element to work. */
         display: block; /* This will put the pseudo element on its own line. */
         /* margin: 0 auto; */ /* This will center the border. */
         width: 10%; /* Change this to whatever width you want. */
@@ -375,7 +386,7 @@ background-position:left bottom;
                     font-weight: 200;
                     color: grey;
                     margin-top: 3%;
-                    
+
                 }
 
         .sub-head{
@@ -385,7 +396,7 @@ background-position:left bottom;
                     font-weight: 300;
                     margin-top: 10%;
                     margin-bottom: 10%;
-                   
+
         }
 
         .within-50{
@@ -398,33 +409,12 @@ background-position:left bottom;
 .lines{
     background-size:16.66vw;
     background-image: linear-gradient(to right, #f3f3f3 1px, transparent 1px);
-    
+
 }
 
 
-.gallery{
 
-    display: flex;
-    justify-content: space-around;
-}
-
-.gallery div{
-
-
-
-    display: flex;
-  flex-direction: column;
-}
-
-.gallery div img{
-
-height: 30vw;
-width: 30vw;
-object-fit: contain;
-}
-
-
-/* 
+/*
 handel specific */
 
 .mockup-handel{
@@ -447,7 +437,7 @@ handel specific */
   position: fixed;
   bottom: 30px;
   right: 30px;
-  transition: background-color .3s, 
+  transition: background-color .3s,
     opacity .5s, visibility .5s;
   opacity: 0;
   visibility: hidden;
@@ -482,7 +472,7 @@ handel specific */
 .image{
 
   /* box-shadow: 1px 1px 6px #0000005e; */
-    border-radius: 10px;
+    border-radius: 5px;
     margin-bottom: 150px!important;
     margin-top: 50px;
 }
