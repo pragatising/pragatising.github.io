@@ -1,31 +1,33 @@
-
-
 @charset "UTF-8";
 @charset "iso-8859-15";
 @import url(//db.onlinewebfonts.com/c/30294b8401300f8aa798b2a02892bd2e?family=Futura+LT);
-@import url(//db.onlinewebfonts.com/c/6daaeacf369f5c15f3308f379ab05b77?family=Futura+LT)
-@import url(//db.onlinewebfonts.com/c/5520b2b875202fac53dc536bc7aca367?family=Futura);
+@import url(//db.onlinewebfonts.com/c/6daaeacf369f5c15f3308f379ab05b77?family=Futura+LT) @import url(//db.onlinewebfonts.com/c/5520b2b875202fac53dc536bc7aca367?family=Futura);
 @import url(//db.onlinewebfonts.com/c/12fd3b0603f2ab22d6bf2bed80521841?family=Futura+LT);
-@font-face {font-family: "Futura LT";
-src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot");
-src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot?#iefix") format("embedded-opentype"),
-url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff2") format("woff2"),
-url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff") format("woff"),
-url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.ttf") format("truetype"),
-url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.svg#Futura LT") format("svg"); }
 
-.footer{
-  font-size: 0.8em;
-  margin-top: 2px;
-
+@font-face {
+    font-family: "Futura LT";
+    src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot");
+    src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.svg#Futura LT") format("svg");
 }
-*{
 
-  font-family: 'Futura LT', sans-serif;
+.footer {
+    font-size: 0.8em;
+    margin-top: 2px;
 
 }
 
-html, body{
+* {
+
+    font-family: 'Futura LT', sans-serif;
+
+}
+
+html,
+body {
 
 
     margin: 0;
@@ -35,105 +37,120 @@ html, body{
 
 
 
-.navstyle{
-  font-family: 'Futura LT';
-font-size: 0.9em!important;
- font-weight: 00!important;
- color: black!important;
- padding-right: 10vw;
-
-}
-.spacing{
-   margin-top:80px!important;
-}
-.parafont{
-  font-family: 'Futura LT';
- font-size: 0.9em!important;
- font-weight: 200!important;
- color: black!important;
-}
-
-.lightgrey{
-
-    background-color: #fbfbfb!important;
-}
-.parafont1{
-font-family: 'Futura LT';
- font-size: 0.9em!important;
- font-weight: 500!important;
- color: grey!important;
- margin-bottom: 80px;
- margin-top: 20px!important;
-
-
+.navstyle {
+    font-family: 'Futura LT';
+    font-size: 0.9em !important;
+    font-weight: 00 !important;
+    color: black !important;
+    padding-right: 10vw;
 
 }
 
-.subtitlefont{
+.spacing {
+    margin-top: 80px !important;
+}
 
-font-family: 'Futura LT'!important;
-font-size:0.9em!important;
-font-weight: bold!important;
-color: black !important;
-/* border-bottom: 2px solid black; */
-margin-bottom: 20px;
-margin-top: 20px!important;
+.parafont {
+    font-family: 'Futura LT';
+    font-size: 0.9em !important;
+    font-weight: 200 !important;
+    color: black !important;
+}
+
+.lightgrey {
+
+    background-color: #fbfbfb !important;
+}
+
+.parafont1 {
+    font-family: 'Futura LT';
+    font-size: 0.9em !important;
+    font-weight: 500 !important;
+    color: grey !important;
+    margin-bottom: 80px;
+    margin-top: 20px !important;
 
 
 
 }
 
-.underline-index{
-  width: 100%;
-}
-.projects:hover >.underline-index{ border-top: 2px solid blue;
+.subtitlefont {
 
-  transition: border-top 0.7s ease 0s;
-
-
-
-}
-
-/* .projects:hover{
-  text-decoration: none;
-} */
+    font-family: 'Futura LT' !important;
+    font-size: 0.9em !important;
+    font-weight: bold !important;
+    color: black !important;
+    /* border-bottom: 2px solid black; */
+    margin-bottom: 20px;
+    margin-top: 20px !important;
 
 
-
-.subtitlefont1{
-font-family: 'Futura LT'!important;
-font-size:0.9em!important;
-font-weight: bold!important;
-color: black !important;
-/* border-bottom: 2px solid black; */
-width: 13em;
 
 }
 
-.resize-img{
+.underline-index {
+    width: 100%;
+    border-top: 1px solid #f3f3f3;
+    height: 0;
+}
 
-    width: 40vw!important;
+.underline-moves {
+
+    width: 0;
+    margin-top: -25px !important;
+    border-top: 1px solid #0263ff;
+    height: 0;
+}
+
+.projects:hover > .underline-moves {
+
+    transition: width 0.5s ease 0.8s;
+    width: 100%;
+}
+
+.projects:hover {
+    text-decoration: none;
+    color: #1e71f7;
+}
+
+
+
+.subtitlefont1 {
+    font-family: 'Futura LT' !important;
+    font-size: 0.9em !important;
+    font-weight: bold !important;
+    color: black !important;
+    /* border-bottom: 2px solid black; */
+    width: 13em;
+
+}
+
+.resize-img {
+
+    width: 40vw !important;
     background-color: #f9f7f7;
 
 }
 
-.project-title{
+.project-title {
 
-  letter-spacing: 8px;
-  font-family: Futura LT;
+    letter-spacing: 8px;
+    font-family: Futura LT;
 }
 
-.hash-tags{
-  font-size: small;
+.hash-tags {
+    font-size: small;
     color: grey;
     margin-top: 3%;
     font-family: Futura LT;
-    letter-spacing: 3px!important;
+    letter-spacing: 3px !important;
 }
-.cover-images{
 
-    width: 100%!important;
-    border: 1px solid #e8e8e8!important;
+
+.cover-images {
+
+    width: 100% !important;
+    border: 1px solid #e8e8e8 !important;
     border-radius: 3px;
     box-shadow: 1px 2px 5px #eaeaea;
 }
@@ -142,33 +159,34 @@ width: 13em;
 
 @media only screen and (min-width: 641px) {
 
-.line-dotted{
-    transform: rotate(-90deg) translate(-11vw, 0);
-    width:90%;
-    text-align:center;
-    border-top: 1px solid #000;
-    line-height:0.1em;
+    .line-dotted {
+        transform: rotate(-90deg) translate(-11vw, 0);
+        width: 90%;
+        text-align: center;
+        border-top: 1px solid #000;
+        line-height: 0.1em;
 
-}
+    }
 
-.line-dotted span {
-    background:#fff; padding:0 10px;
-}
+    .line-dotted span {
+        background: #fff;
+        padding: 0 10px;
+    }
 
 }
 
 @media only screen and (max-width: 640px) {
 
-.line-dotted{
+    .line-dotted {
 
-margin-bottom: 0;
+        margin-bottom: 0;
 
 
-}
+    }
 
-.line-dotted span {
-margin-bottom: 0;
-}
+    .line-dotted span {
+        margin-bottom: 0;
+    }
 }
 
 /* .high-light{
@@ -177,135 +195,147 @@ margin-bottom: 0;
 }
  */
 
-.light-grey{
+.light-grey {
 
-  background-color: #F7F7F7;
+    background-color: #F7F7F7;
 }
-.mockup{
+
+.mockup {
     border-radius: 1vw;
     box-shadow: 7px 9px 20px 1px #0b16691c;
     width: 67%;
 
 }
-.peach-bg{
-    background-color: #fde3df!important;
 
-background-size: 200% 100%;
-background-position:left bottom;
+.peach-bg {
+    background-color: #fde3df !important;
+
+    background-size: 200% 100%;
+    background-position: left bottom;
 }
 
 
 
-	#my-name {
-      	font-family: 'Futura PT', serif;
-        font-weight: 200;
-        text-align: center;
-        color: black;
-        font-size:1.6vw ;
-      }
+#my-name {
+    font-family: 'Futura PT', serif;
+    font-weight: 200;
+    text-align: center;
+    color: black;
+    font-size: 1.6vw;
+}
 
-      #my-name:after{
+#my-name:after {
 
-      	content: ""; /* This is necessary for the pseudo element to work. */
-    	display: block; /* This will put the pseudo element on its own line. */
-    	margin: 0 auto; /* This will center the border. */
-    	width: 2%; /* Change this to whatever width you want. */
-    	border-bottom: 0.1vw solid black;
-    	padding-top: 1vw;}
+    content: "";
+    /* This is necessary for the pseudo element to work. */
+    display: block;
+    /* This will put the pseudo element on its own line. */
+    margin: 0 auto;
+    /* This will center the border. */
+    width: 2%;
+    /* Change this to whatever width you want. */
+    border-bottom: 0.1vw solid black;
+    padding-top: 1vw;
+}
 
-        .line-anime a:after, .line-anime:after{
-           -webkit-animation: line-anime 0.4s ease-out both;
-                    animation: line-anime 0.4s ease-out both;
-              }
+.line-anime a:after,
+.line-anime:after {
+    -webkit-animation: line-anime 0.4s ease-out both;
+    animation: line-anime 0.4s ease-out both;
+}
 
-             @-webkit-keyframes line-anime {
-          0% {
-            -webkit-transform: scaleX(0.4);
-                    transform: scaleX(0.4);
-            -webkit-transform-origin: 0% 0%;
-                    transform-origin: 0% 0%;
-          }
-          100% {
-            -webkit-transform: scaleX(1);
-                    transform: scaleX(1);
-            -webkit-transform-origin: 0% 0%;
-                    transform-origin: 0% 0%;
-          }
-        }
-        @keyframes line-anime{
-          0% {
-            -webkit-transform: scaleX(0.4);
-                    transform: scaleX(0.4);
-            -webkit-transform-origin: 0% 0%;
-                    transform-origin: 0% 0%;
-          }
-          100% {
-            -webkit-transform: scaleX(1);
-                    transform: scaleX(1);
-            -webkit-transform-origin: 0% 0%;
-                    transform-origin: 0% 0%;
-          }
-        }
+@-webkit-keyframes line-anime {
+    0% {
+        -webkit-transform: scaleX(0.4);
+        transform: scaleX(0.4);
+        -webkit-transform-origin: 0% 0%;
+        transform-origin: 0% 0%;
+    }
 
-.navbar-dropdown{
-    box-shadow: none!important;
-    border-top: 1px solid black!important;
+    100% {
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+        -webkit-transform-origin: 0% 0%;
+        transform-origin: 0% 0%;
+    }
+}
+
+@keyframes line-anime {
+    0% {
+        -webkit-transform: scaleX(0.4);
+        transform: scaleX(0.4);
+        -webkit-transform-origin: 0% 0%;
+        transform-origin: 0% 0%;
+    }
+
+    100% {
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+        -webkit-transform-origin: 0% 0%;
+        transform-origin: 0% 0%;
+    }
+}
+
+.navbar-dropdown {
+    box-shadow: none !important;
+    border-top: 1px solid black !important;
     padding: 9px;
-    background-color: #fafafa!important;
+    background-color: #fafafa !important;
 }
 
-.navbar-dropdown a{
+.navbar-dropdown a {
 
     margin-bottom: 15px;
 
 }
 
-.navbar-dropdown a:hover{
+.navbar-dropdown a:hover {
 
-    background-color:#f7f7f7!important;
+    background-color: #f7f7f7 !important;
 
 
 }
-.nav-border{
+
+.nav-border {
     border-bottom: 0.5px solid #f2f0ee;
 }
 
-.project-info{
+.project-info {
     text-transform: capitalize;
     font-family: Futura LT;
     color: grey;
     font-size: 12px;
     letter-spacing: 1px;
-    margin-bottom:100px;
+    margin-bottom: 100px;
 
 }
 
-.divide{
+.divide {
     border: 0;
     height: 0;
     border-top: 0.7px solid rgba(0, 0, 0, 0.1);
 
 }
 
-#footer-style{
+#footer-style {
 
-  left: 0;
-  bottom: 0;
-  margin-top:100px;
-  text-align: center;
+    left: 0;
+    bottom: 0;
+    margin-top: 100px;
+    text-align: center;
 }
 
 
 
-    	#about-me div div div img{
-    		width: 50%;
+#about-me div div div img {
+    width: 50%;
     border: 1px solid black;
     margin-top: 2vw;
 
 
-    	}
+}
 
-.footer-text{
+.footer-text {
     font-family: Futura LT;
     font-weight: 100;
     color: grey;
@@ -313,101 +343,110 @@ background-position:left bottom;
 
 }
 
-    	.line-anime {
+.line-anime {
 
-    		list-style: none;
-    		padding: 0;
-    		font-weight: 500;
-    		font-size: 1.1em;
-    		margin-top: 1vw;
-            text-decoration: none;
-            color: grey;
+    list-style: none;
+    padding: 0;
+    font-weight: 500;
+    font-size: 1.1em;
+    margin-top: 1vw;
+    text-decoration: none;
+    color: grey;
 
-    	}
+}
 
-    	#work ul li:not(:last-child){
+#work ul li:not(:last-child) {
 
-    		margin-bottom: 1.2em;
+    margin-bottom: 1.2em;
 
-    	}
-
-
-
-		.line-anime:hover{
-			color: #0010ff;
-            text-decoration: none;
-
-    	}
-
-    	.line-anime:after{
-
-    	content: ""; /* This is necessary for the pseudo element to work. */
-    	display: block; /* This will put the pseudo element on its own line. */
-    	/* margin: 0 auto; */ /* This will center the border. */
-    	width: 20px; /* Change this to whatever width you want. */
-    	border-bottom: 0.15vw solid black;
-    	padding-top: 1vw;
-    }
+}
 
 
 
+.line-anime:hover {
+    color: #0010ff;
+    text-decoration: none;
 
-    	.heading-para{
+}
 
-    		font-family: 'Futura PT', sans-serif;
-    		font-size: 1em;
-    			}
+.line-anime:after {
+
+    content: "";
+    /* This is necessary for the pseudo element to work. */
+    display: block;
+    /* This will put the pseudo element on its own line. */
+    /* margin: 0 auto; */
+    /* This will center the border. */
+    width: 20px;
+    /* Change this to whatever width you want. */
+    border-bottom: 0.15vw solid black;
+    padding-top: 1vw;
+}
 
 
-   /* ------------------------------ gist css---------------------
+
+
+.heading-para {
+
+    font-family: 'Futura PT', sans-serif;
+    font-size: 1em;
+}
+
+
+/* ------------------------------ gist css---------------------
  */
 
-         .page-title{
-            font-family: Futura PT;
-            font-size: 1.8vw;
-            font-weight: 500;
-            margin-top: 5%;
-         }
+.page-title {
+    font-family: Futura PT;
+    font-size: 1.8vw;
+    font-weight: 500;
+    margin-top: 5%;
+}
 
-        .page-title:after{
+.page-title:after {
 
-        content: ""; /* This is necessary for the pseudo element to work. */
-        display: block; /* This will put the pseudo element on its own line. */
-        /* margin: 0 auto; */ /* This will center the border. */
-        width: 10%; /* Change this to whatever width you want. */
-        border-bottom: 0.4vw solid #1900ff;
-        padding-top: .5vw;
+    content: "";
+    /* This is necessary for the pseudo element to work. */
+    display: block;
+    /* This will put the pseudo element on its own line. */
+    /* margin: 0 auto; */
+    /* This will center the border. */
+    width: 10%;
+    /* Change this to whatever width you want. */
+    border-bottom: 0.4vw solid #1900ff;
+    padding-top: .5vw;
 
-         }
-         .page-title-sub{
+}
 
-                    font-family: Futura PT;
-                    font-size: 1.1em;
-                    font-weight: 200;
-                    color: grey;
-                    margin-top: 3%;
+.page-title-sub {
 
-                }
+    font-family: Futura PT;
+    font-size: 1.1em;
+    font-weight: 200;
+    color: grey;
+    margin-top: 3%;
 
-        .sub-head{
+}
 
-                    font-family: Futura PT;
-                    font-size: 1.2em;
-                    font-weight: 300;
-                    margin-top: 10%;
-                    margin-bottom: 10%;
+.sub-head {
 
-        }
+    font-family: Futura PT;
+    font-size: 1.2em;
+    font-weight: 300;
+    margin-top: 10%;
+    margin-bottom: 10%;
 
-        .within-50{
+}
 
-            max-width: 100%;
-            max-height: 100%;
+.within-50 {
 
-        }
+    max-width: 100%;
+    max-height: 100%;
 
-.lines{
-    background-size:16.66vw;
+}
+
+.lines {
+    background-size: 16.66vw;
     background-image: linear-gradient(to right, #f3f3f3 1px, transparent 1px);
 
 }
@@ -417,7 +456,7 @@ background-position:left bottom;
 /*
 handel specific */
 
-.mockup-handel{
+.mockup-handel {
 
     /* box-shadow:0px 1px 4px 4px #6767672e; */
     border-radius: .7vw;
@@ -428,61 +467,66 @@ handel specific */
 
 
 #button {
-  display: inline-block;
-  background-color: black;
-  width: 50px;
-  height: 50px;
-  text-align: center;
-  border-radius: 25px;
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
-  transition: background-color .3s,
-    opacity .5s, visibility .5s;
-  opacity: 0;
-  visibility: hidden;
-  z-index: 1000;
-}
-#button::after {
-  content: "\2191";
-  font-family: Futura;
-  font-weight: normal;
-  font-style: normal;
-  font-size: 1em;
-  line-height: 50px;
-  color: #fff;
-}
-#button:hover {
-  cursor: pointer;
-  background-color: #333;
-}
-#button:active {
-  background-color: #555;
-}
-#button.show {
-  opacity: 1;
-  visibility: visible;
+    display: inline-block;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 25px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s,
+        opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
 }
 
-.background-light{
+#button::after {
+    content: "\2191";
+    font-family: Futura;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 50px;
+    color: #fff;
+}
+
+#button:hover {
+    cursor: pointer;
+    background-color: #333;
+}
+
+#button:active {
+    background-color: #555;
+}
+
+#button.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.background-light {
 
     background-color: #fbfbfb;
 }
 
-.image{
+.image {
 
-  /* box-shadow: 1px 1px 6px #0000005e; */
+    /* box-shadow: 1px 1px 6px #0000005e; */
     border-radius: 5px;
-    margin-bottom: 150px!important;
+    margin-bottom: 150px !important;
     margin-top: 50px;
 }
 
 
-.video-style{
+.video-style {
 
-box-shadow: 1px 1px 6px #0000005e;
+    box-shadow: 1px 1px 6px #0000005e;
     border-radius: 10px;
 }
 
-.iframe_display{visibility:hidden}
-
+.iframe_display {
+    visibility: hidden
+}
