@@ -20,6 +20,19 @@
 
 }
 
+.takes-bg-hero{
+
+background-color:#FAFAFA;
+}
+
+
+.underline{
+    border: 0;
+    height: 0;
+    border-top: 1px solid #d9d9d9;
+
+
+}
 * {
 
     font-family: 'Futura LT', sans-serif;
@@ -516,8 +529,8 @@ handel specific */
 
     /* box-shadow: 1px 1px 6px #0000005e; */
     border-radius: 5px;
-    margin-bottom: 150px !important;
-    margin-top: 50px;
+    margin-bottom: 100px !important;
+    margin-top: 30px;
 }
 
 
