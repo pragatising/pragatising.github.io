@@ -147,25 +147,28 @@ body {
 
 .project-title {
 
-    letter-spacing: 8px;
+    letter-spacing: 2px;
     font-family: Futura LT;
 }
 
 .hash-tags {
-    font-size: small;
+    font-size: 0.8rem;
     color: grey;
     margin-top: 3%;
     font-family: Futura LT;
-    letter-spacing: 3px !important;
+    letter-spacing: 2px !important;
 }
 
 
 .cover-images {
 
     width: 100% !important;
+    background-color:#fafafa;
+/*
     border: 1px solid #e8e8e8 !important;
     border-radius: 3px;
     box-shadow: 1px 2px 5px #eaeaea;
+*/
 }
 
 
@@ -340,13 +343,7 @@ body {
 
 
 
-#about-me div div div img {
-    width: 50%;
-    border: 1px solid black;
-    margin-top: 2vw;
 
-
-}
 
 .footer-text {
     font-family: Futura LT;
