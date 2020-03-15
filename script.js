@@ -15,30 +15,41 @@ btn.on('click', function(e) {
   $('html, body').animate({scrollTop:0}, '100');
 });
 
- document.getElementById("focus").focus();
 
-$(".image").click(function(){
+ $(".category").click(function(){
 
-$(".modal").addClass("is-active");
+          $(".category").removeClass('active');
+     $(this).addClass('active');
 
 
+            var cat=$(this).attr('id');
+
+
+
+
+    $(".project-cards").fadeOut()
+    $("."+cat).fadeIn();
 });
 
-$(".modal-close").click(function(){
-$(".modal").removeClass("is-active");
 
-});
 
-$(document).ready(function() {
 
-  // Check for click events on the navbar burger icon
-  $(".navbar-burger").click(function() {
+//$(document).ready(function() {
+//
+//  // Check for click events on the navbar burger icon
+//  $(".navbar-burger").click(function() {
+//
+//      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+//      $(".navbar-burger").toggleClass("is-active");
+//      $(".navbar-menu").toggleClass("is-active");
+//
+//  });
+//
+//
+//
+//
+//
+//});
 
-      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-      $(".navbar-burger").toggleClass("is-active");
-      $(".navbar-menu").toggleClass("is-active");
-
-  });
-});
 
 

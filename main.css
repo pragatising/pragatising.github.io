@@ -125,8 +125,9 @@ body {
     text-decoration: none;
     color: #1e71f7;
 }
-
-
+.project-cards{
+    margin-top: 50px!important;
+}
 
 .subtitlefont1 {
     font-family: 'Futura LT' !important;
@@ -170,6 +171,32 @@ body {
     box-shadow: 1px 2px 5px #eaeaea;
 */
 }
+
+.category{
+    font-size: 0.6rem;
+    background-color:#f7f7f7;
+    color:grey;
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    font-family: Futura LT;
+
+    cursor: pointer!important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 20px;
+    z-index:100;
+
+
+}
+
+.active{
+    background-color:blue;
+    color:white;
+
+
+}
+
+
 
 
 
