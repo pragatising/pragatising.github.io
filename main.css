@@ -51,7 +51,16 @@ body {
 
 
 .navstyle {
-    font-family: 'Futura LT';
+   font-family: 'Futura LT';
+    font-size: 0.9em !important;
+    font-weight: 00 !important;
+    color: black !important;
+    padding-right: 10vw;
+
+}
+
+.navstyle1 {
+   font-family: 'Futura LT';
     font-size: 0.9em !important;
     font-weight: 00 !important;
     color: black !important;
@@ -126,15 +135,50 @@ body {
     color: #1e71f7;
 }
 .project-cards{
+
     margin-top: 50px!important;
+
+
 }
 
+.project-cards > div{
+
+
+    width: 360px;
+    margin-right:30px;
+    background-color: #fafafa;
+    border-radius: 5px;
+    padding: 0;
+     cursor:pointer;
+}
+
+.content{
+    margin: 20px;
+    display:inline-block;
+
+
+}
+
+.content p{
+    margin-top:10px;
+    font-family: Futura LT;
+    font-size: 0.9rem;
+    color:grey;
+    padding-bottom:15px;
+    border-bottom:0.5px solid #e9e9e9;
+    margin-bottom:2px!important;
+}
+
+.project-cards > div:hover{
+
+
+}
 .subtitlefont1 {
     font-family: 'Futura LT' !important;
     font-size: 0.9em !important;
     font-weight: bold !important;
     color: black !important;
-    /* border-bottom: 2px solid black; */
+
     width: 13em;
 
 }
@@ -148,8 +192,22 @@ body {
 
 .project-title {
 
-    letter-spacing: 2px;
-    font-family: Futura LT;
+
+    font-family: Futura;
+    color:black;
+    font-size: 0.9rem;
+    font-weight: 200;
+
+}
+
+.year{
+
+
+    font-family: Futura;
+    font-size: 0.6rem;
+    color:grey;
+
+
 }
 
 .hash-tags {
@@ -171,6 +229,30 @@ body {
     box-shadow: 1px 2px 5px #eaeaea;
 */
 }
+.logo{
+
+    font-family: 'Futura LT';
+    font-size: 0.9em !important;
+    font-weight: 00 !important;
+    color: black !important;
+    padding-right: 10vw;
+
+}
+
+.pronounce{
+
+    width:20px;
+    margin-bottom: -5px;
+
+}
+
+.navstyle1:hover{
+
+padding-left: 3%;
+border-left: 2px solid black;
+     margin-left:10px;
+    transition: 0.34s ease;
+}
 
 .category{
     font-size: 0.6rem;
@@ -187,6 +269,21 @@ body {
     z-index:100;
 
 
+}
+.aboutme{
+    color:black;
+    font-size: 0.9rem;
+     font-weight: light;
+    line-height: 1.5rem;
+    font-family: Futura LT!important;
+
+}
+
+.project-cards:hover~div{
+    display: block;
+}
+.high-light{
+color:darkgrey;
 }
 
 .active{

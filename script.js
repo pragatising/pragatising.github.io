@@ -1,34 +1,35 @@
-
-
 var btn = $('#button');
 
-$(window).scroll(function() {
-  if ($(window).scrollTop() > 100) {
-    btn.addClass('show');
-  } else {
-    btn.removeClass('show');
-  }
+$(window).scroll(function () {
+    if ($(window).scrollTop() > 100) {
+        btn.addClass('show');
+    } else {
+        btn.removeClass('show');
+    }
 });
 
-btn.on('click', function(e) {
-  e.preventDefault();
-  $('html, body').animate({scrollTop:0}, '100');
+btn.on('click', function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+        scrollTop: 0
+    }, '100');
 });
 
 
- $(".category").click(function(){
+$(".category").click(function () {
 
-          $(".category").removeClass('active');
-     $(this).addClass('active');
-
-
-            var cat=$(this).attr('id');
+    $(".category").removeClass('active');
+    $(this).addClass('active');
 
 
+    var cat = $(this).attr('id');
+
+         $( ".project-cards" ).fadeOut();
+            $( "."+cat).parent().fadeIn();
+         $( "div" ).filter( "."+cat).css("display","block");
 
 
-    $(".project-cards").fadeOut()
-    $("."+cat).fadeIn();
+
 });
 
 
@@ -50,6 +51,3 @@ btn.on('click', function(e) {
 //
 //
 //});
-
-
-
