@@ -347,9 +347,11 @@ body {
 
 }
 
+/*
 .project-cards:hover ~ div {
     display: block;
 }
+*/
 
 .high-light {
     color: darkgrey;
