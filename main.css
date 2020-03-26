@@ -347,6 +347,34 @@ body {
 
 }
 
+
+.books-red{
+
+    text-align: left;
+    font-family: Futura LT;
+    color:black;
+    margin-bottom: 100px;
+
+}
+
+.books-red div img{
+
+    height: 350px;
+     object-fit:cover;
+
+}
+.img-div{
+
+    height: 350px;
+    object-fit:cover;
+
+     margin-top:80px;
+}
+.books-red h6{
+
+    margin-top:20px;
+
+}
 /*
 .project-cards:hover ~ div {
     display: block;
