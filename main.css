@@ -49,25 +49,7 @@ body {
 
 }
 
-.design {
 
-/*    margin: 0px !important;*/
-    padding-right:0!important;
-}
-
-
-
-
-.projects span {
-
-    font-family: Futura;
-    font-size: 0.9rem;
-    margin-right: 15px;
-
-
-
-
-}
 
 .navstyle {
     font-family: 'Futura LT';
@@ -78,51 +60,423 @@ body {
 
 }
 
-.active-page {
+@media only screen and (min-width: 641px) {
+    .design {
 
-    padding-left: 8%;
-    border-left: 2px solid black;
-    color: black !important;
+        /*    margin: 0px !important;*/
+        padding-right: 0 !important;
+    }
+
+
+
+    .projects span {
+
+        font-family: Futura;
+        font-size: 0.9rem;
+        margin-right: 15px;
+
+
+    }
+
+    .active-page {
+
+        padding-left: 6%;
+        border-left: 2px solid black;
+        color: black !important;
+
+    }
+
+    .projects h6 {
+        width: 100%;
+        text-align: left;
+        border-bottom: 0.5px solid #ccc;
+        line-height: 0.1em;
+        margin-bottom: 40px !important;
+        background: #fff;
+
+    }
+
+    .line-hor {
+
+
+
+        padding-right: 20px;
+        background: #fff;
+        color: black;
+
+
+
+
+
+    }
+
+
+
+    .project-section {
+
+        margin-top: 45px !important;
+    }
+
+    .navstyle1 {
+        font-family: 'Futura';
+        font-size: 0.9em !important;
+        font-weight: 00 !important;
+        color: #CCC;
+        padding-right: 10vw;
+
+    }
+
+
+
+    .project-cards {
+
+
+        height: 230px;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s;
+        cursor: pointer;
+
+
+
+
+    }
+
+    .project-cards:hover > .content {
+
+        display: inline-block;
+        transform: scale(1.02);
+    }
+
+
+
+    .vd-design {
+
+        height: 230px;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s;
+        cursor: pointer;
+
+    }
+
+    .vd-design .content div {
+
+        padding-top: 30%;
+    }
+
+    .vd {
+
+        margin-left: 40px;
+    }
+
+    .vd-design:hover > .content {
+
+        display: inline-block;
+    }
+
+    .bg-one {
+        background-image: url(./img/BI.png);
+    }
+
+    .bg-two {
+        background-image: url(./img/Handl.png);
+    }
+
+    .bg-three {
+        background-image: url(./img/takes-cover.png);
+    }
+
+    .bg-four {
+        background-image: url(./img/cover-gaze.png);
+    }
+
+    .bg-five {
+        background-image: url(https://66.media.tumblr.com/bde4a3ed57728b188a728296e3c5af21/tumblr_ph331sCrFg1w1imzxo1_1280.png);
+        background-position: center;
+    }
+
+    .bg-six {
+        background-image: url(./img/book-cover/art.png);
+        background-position: center;
+    }
+
+    .bg-7 {
+        background-image: url(./img/LRMS.png);
+        background-position: center;
+    }
+
+    .bg-8 {
+        background-image: url(./img/WineAR.png);
+        background-position: center;
+    }
+
+    .content {
+
+        display: none;
+        cursor: pointer;
+        height: inherit;
+        font-family: Futura LT;
+        font-size: 0.9rem;
+        color: grey;
+        padding-bottom: 15px;
+        border-bottom: 0.5px solid #e9e9e9;
+        margin-bottom: 2px !important;
+        background-color: #fafafbfa;
+        position: inherit;
+        transition: all 0.5s ease;
+
+
+
+
+    }
+
+
+    .content div {
+
+        height: 100%;
+        position: relative;
+        padding-top: 40%;
+        padding-left: 30px;
+        padding-right: 30px;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s;
+    }
+
+
+
+    .content p {
+        margin-top: 15px;
+        font-size: 0.7rem;
+        line-height: 1.1;
+        padding-bottom: 10px;
+        border-bottom: 0.4px solid #fafafa;
+        margin-bottom: 1px !important;
+        color: black;
+
+
+    }
 
 }
 
-.projects h6 {
-    width: 100%;
-    text-align: left;
-    border-bottom: 0.5px solid #ccc;
-    line-height: 0.1em;
-    margin-bottom: 40px !important;
-    background: #fff;
+
+
+@media only screen and (max-width: 641px) {
+    .design {
+
+        /*    margin: 0px !important;*/
+        padding-right: 0 !important;
+    }
+
+
+
+    .projects span {
+
+        font-family: Futura;
+        font-size: 0.9rem;
+        margin-right: 15px;
+
+
+    }
+
+    .active-page {
+
+        padding-left: 6%;
+        border-left: 2px solid black;
+        color: black !important;
+
+    }
+
+    .projects h6 {
+        width: 100%;
+        text-align: left;
+        border-bottom: 0.5px solid #ccc;
+        line-height: 0.1em;
+        margin-bottom: 40px !important;
+        background: #fff;
+
+    }
+
+    .line-hor {
+
+
+
+        padding-right: 20px;
+        background: #fff;
+        color: black;
+
+
+
+
+
+    }
+
+
+
+    .project-section {
+/*
+
+        margin-top: 45px !important;
+*/
+
+    }
+
+    .navstyle1 {
+        font-family: 'Futura';
+        font-size: 0.9em !important;
+        font-weight: 00 !important;
+        color: #CCC;
+        padding-right: 10vw;
+
+    }
+
+
+
+    .project-cards {
+
+
+        height: 230px;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s;
+        cursor: pointer;
+ margin-bottom: 150px !important;
+
+
+
+    }
+
+
+
+
+
+    .vd-design {
+
+        height: 230px;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        -webkit-transition: all .5s;
+        -moz-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s;
+        cursor: pointer;
+
+    }
+
+    .vd-design .content div {
+
+        padding-top: 30%;
+    }
+
+    .vd {
+
+        margin-left: 40px;
+    }
+
+    .vd-design:hover > .content {
+
+        display: inline-block;
+    }
+
+    .bg-one {
+        background-image: url(./img/BI.png);
+    }
+
+    .bg-two {
+        background-image: url(./img/Handl.png);
+    }
+
+    .bg-three {
+        background-image: url(./img/takes-cover.png);
+    }
+
+    .bg-four {
+        background-image: url(./img/cover-gaze.png);
+    }
+
+    .bg-five {
+        background-image: url(https://66.media.tumblr.com/bde4a3ed57728b188a728296e3c5af21/tumblr_ph331sCrFg1w1imzxo1_1280.png);
+        background-position: center;
+    }
+
+    .bg-six {
+        background-image: url(./img/book-cover/art.png);
+        background-position: center;
+    }
+
+    .bg-7 {
+        background-image: url(./img/LRMS.png);
+        background-position: center;
+    }
+
+    .bg-8 {
+        background-image: url(./img/WineAR.png);
+        background-position: center;
+    }
+
+    .content {
+
+
+    cursor: pointer;
+    height: 230px;
+    font-family: Futura LT;
+    font-size: 0.9rem;
+    color: grey;
+    padding-bottom: 15px;
+    margin-bottom: 200px !important;
+    transition: all 0.5s ease;
+
+
+
+
+    }
+
+
+    .content div {
+
+    position: relative;
+    bottom: 0;
+    padding-right: 71px;
+    height: 100%;
+    object-fit: cover;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    padding-top: 250px;
+    }
+
+
+
+    .content p {
+        margin-top: 5px;
+        font-size: 0.7rem;
+        line-height: 1.1;
+        margin-bottom: 1px !important;
+        color: black;
+
+
+    }
 
 }
 
-.line-hor {
+.column img{
 
-
-
-    padding-right: 20px;
-    background: #fff;
-    color:black;
-
-
-
-
-
-}
-
-
-
-.project-section {
-
-    margin-top: 45px !important;
-}
-
-.navstyle1 {
-    font-family: 'Futura';
-    font-size: 0.9em !important;
-    font-weight: 00 !important;
-    color: #CCC;
-    padding-right: 10vw;
 
 }
 
@@ -130,10 +484,12 @@ body {
     margin-top: 80px !important;
 }
 
+
+
 .parafont {
     font-family: 'Futura LT';
-    font-size: 0.9em !important;
-    font-weight: 200 !important;
+    font-size: 0.8em !important;
+
     color: black !important;
 }
 
@@ -144,11 +500,11 @@ body {
 
 .parafont1 {
     font-family: 'Futura LT';
-    font-size: 0.9em !important;
-    font-weight: 500 !important;
+    font-size: 0.8em !important;
+
     color: grey !important;
     margin-bottom: 80px;
-    margin-top: 20px !important;
+/*    margin-top: 20px !important;*/
 
 
 
@@ -157,16 +513,15 @@ body {
 .subtitlefont {
 
     font-family: 'Futura LT' !important;
-    font-size: 0.9em !important;
+    font-size: 1em !important;
     font-weight: bold !important;
     color: black !important;
     /* border-bottom: 2px solid black; */
+    margin-top: 20px;
     margin-bottom: 20px;
-    margin-top: 20px !important;
-
-
 
 }
+
 
 .underline-index {
     width: 100%;
@@ -182,147 +537,6 @@ body {
     height: 0;
 }
 
-
-
-
-.project-cards {
-
-
-    height: 230px;
-    width: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
-    -o-transition: all .5s;
-    transition: all .5s;
-    cursor: pointer;
-
-
-
-
-}
-
-.project-cards:hover > .content{
-
-    display: inline-block;
-     transform: scale(1.02);
-}
-
-
-
-.vd-design {
-
-    height: 230px;
-    width: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
-    -o-transition: all .5s;
-    transition: all .5s;
-    cursor: pointer;
-
-}
-
-.vd-design .content div {
-
-    padding-top: 30%;
-}
-
-.vd {
-
-    margin-left: 40px;
-}
-
-.vd-design:hover > .content {
-
-    display: inline-block;
-}
-
-.bg-one {
-    background-image: url(./img/BI.png);
-}
-
-.bg-two {
-    background-image: url(./img/Handl.png);
-}
-
-.bg-three {
-    background-image: url(./img/takes-cover.png);
-}
-
-.bg-four {
-    background-image: url(./img/cover-gaze.png);
-}
-
-.bg-five {
-    background-image: url(https://66.media.tumblr.com/bde4a3ed57728b188a728296e3c5af21/tumblr_ph331sCrFg1w1imzxo1_1280.png);
-    background-position: center;
-}
-
-.bg-six {
-    background-image: url(./img/book-cover/art.png);
-    background-position: center;
-}
-
-.bg-7 {
-    background-image: url(./img/LRMS.png);
-    background-position: center;
-}
-
-.bg-8 {
-    background-image: url(./img/WineAR.png);
-    background-position: center;
-}
-
-.content {
-
-    display: none;
-    cursor: pointer;
-    height: inherit;
-    font-family: Futura LT;
-    font-size: 0.9rem;
-    color: grey;
-    padding-bottom: 15px;
-    border-bottom: 0.5px solid #e9e9e9;
-    margin-bottom: 2px !important;
-    background-color: #fafafbfa;
-    position: inherit;
-    transition: all 0.5s ease;
-
-
-
-
-}
-
-
-.content div {
-
-    height: 100%;
-    position: relative;
-    padding-top: 40%;
-    padding-left: 30px;
-    padding-right: 30px;
-     -webkit-transition: all .5s;
-    -moz-transition: all .5s;
-    -o-transition: all .5s;
-    transition: all .5s;
-}
-
-
-
-.content p {
-    margin-top: 15px;
-    font-size: 0.7rem;
-    line-height: 1.1;
-    padding-bottom: 10px;
-    border-bottom: 0.4px solid #fafafa;
-    margin-bottom: 1px !important;
-    color: black;
-
-
-}
 
 
 
@@ -363,13 +577,7 @@ body {
 
 }
 
-.hash-tags {
-    font-size: 0.8rem;
-    color: grey;
-    margin-top: 3%;
-    font-family: Futura LT;
-    letter-spacing: 2px !important;
-}
+
 
 
 .cover-images {
@@ -587,7 +795,7 @@ body {
  */
 .mainpage {
 
-    top: 40px!important;
+    top: 40px !important;
 
 }
 
@@ -633,45 +841,10 @@ body {
     border-bottom: 0.1vw solid black;
     padding-top: 1vw;
 }
-
-.line-anime a:after,
-.line-anime:after {
-    -webkit-animation: line-anime 0.4s ease-out both;
-    animation: line-anime 0.4s ease-out both;
+.line-anime{
+    margin-top:100px;
 }
-
-@-webkit-keyframes line-anime {
-    0% {
-        -webkit-transform: scaleX(0.4);
-        transform: scaleX(0.4);
-        -webkit-transform-origin: 0% 0%;
-        transform-origin: 0% 0%;
-    }
-
-    100% {
-        -webkit-transform: scaleX(1);
-        transform: scaleX(1);
-        -webkit-transform-origin: 0% 0%;
-        transform-origin: 0% 0%;
-    }
-}
-
-@keyframes line-anime {
-    0% {
-        -webkit-transform: scaleX(0.4);
-        transform: scaleX(0.4);
-        -webkit-transform-origin: 0% 0%;
-        transform-origin: 0% 0%;
-    }
-
-    100% {
-        -webkit-transform: scaleX(1);
-        transform: scaleX(1);
-        -webkit-transform-origin: 0% 0%;
-        transform-origin: 0% 0%;
-    }
-}
-
+.
 .navbar-dropdown {
     box-shadow: none !important;
     border-top: 1px solid black !important;
@@ -699,10 +872,11 @@ body {
 .project-info {
     text-transform: capitalize;
     font-family: Futura LT;
-    color: grey;
-    font-size: 12px;
+    color: black;
+    font-size: 0.7rem;
     letter-spacing: 1px;
     margin-bottom: 100px;
+    padding-right:60px;
 
 }
 
@@ -733,17 +907,6 @@ body {
 
 }
 
-.line-anime {
-
-    list-style: none;
-    padding: 0;
-    font-weight: 500;
-    font-size: 1.1em;
-    margin-top: 1vw;
-    text-decoration: none;
-    color: grey;
-
-}
 
 #work ul li:not(:last-child) {
 
@@ -753,25 +916,6 @@ body {
 
 
 
-.line-anime:hover {
-    color: #0010ff;
-    text-decoration: none;
-
-}
-
-.line-anime:after {
-
-    content: "";
-    /* This is necessary for the pseudo element to work. */
-    display: block;
-    /* This will put the pseudo element on its own line. */
-    /* margin: 0 auto; */
-    /* This will center the border. */
-    width: 20px;
-    /* Change this to whatever width you want. */
-    border-bottom: 0.15vw solid black;
-    padding-top: 1vw;
-}
 
 
 
