@@ -512,17 +512,25 @@ body {
 
 .subtitlefont {
 
-    font-family: 'Futura LT' !important;
+    font-family: 'Futura' !important;
     font-size: 1em !important;
-    font-weight: bold !important;
+/*    font-weight: 800!important;*/
     color: black !important;
     /* border-bottom: 2px solid black; */
 
     margin-bottom: 20px;
 
 }
+.has-carousel{
+    border:none!important;
+}
+.slider-navigation-next{
+    background-color: black!important;
+}
 
-
+.slider-navigation-previous{
+    background-color: black!important;
+}
 .underline-index {
     width: 100%;
     border-top: 1px solid #f3f3f3;
@@ -870,7 +878,7 @@ body {
 }
 
 .project-info {
-    text-transform: capitalize;
+
     font-family: Futura LT;
     color: black;
     font-size: 0.7rem;
