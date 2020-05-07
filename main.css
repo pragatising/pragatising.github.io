@@ -61,6 +61,26 @@ body {
 }
 
 @media only screen and (min-width: 641px) {
+
+
+
+    .hor-line{
+
+        border-top: 0.01rem solid grey;
+    margin-top: 11px!important;
+    height: 0.5px;
+        margin-right: 0px!important;
+    }
+
+
+    .projects{
+
+        font-family: Futura;
+        font-size:0.7rem;
+        color:black;
+    }
+
+
     .design {
 
         /*    margin: 0px !important;*/
@@ -69,14 +89,7 @@ body {
 
 
 
-    .projects span {
 
-        font-family: Futura;
-        font-size: 0.9rem;
-        margin-right: 15px;
-
-
-    }
 
     .active-page {
 
@@ -86,29 +99,7 @@ body {
 
     }
 
-    .projects h6 {
-        width: 100%;
-        text-align: left;
-        border-bottom: 0.5px solid #ccc;
-        line-height: 0.1em;
-        margin-bottom: 40px !important;
-        background: #fff;
 
-    }
-
-    .line-hor {
-
-
-
-        padding-right: 20px;
-        background: #fff;
-        color: black;
-
-
-
-
-
-    }
 
 
 
@@ -119,7 +110,7 @@ body {
 
     .navstyle1 {
         font-family: 'Futura';
-        font-size: 0.9em !important;
+        font-size: 0.8em !important;
         font-weight: 00 !important;
         color: #adacac;
         padding-right: 10vw;
@@ -131,8 +122,8 @@ body {
     .project-cards {
 
 
-        height: 230px;
-        width: 100%;
+        height: 180px;
+        width: 95%;
         background-size: cover;
         background-repeat: no-repeat;
         -webkit-transition: all .5s;
@@ -146,18 +137,25 @@ body {
 
     }
 
-    .project-cards:hover > .content {
 
-        display: inline-block;
-        transform: scale(1.02);
+    .content{
+
+
+        background-color: #FAFAFA;
+        height: 80px;
+        width: 95%;
     }
 
+    .content div{
+
+        padding :20px;
+    }
 
 
     .vd-design {
 
-        height: 230px;
-        width: 100%;
+        height: 180px;
+        width: 95%;
         background-size: cover;
         background-repeat: no-repeat;
         -webkit-transition: all .5s;
@@ -168,20 +166,13 @@ body {
 
     }
 
-    .vd-design .content div {
-
-        padding-top: 30%;
-    }
 
     .vd {
 
         margin-left: 40px;
     }
 
-    .vd-design:hover > .content {
 
-        display: inline-block;
-    }
 
     .bg-one {
         background-image: url(./img/BI.png);
@@ -210,7 +201,7 @@ body {
     }
 
     .bg-7 {
-        background-image: url(./img/LRMS.png);
+        background-image: url(./img/LRMS.svg);
         background-position: center;
     }
 
@@ -219,53 +210,7 @@ body {
         background-position: center;
     }
 
-    .content {
 
-        display: none;
-        cursor: pointer;
-        height: inherit;
-        font-family: Futura LT;
-        font-size: 0.9rem;
-        color: grey;
-        padding-bottom: 15px;
-        border-bottom: 0.5px solid #e9e9e9;
-        margin-bottom: 2px !important;
-        background-color: #fafafbfa;
-        position: inherit;
-        transition: all 0.5s ease;
-
-
-
-
-    }
-
-
-    .content div {
-
-        height: 100%;
-        position: relative;
-        padding-top: 40%;
-        padding-left: 30px;
-        padding-right: 30px;
-        -webkit-transition: all .5s;
-        -moz-transition: all .5s;
-        -o-transition: all .5s;
-        transition: all .5s;
-    }
-
-
-
-    .content p {
-        margin-top: 15px;
-        font-size: 0.7rem;
-        line-height: 1.1;
-        padding-bottom: 10px;
-        border-bottom: 0.4px solid #fafafa;
-        margin-bottom: 1px !important;
-        color: black;
-
-
-    }
 
 }
 
@@ -280,14 +225,7 @@ body {
 
 
 
-    .projects span {
 
-        font-family: Futura;
-        font-size: 0.9rem;
-        margin-right: 15px;
-
-
-    }
 
     .active-page {
 
@@ -297,29 +235,6 @@ body {
 
     }
 
-    .projects h6 {
-        width: 100%;
-        text-align: left;
-        border-bottom: 0.5px solid #ccc;
-        line-height: 0.1em;
-        margin-bottom: 40px !important;
-        background: #fff;
-
-    }
-
-    .line-hor {
-
-
-
-        padding-right: 20px;
-        background: #fff;
-        color: black;
-
-
-
-
-
-    }
 
 
 
@@ -342,11 +257,14 @@ body {
 
 
 
+
+
+
     .project-cards {
 
 
-        height: 230px;
-        width: 100%;
+        height: 180px;
+        width: 95%;
         background-size: cover;
         background-repeat: no-repeat;
         -webkit-transition: all .5s;
@@ -378,20 +296,14 @@ body {
 
     }
 
-    .vd-design .content div {
 
-        padding-top: 30%;
-    }
 
     .vd {
 
         margin-left: 40px;
     }
 
-    .vd-design:hover > .content {
 
-        display: inline-block;
-    }
 
     .bg-one {
         background-image: url(./img/BI.png);
@@ -429,49 +341,8 @@ body {
         background-position: center;
     }
 
-    .content {
 
 
-    cursor: pointer;
-    height: 230px;
-    font-family: Futura LT;
-    font-size: 0.9rem;
-    color: grey;
-    padding-bottom: 15px;
-    margin-bottom: 200px !important;
-    transition: all 0.5s ease;
-
-
-
-
-    }
-
-
-    .content div {
-
-    position: relative;
-    bottom: 0;
-    padding-right: 71px;
-    height: 100%;
-    object-fit: cover;
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
-    -o-transition: all .5s;
-    transition: all .5s;
-    padding-top: 250px;
-    }
-
-
-
-    .content p {
-        margin-top: 5px;
-        font-size: 0.7rem;
-        line-height: 1.1;
-        margin-bottom: 1px !important;
-        color: black;
-
-
-    }
 
 }
 
@@ -570,17 +441,16 @@ body {
 
     font-family: Futura;
     color: black;
-    font-size: 1rem !important;
+    font-size: 0.8rem !important;
     font-weight: 200;
+    margin-bottom:4px!important;
 
 }
 
-.year {
+.subs {
     font-family: Futura;
-    font-size: 0.6rem !important;
+    font-size: 0.55rem !important;
     color: grey;
-
-
 
 
 }
@@ -602,11 +472,61 @@ body {
 .logo {
 
     font-family: 'Futura LT';
-    font-size: 0.9em !important;
+    font-size: 0.8em !important;
     font-weight: 00 !important;
     color: black !important;
+    padding-top:0!important;
 
 
+}
+
+.books img{
+
+
+
+}
+
+.image-cropper {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.image-cropper img {
+    display: inline;
+    margin: 0 auto;
+
+    width: auto;
+}
+.story{
+
+    margin-right: 20px!important;
+}
+
+.story p{
+
+    border-top: 1px solid grey;
+    padding-top: 10px;
+    color:grey!important;
+}
+.about{
+
+
+    position: fixed;
+    z-index: 9999;
+    top:0px;
+    background-color: #FAFAFA;
+    width: 100%;
+    overflow-y: hidden!important;
+   height:100vh;
+}
+
+.fixit{
+
+    position: fixed;
+    left:4.16rem;
 }
 
 .pronounce {
@@ -616,12 +536,19 @@ body {
 
 }
 
+
+.socialmedia span{
+
+    margin-right: 10px;
+    cursor:pointer;
+}
+
 .navstyle1:hover {
 
     padding-left: 3%;
-    border-left: 2px solid black;
     margin-left: 10px;
     transition: 0.34s ease;
+    cursor:pointer;
 }
 
 .category {
@@ -648,6 +575,18 @@ body {
     object-fit: cover;
 
 
+
+}
+
+
+.inspire{
+
+   color: black;
+    background-color: #FAFAFA;
+    font-size: 0.8rem;
+    font-family: Futura;
+    margin-right: 40px;
+    padding: 20px;
 
 }
 
@@ -803,7 +742,8 @@ body {
  */
 .mainpage {
 
-    top: 40px !important;
+
+
 
 }
 
