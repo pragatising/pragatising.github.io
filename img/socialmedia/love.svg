@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="183" viewBox="0 0 230 183">
+  <g id="Group_13" data-name="Group 13" transform="translate(-1344 -670)">
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="230" height="183" transform="translate(1344 670)" fill="#fff" opacity="0"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(1345 671)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="91" cy="91" r="91" fill="#ff7979"/>
+      <path id="Icon_ionic-ios-heart" data-name="Icon ionic-ios-heart" d="M75.756,3.938h-.238A27.091,27.091,0,0,0,52.9,16.318,27.091,27.091,0,0,0,30.28,3.938h-.238a26.919,26.919,0,0,0-26.667,26.9c0,8.809,3.857,21.309,11.381,31.6C29.089,82.032,52.9,99.175,52.9,99.175S76.708,82.032,91.041,62.437c7.524-10.286,11.381-22.786,11.381-31.6A26.919,26.919,0,0,0,75.756,3.938Z" transform="translate(37.346 46.393)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
