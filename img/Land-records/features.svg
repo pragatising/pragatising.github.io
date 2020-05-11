@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="977" height="837" viewBox="0 0 977 837">
+  <defs>
+    <clipPath id="clip-primary_1">
+      <rect width="977" height="837"/>
+    </clipPath>
+  </defs>
+  <g id="primary_1" data-name="primary – 1" clip-path="url(#clip-primary_1)">
+    <rect width="977" height="837" fill="#fdfdfd"/>
+    <text id="Add_New_Plots" data-name="Add New Plots" transform="translate(347 352)" fill="#717171" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Add New Plots</tspan></text>
+    <text id="View_Records" data-name="View Records" transform="translate(347 127)" fill="#717171" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">View Records</tspan></text>
+    <text id="Update_Existing_Plots" data-name="Update Existing Plots" transform="translate(347 460)" fill="#717171" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Update Existing Plots</tspan></text>
+    <text id="Approve_updates_and_new_requests" data-name="Approve updates and new requests" transform="translate(347 572)" fill="#717171" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Approve updates and new requests</tspan></text>
+    <text id="Provide_Reports" data-name="Provide Reports" transform="translate(347 684)" fill="#717171" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Provide Reports</tspan></text>
+    <text id="Faceted_Search" data-name="Faceted Search" transform="translate(347 241)" fill="#717171" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Faceted Search</tspan></text>
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="59" height="54" rx="18" transform="translate(164 119)" fill="#ddfcf0"/>
+    <g id="Icon_ionic-ios-document" data-name="Icon ionic-ios-document" transform="translate(179.185 132.665)">
+      <path id="Path_21" data-name="Path 21" d="M21.5,8.623h4.3a.234.234,0,0,0,.237-.237h0A1.4,1.4,0,0,0,25.535,7.3L21.926,4.295a1.519,1.519,0,0,0-.974-.35h0a.349.349,0,0,0-.35.35V7.724A.9.9,0,0,0,21.5,8.623Z" transform="translate(-4.349 -0.002)" fill="#18cc87"/>
+      <path id="Path_22" data-name="Path 22" d="M15.023,7.722V3.938h-6.2A1.518,1.518,0,0,0,7.313,5.451V21.345a1.518,1.518,0,0,0,1.514,1.514H20.179a1.518,1.518,0,0,0,1.514-1.514V9.85H17.151A2.132,2.132,0,0,1,15.023,7.722Z" fill="#18cc87"/>
+    </g>
+    <rect id="Rectangle_25-2" data-name="Rectangle 25" width="59" height="54" rx="18" transform="translate(164 230)" fill="#ddfcf0"/>
+    <path id="Icon_map-search" data-name="Icon map-search" d="M19.022,15.825a9.5,9.5,0,1,0-3.2,3.2l6.447,6.447,3.2-3.2Zm-8.1.962a5.862,5.862,0,1,1,5.865-5.858,5.871,5.871,0,0,1-5.865,5.858Z" transform="translate(180.546 243.546)" fill="#18cc87"/>
+    <rect id="Rectangle_25-3" data-name="Rectangle 25" width="59" height="54" rx="18" transform="translate(164 341)" fill="#ddfcf0"/>
+    <path id="Icon_ionic-md-add" data-name="Icon ionic-md-add" d="M29.25,19.5H19.5v9.75h-3V19.5H6.75v-3H16.5V6.75h3V16.5h9.75Z" transform="translate(176 350)" fill="#18cc87" stroke="#18cc87" stroke-linecap="round" stroke-width="1"/>
+    <rect id="Rectangle_25-4" data-name="Rectangle 25" width="59" height="54" rx="18" transform="translate(164 452)" fill="#ddfcf0"/>
+    <path id="Icon_material-update" data-name="Icon material-update" d="M25,12.61H17.281L20.4,9.4A8.018,8.018,0,0,0,9.148,9.284a7.831,7.831,0,0,0,0,11.151,8,8,0,0,0,11.254,0,7.419,7.419,0,0,0,2.324-5.57H25A10.64,10.64,0,0,1,22,22.03a10.313,10.313,0,0,1-14.489,0A10.069,10.069,0,0,1,7.485,7.7a10.237,10.237,0,0,1,14.409,0L25,4.5ZM15.322,10.2v4.841l3.987,2.369-.82,1.378-4.875-2.893V10.2Z" transform="translate(178.248 464.248)" fill="#18cc87" stroke="#00c989" stroke-width="1"/>
+    <rect id="Rectangle_25-5" data-name="Rectangle 25" width="59" height="54" rx="18" transform="translate(164 563)" fill="#ddfcf0"/>
+    <path id="Icon_awesome-clipboard-check" data-name="Icon awesome-clipboard-check" d="M15.236,2.9H11.608a2.9,2.9,0,0,0-5.8,0H2.177A2.177,2.177,0,0,0,0,5.079V21.04a2.177,2.177,0,0,0,2.177,2.177H15.236a2.177,2.177,0,0,0,2.177-2.177V5.079A2.177,2.177,0,0,0,15.236,2.9ZM8.706,1.814A1.088,1.088,0,1,1,7.618,2.9,1.086,1.086,0,0,1,8.706,1.814Zm5.5,10.511-6.484,6.43a.545.545,0,0,1-.771,0L3.2,14.973a.545.545,0,0,1,0-.771l1.288-1.279a.545.545,0,0,1,.771,0l2.086,2.1,4.806-4.77a.545.545,0,0,1,.771,0l1.279,1.288A.545.545,0,0,1,14.2,12.325Z" transform="translate(184.794 576.392)" fill="#18cc87"/>
+    <rect id="Rectangle_25-6" data-name="Rectangle 25" width="59" height="54" rx="18" transform="translate(164 674)" fill="#ddfcf0"/>
+    <path id="Icon_awesome-database" data-name="Icon awesome-database" d="M17.913,2.925V4.752c0,1.611-4.012,2.925-8.956,2.925S0,6.363,0,4.752V2.925C0,1.314,4.012,0,8.956,0S17.913,1.314,17.913,2.925Zm0,4.113V11.15c0,1.611-4.012,2.925-8.956,2.925S0,12.761,0,11.15V7.037C1.924,8.362,5.446,8.979,8.956,8.979S15.989,8.362,17.913,7.037Zm0,6.4v4.113c0,1.611-4.012,2.925-8.956,2.925S0,19.158,0,17.547V13.435c1.924,1.325,5.446,1.942,8.956,1.942S15.989,14.76,17.913,13.435Z" transform="translate(184.794 690.764)" fill="#18cc87"/>
+  </g>
+</svg>

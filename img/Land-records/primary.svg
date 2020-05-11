@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="977" height="998" viewBox="0 0 977 998">
+  <defs>
+    <clipPath id="clip-primary">
+      <rect width="977" height="998"/>
+    </clipPath>
+  </defs>
+  <g id="primary" clip-path="url(#clip-primary)">
+    <rect width="977" height="998" fill="#f7f7f7"/>
+    <text id="Every_plant_has_its_own_way_of_organising_the_records." data-name="Every plant has its own way of organising the records." transform="translate(166 95)" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Every plant has its </tspan><tspan x="0" y="55">own way of </tspan><tspan x="0" y="85">organising the </tspan><tspan x="0" y="115">records.</tspan></text>
+    <text id="Some_plants_kept_the_records_with_banks_some_had_cabinets_allotted_for_them_some_had_hired_records_keeping_services." data-name="Some plants kept the records with banks, some had cabinets allotted for them, some had hired records keeping services." transform="translate(166 333)" font-size="25" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="25">Some plants kept the </tspan><tspan x="0" y="55">records with banks, </tspan><tspan x="0" y="85">some had cabinets </tspan><tspan x="0" y="115">allotted for them, some </tspan><tspan x="0" y="145">had hired records </tspan><tspan x="0" y="175">keeping services.</tspan></text>
+    <text id="Some_of_the_records_were_extremely_old_and_fragile._They_urgently_needed_digitalisation_and_data_extraction._" data-name="Some of the records were extremely old and fragile. They urgently needed digitalisation and data extraction. 
+" transform="translate(166 583)" font-size="25" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="25">Some of the records </tspan><tspan x="0" y="55">were extremely old and </tspan><tspan x="0" y="85">fragile. They urgently </tspan><tspan x="0" y="115">needed digitalisation </tspan><tspan x="0" y="145">and data extraction. </tspan></text>
+    <text id="Each_of_these_lands_had_many_plots_with_the_same_asset_number" data-name="Each of these lands had many plots with the same asset number" transform="translate(610 332)" font-size="25" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="25">Each of these lands </tspan><tspan x="0" y="55">had many plots with </tspan><tspan x="0" y="85">the same asset number</tspan></text>
+    <text id="Plant_heads_were_responsible_for_keeping_the_records_intact." data-name="Plant heads were responsible for keeping the records intact." transform="translate(606 583)" font-size="25" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="25">Plant heads were </tspan><tspan x="0" y="55">responsible for </tspan><tspan x="0" y="85">keeping the records </tspan><tspan x="0" y="115">intact.</tspan></text>
+    <text id="There_was_no_way_to_know_what_records_are_missing." data-name="There was no way to know what records are missing." transform="translate(610 801)" font-size="25" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="25">There was no way to </tspan><tspan x="0" y="55">know what records </tspan><tspan x="0" y="85">are missing.</tspan></text>
+    <text id="No_current_classification_existed_for_the_physical_records" data-name="No current classification existed for the physical records" transform="translate(166 804)" font-size="25" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="25">No current </tspan><tspan x="0" y="55">classification existed </tspan><tspan x="0" y="85">for the physical records</tspan></text>
+    <text id="Each_land_has_a_fixed_asset_id_in_SAP." data-name="Each land has a fixed asset id in SAP." transform="translate(606 95)" font-size="25" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="25">Each land has a fixed </tspan><tspan x="0" y="55">asset id in SAP.</tspan></text>
+    <text id="_01" data-name="01" transform="translate(86 86)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">01</tspan></text>
+    <text id="_05" data-name="05" transform="translate(521 86)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">05</tspan></text>
+    <text id="_02" data-name="02" transform="translate(86 325)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">02</tspan></text>
+    <text id="_03" data-name="03" transform="translate(86 579)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">03</tspan></text>
+    <text id="_04" data-name="04" transform="translate(86 797)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">04</tspan></text>
+    <text id="_07" data-name="07" transform="translate(517 579)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">07</tspan></text>
+    <text id="_08" data-name="08" transform="translate(521 797)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">08</tspan></text>
+    <text id="_06" data-name="06" transform="translate(521 325)" fill="#e0e0e0" font-size="40" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.021em"><tspan x="0" y="42">06</tspan></text>
+  </g>
+</svg>

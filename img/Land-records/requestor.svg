@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1199" viewBox="0 0 1920 1199">
+  <defs>
+    <clipPath id="clip-requestor">
+      <rect width="1920" height="1199"/>
+    </clipPath>
+  </defs>
+  <g id="requestor" clip-path="url(#clip-requestor)">
+    <rect width="1920" height="1199" fill="#fcfcfc"/>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(155 228)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(155 505)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(155 895)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(610 228)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(610 505)" fill="#f5f5f5" stroke="#e3e3e3" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(608 742)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(1041 740)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(1511 497)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(1029 505)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(1029 218)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="321" height="163" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="320" height="162" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1520 218)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="232" height="163" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="231" height="162" rx="17.5" fill="none"/>
+    </g>
+    <text id="Opens_the_web_application" data-name="Opens the web application" transform="translate(186 250)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Opens the web </tspan><tspan x="0" y="58">application</tspan></text>
+    <text id="Requestor_s_Task_Flow" data-name="Requestor’s Task Flow" transform="translate(155 86)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Requestor’s Task Flow</tspan></text>
+    <text id="Requestor_gets_notification_for_more_information" data-name="Requestor gets notification for more information" transform="translate(176 530)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Requestor gets </tspan><tspan x="0" y="58">notification for </tspan><tspan x="0" y="88">more information</tspan></text>
+    <text id="Requestor_gets_rejection_notification_" data-name="Requestor gets rejection notification " transform="translate(186 920)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Requestor gets </tspan><tspan x="0" y="58">rejection </tspan><tspan x="0" y="88">notification </tspan></text>
+    <text id="Searches_the_asset_land_by_asset_number" data-name="Searches the asset (land) by asset number" transform="translate(645 250)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Searches the </tspan><tspan x="0" y="58">asset (land) by </tspan><tspan x="0" y="88">asset number</tspan></text>
+    <text id="Requester_updates_the_fields" data-name="Requester updates the fields" transform="translate(655 530)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Requester </tspan><tspan x="0" y="58">updates the </tspan><tspan x="0" y="88">fields</tspan></text>
+    <text id="uploads_all_documents_and_and_other_information" data-name="uploads all documents and and other information" transform="translate(1081 240)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">uploads all </tspan><tspan x="0" y="58">documents and </tspan><tspan x="0" y="88">and other </tspan><tspan x="0" y="118">information</tspan></text>
+    <text id="Withdraws" transform="translate(668 800)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Withdraws</tspan></text>
+    <text id="Request_Closes" data-name="Request Closes" transform="translate(1100 800)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Request Closes</tspan></text>
+    <text id="Sends_the_request" data-name="Sends the request" transform="translate(1573 250)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Sends the </tspan><tspan x="0" y="58">request</tspan></text>
+    <text id="Sends_the_request-2" data-name="Sends the request" transform="translate(1081 530)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Sends the </tspan><tspan x="0" y="58">request</tspan></text>
+    <g id="Group_7" data-name="Group 7" transform="translate(165.207 1196.099) rotate(-90)">
+      <path id="Path_7" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(165.207 1466.099) rotate(-90)">
+      <path id="Path_7-2" data-name="Path 7" d="M895.352,244V464.107" transform="translate(0 0)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-2" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -129.618)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(634.207 1196.099) rotate(-90)">
+      <path id="Path_7-3" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-3" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(634.207 1466.099) rotate(-90)">
+      <path id="Path_7-4" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-4" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(627.207 1723.099) rotate(-90)">
+      <path id="Path_7-5" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-5" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(1106.207 1196.099) rotate(-90)">
+      <path id="Path_7-6" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-6" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <path id="Path_14" data-name="Path 14" d="M2132.15,64.946V312.378h57.505" transform="translate(-1553 506)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Line_1" data-name="Line 1" x2="1540" transform="translate(186.5 443.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_19" data-name="Path 19" d="M0,0V748.813H92.415" transform="translate(423.187 977.415) rotate(-90)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="4"/>
+    <path id="Path_20" data-name="Path 20" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(470.013 1872.099) rotate(-90)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Plant_head_approves" data-name="Plant head approves" transform="translate(1556 545)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="14.678" y="28">Plant head </tspan><tspan x="23.316" y="58">approves</tspan></text>
+    <g id="Group_22" data-name="Group 22" transform="translate(1070.207 1465.099) rotate(-90)">
+      <path id="Path_7-7" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-7" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <path id="Icon_ionic-ios-close-circle" data-name="Icon ionic-ios-close-circle" d="M18,3.375A14.625,14.625,0,1,0,32.625,18,14.623,14.623,0,0,0,18,3.375Zm3.705,19.92L18,19.589l-3.705,3.705a1.124,1.124,0,1,1-1.589-1.589L16.411,18l-3.705-3.705a1.124,1.124,0,0,1,1.589-1.589L18,16.411l3.705-3.705a1.124,1.124,0,1,1,1.589,1.589L19.589,18l3.705,3.705a1.129,1.129,0,0,1,0,1.589A1.116,1.116,0,0,1,21.705,23.295Z" transform="translate(1051.625 800.625)" fill="#ff4e4e"/>
+    <path id="Icon_ionic-ios-checkmark-circle" data-name="Icon ionic-ios-checkmark-circle" d="M18,3.375A14.625,14.625,0,1,0,32.625,18,14.623,14.623,0,0,0,18,3.375Zm7.488,10.582-9.4,9.443H16.08a1.27,1.27,0,0,1-.816.387,1.231,1.231,0,0,1-.823-.4L10.5,19.448a.28.28,0,0,1,0-.4L11.756,17.8a.272.272,0,0,1,.394,0l3.122,3.122,8.578-8.641a.278.278,0,0,1,.2-.084h0a.255.255,0,0,1,.2.084l1.23,1.273A.277.277,0,0,1,25.488,13.957Z" transform="translate(1523.625 548.625)" fill="#0bd350"/>
+  </g>
+</svg>

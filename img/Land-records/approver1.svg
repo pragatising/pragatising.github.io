@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1843" height="749" viewBox="0 0 1843 749">
+  <defs>
+    <clipPath id="clip-approver1">
+      <rect width="1843" height="749"/>
+    </clipPath>
+  </defs>
+  <g id="approver1" clip-path="url(#clip-approver1)">
+    <rect width="1843" height="749" fill="#fcfcfc"/>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(63 207)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(553 207)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(982 200)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(1485 197)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(1041 442)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(1485 455)" fill="#f5f5f5" stroke="#d8d8d8" stroke-width="1">
+      <rect width="268" height="153" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="267" height="152" rx="17.5" fill="none"/>
+    </g>
+    <text id="Opens_the_ticket" data-name="Opens the ticket" transform="translate(119 254)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Opens the </tspan><tspan x="0" y="58">ticket</tspan></text>
+    <text id="Reviews_the_request." data-name="Reviews the request." transform="translate(588 236)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Reviews the </tspan><tspan x="0" y="58">request.</tspan></text>
+    <text id="Reviews_the_document._Reviews_metadata._Cross_checks_with_SAP_Data._Gives_remark._Sends_to_approver_2_" data-name="Reviews the document.Reviews metadata.Cross checks with SAP Data.Gives remark.Sends to approver 2
+" transform="translate(553 408)" fill="#818181" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Reviews the document.</tspan><tspan x="0" y="60">Reviews metadata.</tspan><tspan x="0" y="95">Cross checks with SAP Data.</tspan><tspan x="0" y="130">Gives remark.</tspan><tspan x="0" y="165">Sends to approver 2</tspan></text>
+    <text id="Rejects" transform="translate(1057 253)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Rejects</tspan></text>
+    <text id="Accepts" transform="translate(1132 500)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Accepts</tspan></text>
+    <g id="Group_11" data-name="Group 11" transform="translate(98.207 1172.099) rotate(-90)">
+      <path id="Path_7" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(567.207 1172.099) rotate(-90)">
+      <path id="Path_7-2" data-name="Path 7" d="M895.352,244V413.943" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-2" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -157.194)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(1039.207 1172.099) rotate(-90)">
+      <path id="Path_7-3" data-name="Path 7" d="M895.552,244V572.612" transform="translate(-0.199 -110.891)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="4"/>
+      <path id="Path_9-3" data-name="Path 9" d="M883.687,488.314l11.465,11.465,11.466-11.465" transform="translate(0 -130.93)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <text id="Requestor_gets_notification" data-name="Requestor gets notification" transform="translate(1516 253)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Requestor gets </tspan><tspan x="0" y="58">notification</tspan></text>
+    <text id="Ticket_gets_assigned_to_approver_2" data-name="Ticket gets assigned to approver 2" transform="translate(1519 486)" font-size="25" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="25">Ticket gets </tspan><tspan x="0" y="55">assigned to </tspan><tspan x="0" y="85">approver 2</tspan></text>
+    <path id="Path_14" data-name="Path 14" d="M2132.15,64.946V312.378H2274.2" transform="translate(-1177 209)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="4"/>
+    <path id="Path_16" data-name="Path 16" d="M2132.15,64.946V312.378h57.505" transform="translate(-671 213)" fill="none" stroke="#707070" stroke-width="2" stroke-dasharray="4"/>
+    <path id="Path_15" data-name="Path 15" d="M4905.018,87.378H5026.36V-152.909" transform="translate(-3610 434)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="4"/>
+    <path id="Icon_ionic-ios-close-circle" data-name="Icon ionic-ios-close-circle" d="M18,3.375A14.625,14.625,0,1,0,32.625,18,14.623,14.623,0,0,0,18,3.375Zm3.705,19.92L18,19.589l-3.705,3.705a1.124,1.124,0,1,1-1.589-1.589L16.411,18l-3.705-3.705a1.124,1.124,0,0,1,1.589-1.589L18,16.411l3.705-3.705a1.124,1.124,0,1,1,1.589,1.589L19.589,18l3.705,3.705a1.129,1.129,0,0,1,0,1.589A1.116,1.116,0,0,1,21.705,23.295Z" transform="translate(1008.625 253.625)" fill="#ff4e4e"/>
+    <path id="Icon_ionic-ios-checkmark-circle" data-name="Icon ionic-ios-checkmark-circle" d="M18,3.375A14.625,14.625,0,1,0,32.625,18,14.623,14.623,0,0,0,18,3.375Zm7.488,10.582-9.4,9.443H16.08a1.27,1.27,0,0,1-.816.387,1.231,1.231,0,0,1-.823-.4L10.5,19.448a.28.28,0,0,1,0-.4L11.756,17.8a.272.272,0,0,1,.394,0l3.122,3.122,8.578-8.641a.278.278,0,0,1,.2-.084h0a.255.255,0,0,1,.2.084l1.23,1.273A.277.277,0,0,1,25.488,13.957Z" transform="translate(1089.625 500.625)" fill="#0bd350"/>
+    <text id="Approver_s_Task_Flow" data-name="Approver’s Task Flow" transform="translate(63 71)" font-size="28" font-family="FuturaLT-Book, Futura LT" letter-spacing="0.021em"><tspan x="0" y="28">Approver’s Task Flow</tspan></text>
+  </g>
+</svg>
