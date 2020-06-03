@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3368" height="1800" viewBox="0 0 3368 1800">
+  <defs>
+    <clipPath id="clip-Information_Architecture">
+      <rect width="3368" height="1800"/>
+    </clipPath>
+  </defs>
+  <g id="Information_Architecture" data-name="Information Architecture" clip-path="url(#clip-Information_Architecture)">
+    <rect width="3368" height="1800" fill="#f4f4f4"/>
+    <g id="Rectangle_473" data-name="Rectangle 473" transform="translate(2860 409)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="381" height="219" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="380" height="218" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_471" data-name="Rectangle 471" transform="translate(2200 415)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="384" height="176" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="383" height="175" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_470" data-name="Rectangle 470" transform="translate(1523 932)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="384" height="465" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="383" height="464" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_469" data-name="Rectangle 469" transform="translate(1523 415)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="384" height="347" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="383" height="346" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_466" data-name="Rectangle 466" transform="translate(837 415)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="384" height="148" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="383" height="147" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_467" data-name="Rectangle 467" transform="translate(841 703)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="384" height="105" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="383" height="104" rx="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_465" data-name="Rectangle 465" transform="translate(197 432)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="384" height="484" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="383" height="483" rx="2.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_453" data-name="Rectangle 453" width="391" height="109" rx="6" transform="translate(190 283)" fill="#dbdbdb"/>
+    <g id="Group_760" data-name="Group 760" transform="translate(-84 -382)">
+      <rect id="Rectangle_450" data-name="Rectangle 450" width="549" height="77" rx="7" transform="translate(125 532)" fill="#fa0087"/>
+      <text id="Quick_Scanning" data-name="Quick Scanning" transform="translate(161 543)" fill="#fff" font-size="40" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="92.031" y="42">Quick Scanning</tspan></text>
+    </g>
+    <g id="Group_761" data-name="Group 761" transform="translate(590 -382)">
+      <rect id="Rectangle_450-2" data-name="Rectangle 450" width="496" height="77" rx="7" transform="translate(125 532)" fill="#fa0087"/>
+      <text id="Incremental_Knowledge" data-name="Incremental Knowledge" transform="translate(113 540)" fill="#fff" font-size="40" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="44.967" y="42">Incremental Knowledge</tspan></text>
+    </g>
+    <g id="Group_764" data-name="Group 764" transform="translate(1264 -382)">
+      <rect id="Rectangle_450-3" data-name="Rectangle 450" width="525" height="77" rx="7" transform="translate(125 532)" fill="#fa0087"/>
+      <text id="Wine_Dictionary" data-name="Wine Dictionary" transform="translate(161 541)" fill="#fff" font-size="40" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="74.719" y="42">Wine Dictionary</tspan></text>
+    </g>
+    <text id="Wine_Information" data-name="Wine Information" transform="translate(240 319)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Wine </tspan></text>
+    <g id="Group_763" data-name="Group 763" transform="translate(1938 -382)">
+      <rect id="Rectangle_450-4" data-name="Rectangle 450" width="528" height="77" rx="7" transform="translate(125 532)" fill="#fa0087"/>
+      <text id="Write_Review" data-name="Write Review" transform="translate(161 544)" fill="#fff" font-size="40" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="104.813" y="42">Write Review</tspan></text>
+    </g>
+    <text id="Name_Pronunciation_Cost_Alcohol_Content_Rating_Reviews_Taste_Flavours_Grape_Ingredients_Complementing_food_Sommelier_s_Note_Write_Review_" data-name="Name
+Pronunciation
+Cost
+Alcohol Content
+Rating &amp; Reviews
+Taste
+Flavours
+Grape/Ingredients
+Complementing food
+Sommelier’s Note
+
+Write Review
+
+
+
+
+
+" transform="translate(240 469)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Name</tspan><tspan x="0" y="96">Pronunciation</tspan><tspan x="0" y="152">Cost</tspan><tspan x="0" y="208">Alcohol </tspan><tspan x="0" y="264">Content</tspan><tspan x="0" y="320">Rating &amp; </tspan><tspan x="0" y="376">Reviews</tspan></text>
+    <rect id="Rectangle_454" data-name="Rectangle 454" width="391" height="109" rx="6" transform="translate(837 283)" fill="#dbdbdb"/>
+    <text id="Sommelier_s_Advise" data-name="Sommelier’s Advise" transform="translate(885 319)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Sommelier’s </tspan></text>
+    <rect id="Rectangle_455" data-name="Rectangle 455" width="384" height="109" rx="6" transform="translate(837 579)" fill="#dbdbdb"/>
+    <text id="Wine_facts" data-name="Wine facts" transform="translate(887 615)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Wine </tspan></text>
+    <rect id="Rectangle_456" data-name="Rectangle 456" width="384" height="109" rx="6" transform="translate(837 832)" fill="#dbdbdb"/>
+    <text id="Expert_advise" data-name="Expert advise" transform="translate(887 868)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Expert </tspan></text>
+    <rect id="Rectangle_457" data-name="Rectangle 457" width="391" height="109" rx="6" transform="translate(1523 283)" fill="#dcdcdc"/>
+    <text id="Search_filters" data-name="Search &amp; filters" transform="translate(1574 319)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Search &amp; filters</tspan></text>
+    <text id="Name_Cost_Taste_Alcohol_Content_Rating_" data-name="Name 
+Cost
+Taste
+Alcohol Content
+Rating
+
+
+" transform="translate(1574 454)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Name </tspan><tspan x="0" y="96">Cost</tspan><tspan x="0" y="152">Taste</tspan><tspan x="0" y="208">Alcohol Content</tspan><tspan x="0" y="264">Rating</tspan></text>
+    <rect id="Rectangle_458" data-name="Rectangle 458" width="384" height="109" rx="6" transform="translate(1523 800)" fill="#dcdcdc"/>
+    <text id="Wine_Info" data-name="Wine Info" transform="translate(1573 836)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Wine Info</tspan></text>
+    <text id="Name_Pronunciation_Cost_Alcohol_Content_Rating_Reviews_Taste_Flavours_Grape_Ingredients_Complementing_food_Sommelier_s_Note_Write_Review" data-name="Name
+Pronunciation
+Cost
+Alcohol Content
+Rating &amp; Reviews
+Taste
+Flavours
+Grape/Ingredients
+Complementing food
+Sommelier’s Note
+
+Write Review" transform="translate(1586 949)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Name</tspan><tspan x="0" y="96">Pronunciation</tspan><tspan x="0" y="152">Cost</tspan><tspan x="0" y="208">Alcohol Content</tspan><tspan x="0" y="264">Rating &amp; </tspan><tspan x="0" y="320">Reviews</tspan><tspan x="0" y="376">Taste</tspan></text>
+    <rect id="Rectangle_459" data-name="Rectangle 459" width="391" height="109" rx="6" transform="translate(2200 283)" fill="#ddd"/>
+    <text id="Rating" transform="translate(2252 319)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Rating</tspan></text>
+    <text id="Rating_Comment_" data-name="Rating &amp; Comment
+" transform="translate(2253 451)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Rating &amp; </tspan><tspan x="0" y="96">Comment</tspan></text>
+    <g id="Group_765" data-name="Group 765" transform="translate(2600 -382)">
+      <rect id="Rectangle_450-5" data-name="Rectangle 450" width="516" height="77" rx="7" transform="translate(125 532)" fill="#fa0087"/>
+      <text id="Settings" transform="translate(161 547)" fill="#fff" font-size="40" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="148.627" y="42">Settings</tspan></text>
+    </g>
+    <rect id="Rectangle_460" data-name="Rectangle 460" width="386" height="109" rx="6" transform="translate(2855 283)" fill="#dedede"/>
+    <text id="Profile" transform="translate(2905 319)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Profile</tspan></text>
+    <text id="Name_Age_Email_id" data-name="Name
+Age
+Email id" transform="translate(2905 423)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Name</tspan><tspan x="0" y="96">Age</tspan><tspan x="0" y="152">Email id</tspan></text>
+    <rect id="Rectangle_461" data-name="Rectangle 461" width="386" height="109" rx="6" transform="translate(2855 655)" fill="#dedede"/>
+    <text id="Contact_us" data-name="Contact us" transform="translate(2905 691)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Contact us</tspan></text>
+    <rect id="Rectangle_462" data-name="Rectangle 462" width="386" height="109" rx="6" transform="translate(2855 804)" fill="#dedede"/>
+    <text id="Rate_this_app" data-name="Rate this app" transform="translate(2905 840)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Rate this app</tspan></text>
+    <rect id="Rectangle_463" data-name="Rectangle 463" width="386" height="109" rx="6" transform="translate(2855 953)" fill="#dedede"/>
+    <rect id="Rectangle_496" data-name="Rectangle 496" width="386" height="109" rx="6" transform="translate(2855 1092)" fill="#dedede"/>
+    <text id="Delete_Account" data-name="Delete Account" transform="translate(2905 979)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Delete Account</tspan></text>
+    <text id="Sign_Out" data-name="Sign Out" transform="translate(2905 1118)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Sign Out</tspan></text>
+    <text id="One_liner_advise" data-name="One liner advise" transform="translate(887 465)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">One liner advise</tspan></text>
+    <text id="Quick_facts" data-name="Quick facts" transform="translate(887 734)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Quick facts</tspan></text>
+    <g id="Rectangle_468" data-name="Rectangle 468" transform="translate(841 956)" fill="#fff" stroke="#dbdada" stroke-width="1">
+      <rect width="384" height="174" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="383" height="173" rx="2.5" fill="none"/>
+    </g>
+    <text id="Expert_opinions_short" data-name="Expert opinions short" transform="translate(887 982)" font-size="40" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="40">Expert opinions </tspan><tspan x="0" y="96">short</tspan></text>
+    <g id="Group_766" data-name="Group 766">
+      <path id="Path_8" data-name="Path 8" d="M6582.874,6238v117.12h80.1" transform="translate(-6466 -6011)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+      <path id="Path_9" data-name="Path 9" d="M6582.874,6238v311h80.1" transform="translate(-6466 -5886)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+    </g>
+    <g id="Group_769" data-name="Group 769">
+      <g id="Group_767" data-name="Group 767" transform="translate(640)">
+        <path id="Path_8-2" data-name="Path 8" d="M6582.874,6238v117.12h80.1" transform="translate(-6466 -6011)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+        <path id="Path_9-2" data-name="Path 9" d="M6582.874,6238v311h80.1" transform="translate(-6466 -5886)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+      </g>
+      <g id="Group_768" data-name="Group 768" transform="translate(640 309)">
+        <path id="Path_9-3" data-name="Path 9" d="M6582.874,6238v221h80.1" transform="translate(-6466 -5886)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+      </g>
+    </g>
+    <g id="Group_770" data-name="Group 770" transform="translate(686)">
+      <g id="Group_767-2" data-name="Group 767" transform="translate(756.874 227)">
+        <path id="Path_8-3" data-name="Path 8" d="M6582.874,6238v117.12h80.1" transform="translate(-6582.874 -6238)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+        <path id="Path_9-4" data-name="Path 9" d="M6582.874,6238v502.5h80.1" transform="translate(-6582.874 -6113)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+      </g>
+    </g>
+    <g id="Group_771" data-name="Group 771" transform="translate(1363)">
+      <g id="Group_767-3" data-name="Group 767" transform="translate(756.874 227)">
+        <path id="Path_8-4" data-name="Path 8" d="M6582.874,6238v117.12h80.1" transform="translate(-6582.874 -6238)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+        <path id="Path_9-5" data-name="Path 9" d="M6582.874,6238v160.5h80.1" transform="translate(-6582.874 -6113)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+      </g>
+    </g>
+    <g id="Group_772" data-name="Group 772" transform="translate(2774.874 228)">
+      <g id="Group_767-4" data-name="Group 767" transform="translate(0)">
+        <path id="Path_8-5" data-name="Path 8" d="M6582.874,6238v117.12h80.105" transform="translate(-6582.874 -6238)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+        <path id="Path_9-6" data-name="Path 9" d="M6582.874,6238v364h80.105" transform="translate(-6582.874 -6113.001)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+      </g>
+    </g>
+    <g id="Group_773" data-name="Group 773" transform="translate(2774.874 717)">
+      <g id="Group_767-5" data-name="Group 767" transform="translate(0)">
+        <path id="Path_8-6" data-name="Path 8" d="M6582.874,6238v145.78h80.105" transform="translate(-6582.874 -6238)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+        <path id="Path_9-7" data-name="Path 9" d="M6582.874,6238v165.5h80.105" transform="translate(-6582.874 -6113)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
