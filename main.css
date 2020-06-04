@@ -201,7 +201,7 @@ body {
     }
 
     .bg-7 {
-        background-image: url(./img/LRMS.svg);
+        background-image: url(./img/LRMScover.png);
         background-position: center;
     }
 
@@ -219,7 +219,7 @@ body {
 @media only screen and (max-width: 641px) {
     .design {
 
-        /*    margin: 0px !important;*/
+
         padding-right: 0 !important;
     }
 
@@ -239,11 +239,6 @@ body {
 
 
     .project-section {
-/*
-
-        margin-top: 45px !important;
-*/
-
     }
 
     .navstyle1 {
@@ -332,7 +327,7 @@ body {
     }
 
     .bg-7 {
-        background-image: url(./img/LRMS.png);
+        background-image: url(./img/LRMScover.png);
         background-position: center;
     }
 
@@ -721,31 +716,8 @@ body {
 
 }
 
-@media only screen and (max-width: 640px) {
-
-    .line-dotted {
-
-        margin-bottom: 0;
 
 
-    }
-
-    .line-dotted span {
-        margin-bottom: 0;
-    }
-}
-
-/* .high-light{
-  color: #007DFF ;
-
-}
- */
-.mainpage {
-
-
-
-
-}
 
 .light-grey {
 
