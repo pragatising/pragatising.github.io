@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2415" height="811" viewBox="0 0 2415 811">
+  <defs>
+    <clipPath id="clip-Process">
+      <rect width="2415" height="811"/>
+    </clipPath>
+  </defs>
+  <g id="Process" clip-path="url(#clip-Process)">
+    <rect width="2415" height="811" fill="#fdf8f5"/>
+    <text id="Desktop_Research" data-name="Desktop Research" transform="translate(150 447)" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Desktop Research</tspan></text>
+    <text id="Literature_Review" data-name="Literature Review" transform="translate(150 515)" fill="#898888" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Literature Review</tspan></text>
+    <text id="User_Research" data-name="User Research" transform="translate(556 447)" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">User Research</tspan></text>
+    <text id="Requirement_Gathering" data-name="Requirement Gathering" transform="translate(556 515)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Requirement Gathering</tspan></text>
+    <text id="Brainstorming_Sprints" data-name="Brainstorming Sprints" transform="translate(1065 515)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Brainstorming Sprints</tspan></text>
+    <text id="Mid-fidelity_Variations" data-name="Mid-fidelity Variations" transform="translate(1536 515)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Mid-fidelity Variations</tspan></text>
+    <text id="Guerrilla_Testing" data-name="Guerrilla Testing" transform="translate(2024 515)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Guerrilla Testing</tspan></text>
+    <text id="Comparative_Study" data-name="Comparative Study" transform="translate(556 583)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Comparative Study</tspan></text>
+    <text id="Sketches" transform="translate(1065 583)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Sketches</tspan></text>
+    <text id="Critique_Sessions" data-name="Critique Sessions" transform="translate(1536 583)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Critique Sessions</tspan></text>
+    <text id="Refinement" transform="translate(2024 583)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Refinement</tspan></text>
+    <text id="Wireframes" transform="translate(1065 651)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Wireframes</tspan></text>
+    <text id="High-fidelity" transform="translate(1536 651)" fill="#8e8e8e" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">High-fidelity</tspan></text>
+    <text id="Design" transform="translate(1062 447)" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Design</tspan></text>
+    <text id="Prototyping" transform="translate(1536 447)" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Prototyping</tspan></text>
+    <text id="Evaluation" transform="translate(2024 447)" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">Evaluation</tspan></text>
+    <g id="Icon_feather-book" data-name="Icon feather-book" transform="translate(208 230)">
+      <path id="Path_12" data-name="Path 12" d="M6,37.125A11.625,11.625,0,0,1,17.625,25.5H80.4" transform="translate(0 47.25)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="Path_13" data-name="Path 13" d="M17.625,3H80.4V96H17.625A11.625,11.625,0,0,1,6,84.375V14.625A11.625,11.625,0,0,1,17.625,3Z" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+    <g id="Icon_feather-users" data-name="Icon feather-users" transform="translate(595.5 228.5)">
+      <path id="Path_14" data-name="Path 14" d="M83.722,53.333V43.056A20.556,20.556,0,0,0,63.167,22.5H22.056A20.556,20.556,0,0,0,1.5,43.056V53.333" transform="translate(0 43.667)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_15" data-name="Path 15" d="M48.611,25.056A20.556,20.556,0,1,1,28.056,4.5,20.556,20.556,0,0,1,48.611,25.056Z" transform="translate(14.556 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_16" data-name="Path 16" d="M45.417,52.86V42.582A20.556,20.556,0,0,0,30,22.7" transform="translate(69.139 44.14)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_17" data-name="Path 17" d="M24,4.695a20.556,20.556,0,0,1,0,39.826" transform="translate(54.583 0.473)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    </g>
+    <g id="Group_142" data-name="Group 142" transform="translate(0 -103)">
+      <g id="Icon_feather-book-open" data-name="Icon feather-book-open" transform="translate(2044 331.5)">
+        <path id="Path_18" data-name="Path 18" d="M3,4.5H33.592A20.42,20.42,0,0,1,53.986,24.944V96.5a15.315,15.315,0,0,0-15.3-15.333H3Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <path id="Path_19" data-name="Path 19" d="M68.986,4.5H38.395A20.42,20.42,0,0,0,18,24.944V96.5A15.315,15.315,0,0,1,33.3,81.167h35.69Z" transform="translate(35.986)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <path id="Icon_feather-check" data-name="Icon feather-check" d="M56.124,9,21.664,43.46,6,27.8" transform="translate(2066.716 345.79)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+    <g id="Group_141" data-name="Group 141" transform="translate(-30 -96)">
+      <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(1582 329)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+        <rect width="122" height="90" rx="6" stroke="none"/>
+        <rect x="3" y="3" width="116" height="84" rx="3" fill="none"/>
+      </g>
+      <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(1610 346)" fill="none" stroke="#000" stroke-width="6">
+        <rect width="28" height="56" stroke="none"/>
+        <rect x="3" y="3" width="22" height="50" fill="none"/>
+      </g>
+      <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(1649 345)" fill="none" stroke="#000" stroke-width="6">
+        <rect width="28" height="29" stroke="none"/>
+        <rect x="3" y="3" width="22" height="23" fill="none"/>
+      </g>
+      <g id="Rectangle_32" data-name="Rectangle 32" transform="translate(1649 380)" fill="none" stroke="#000" stroke-width="6">
+        <rect width="28" height="22" stroke="none"/>
+        <rect x="3" y="3" width="22" height="16" fill="none"/>
+      </g>
+      <path id="Path_20" data-name="Path 20" d="M3563,5855v19.55" transform="translate(-1920 -5436)" fill="none" stroke="#000" stroke-width="6"/>
+      <path id="Path_21" data-name="Path 21" d="M3508.261,5875.033h44.169" transform="translate(-1888 -5436)" fill="none" stroke="#000" stroke-width="6"/>
+    </g>
+    <g id="Icon_feather-pen-tool" data-name="Icon feather-pen-tool" transform="translate(1062 230)">
+      <path id="Path_22" data-name="Path 22" d="M18,50.375,50.375,18,64.25,31.875,31.875,64.25Z" transform="translate(31.25 31.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="Path_23" data-name="Path 23" d="M77,53.875,70.063,19.188,3,3,19.188,70.063,53.875,77Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="Path_24" data-name="Path 24" d="M3,3,38.085,38.085" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="Path_25" data-name="Path 25" d="M32,22.75a9.25,9.25,0,1,1-9.25-9.25A9.25,9.25,0,0,1,32,22.75Z" transform="translate(21.875 22.094)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
