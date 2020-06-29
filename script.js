@@ -59,3 +59,27 @@ $("#close").click(function () {
 
 
 });
+
+$(".about-modal").click(function () {
+
+    $(".about1").fadeIn();
+     $(".mainpage1").fadeOut();
+
+
+
+
+
+
+});
+
+$("#close").click(function () {
+
+    $(".about1").fadeOut();
+     $(".mainpage1").fadeIn();
+
+
+
+
+
+
+});
