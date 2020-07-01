@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1031" height="362" viewBox="0 0 1031 362">
+  <defs>
+    <clipPath id="clip-designGuideline">
+      <rect width="1031" height="362"/>
+    </clipPath>
+  </defs>
+  <g id="designGuideline" clip-path="url(#clip-designGuideline)">
+    <rect width="1031" height="362" fill="#fcfcfc"/>
+    <text id="Eliminate_Typing" data-name="Eliminate Typing" transform="translate(122.5 182)" font-size="18" font-family="RobotoMono-Medium, Roboto Mono" font-weight="500"><tspan x="0" y="19">Eliminate </tspan><tspan x="0" y="43">Typing</tspan></text>
+    <text id="Contextual_sharing_of_contact" data-name="Contextual sharing of contact" transform="translate(747 182)" font-size="18" font-family="RobotoMono-Medium, Roboto Mono" font-weight="500"><tspan x="0" y="19">Contextual </tspan><tspan x="0" y="43">sharing of </tspan><tspan x="0" y="67">contact</tspan></text>
+    <text id="Easy_search_finding_each_other" data-name="Easy search/finding each other" transform="translate(321.5 182)" font-size="18" font-family="RobotoMono-Medium, Roboto Mono" font-weight="500"><tspan x="0" y="19">Easy search/</tspan><tspan x="0" y="43">finding each </tspan><tspan x="0" y="67">other</tspan></text>
+    <text id="Contact_hub_which_includes_social_media" data-name="Contact hub which includes social media" transform="translate(535.5 182)" font-size="18" font-family="RobotoMono-Medium, Roboto Mono" font-weight="500"><tspan x="0" y="19">Contact hub </tspan><tspan x="0" y="43">which </tspan><tspan x="0" y="67">includes </tspan><tspan x="0" y="91">social media</tspan></text>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="748" height="39" rx="19.5" transform="translate(117 71)" fill="#ccfaeb"/>
+    <text id="Design_Guidelines" data-name="Design Guidelines" transform="translate(163 78)" font-size="18" font-family="RobotoMono-Medium, Roboto Mono" font-weight="500"><tspan x="0" y="19">Design Guidelines</tspan></text>
+  </g>
+</svg>

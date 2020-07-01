@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="942" height="293" viewBox="0 0 942 293">
+  <defs>
+    <clipPath id="clip-feedback1">
+      <rect width="942" height="293"/>
+    </clipPath>
+  </defs>
+  <g id="feedback1" clip-path="url(#clip-feedback1)">
+    <rect width="942" height="293" fill="#f7f7f7"/>
+    <text id="Privacy_Concerns._People_should_be_able_to_remove_the_app_Social_Media" data-name="Privacy Concerns. People should be able to remove the app Social Media" transform="translate(62 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">Privacy </tspan><tspan x="0" y="32">Concerns. People </tspan><tspan x="0" y="50">should be able </tspan><tspan x="0" y="68">to remove the </tspan><tspan x="0" y="86">app Social Media</tspan></text>
+    <text id="Nearby_discovery_can_be_supported_by_clear_labels." data-name="Nearby discovery can be supported by clear labels." transform="translate(302 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">Nearby </tspan><tspan x="0" y="32">discovery can </tspan><tspan x="0" y="50">be supported </tspan><tspan x="0" y="68">by clear </tspan><tspan x="0" y="86">labels.</tspan></text>
+    <text id="Users_were_excited_about_the_solution_and_said_they_are_very_likely_to_use." data-name="Users were excited about the solution, and said they are very likely to use." transform="translate(527 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">Users were </tspan><tspan x="0" y="32">excited about </tspan><tspan x="0" y="50">the solution, </tspan><tspan x="0" y="68">and said they </tspan><tspan x="0" y="86">are very </tspan><tspan x="0" y="104">likely to use.</tspan></text>
+    <text id="Both_users_said_they_don_t_have_Linkedin_on_their_phone_so_it_s_great_to_have_a_hub_instead." data-name="Both users said they don’t have Linkedin on their phone, so it’s great to have a hub instead." transform="translate(752 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">Both users said </tspan><tspan x="0" y="32">they don’t have </tspan><tspan x="0" y="50">Linkedin on </tspan><tspan x="0" y="68">their phone, so </tspan><tspan x="0" y="86">it’s great to </tspan><tspan x="0" y="104">have a hub </tspan><tspan x="0" y="122">instead.</tspan></text>
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="58" height="36" rx="18" transform="translate(62 56)" fill="#dbefc7"/>
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="58" height="36" rx="18" transform="translate(292 56)" fill="#dbefc7"/>
+    <rect id="Rectangle_48" data-name="Rectangle 48" width="58" height="36" rx="18" transform="translate(522 56)" fill="#dbefc7"/>
+    <rect id="Rectangle_49" data-name="Rectangle 49" width="58" height="36" rx="18" transform="translate(752 56)" fill="#dbefc7"/>
+    <text id="_01" data-name="01" transform="translate(91 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">01</tspan></text>
+    <text id="_02" data-name="02" transform="translate(321 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">02</tspan></text>
+    <text id="_03" data-name="03" transform="translate(551 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">03</tspan></text>
+    <text id="_04" data-name="04" transform="translate(781 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">04</tspan></text>
+  </g>
+</svg>

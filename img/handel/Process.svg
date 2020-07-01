@@ -1,40 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1119" height="408" viewBox="0 0 1119 408">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="942" height="293" viewBox="0 0 942 293">
   <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Process);
+      }
+
+      .cls-2 {
+        font-size: 15px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: RobotoMono-Bold, Roboto Mono;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 13px;
+      }
+
+      .cls-4 {
+        fill: #414141;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: RobotoMono-Regular, Roboto Mono;
+      }
+
+      .cls-5 {
+        fill: #434343;
+      }
+
+      .cls-6 {
+        fill: #f5f9ff;
+      }
+    </style>
     <clipPath id="clip-Process">
-      <rect width="1119" height="408"/>
+      <rect width="942" height="293"/>
     </clipPath>
   </defs>
-  <g id="Process" clip-path="url(#clip-Process)">
-    <rect width="1119" height="408" fill="#f7f7f7"/>
-    <rect id="Rectangle_24" data-name="Rectangle 24" width="158" height="36" rx="18" transform="translate(58 329)" fill="#ebebeb"/>
-    <rect id="Rectangle_25" data-name="Rectangle 25" width="156" height="36" rx="18" transform="translate(321 329)" fill="#ebebeb"/>
-    <rect id="Rectangle_26" data-name="Rectangle 26" width="155" height="36" rx="18" transform="translate(611 329)" fill="#ebebeb"/>
-    <rect id="Rectangle_27" data-name="Rectangle 27" width="147" height="36" rx="18" transform="translate(873 329)" fill="#ebebeb"/>
-    <text id="Research" transform="translate(59 57)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Research</tspan></text>
-    <text id="_2_Weeks" data-name="2 Weeks" transform="translate(94 335)" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="19">2 Weeks</tspan></text>
-    <text id="_1_Week" data-name="1 Week" transform="translate(365 335)" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="19">1 Week</tspan></text>
-    <text id="_2_Weeks-2" data-name="2 Weeks" transform="translate(655 335)" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="19">2 Weeks</tspan></text>
-    <text id="_2_Weeks-3" data-name="2 Weeks" transform="translate(912 335)" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="19">2 Weeks</tspan></text>
-    <text id="Ideation" transform="translate(322 57)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Ideation</tspan></text>
-    <text id="Design" transform="translate(612 57)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Design</tspan></text>
-    <text id="Evaluation" transform="translate(878 57)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Evaluation</tspan></text>
-    <text id="Semi-structured_interviews" data-name="Semi-structured interviews" transform="translate(59 144)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Semi-structured interviews</tspan></text>
-    <text id="Journey_Mapping" data-name="Journey Mapping" transform="translate(322 144)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Journey Mapping</tspan></text>
-    <text id="Task_flows" data-name="Task flows" transform="translate(612 144)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Task flows</tspan></text>
-    <text id="Think-out_loud" data-name="Think-out loud" transform="translate(878 144)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Think-out loud</tspan></text>
-    <text id="Comparative_Study" data-name="Comparative Study" transform="translate(59 181)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Comparative Study</tspan></text>
-    <text id="User_Personas" data-name="User Personas" transform="translate(322 181)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">User Personas</tspan></text>
-    <text id="Wireframing" transform="translate(612 181)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Wireframing</tspan></text>
-    <text id="Iteration" transform="translate(878 181)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Iteration</tspan></text>
-    <text id="Affinity_Mapping" data-name="Affinity Mapping" transform="translate(59 218)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Affinity Mapping</tspan></text>
-    <text id="Design_guidelines" data-name="Design guidelines" transform="translate(322 218)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Design guidelines</tspan></text>
-    <text id="Feedback_Sessions" data-name="Feedback Sessions" transform="translate(612 218)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Feedback Sessions</tspan></text>
-    <text id="Prototyping" transform="translate(612 255)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Prototyping</tspan></text>
-    <text id="Final_Design" data-name="Final Design" transform="translate(878 218)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Final Design</tspan></text>
-    <text id="Sketching_concepts" data-name="Sketching concepts" transform="translate(322 255)" font-size="18" font-family="FuturaLT-Book, Futura LT"><tspan x="0" y="18">Sketching concepts</tspan></text>
-    <rect id="Rectangle_28" data-name="Rectangle 28" width="167" height="8" rx="4" transform="translate(59 90)" fill="#e5dbff"/>
-    <rect id="Rectangle_29" data-name="Rectangle 29" width="167" height="8" rx="4" transform="translate(324 90)" fill="#bfa9f7"/>
-    <rect id="Rectangle_30" data-name="Rectangle 30" width="167" height="8" rx="4" transform="translate(612 90)" fill="#9e7bfc"/>
-    <rect id="Rectangle_31" data-name="Rectangle 31" width="167" height="8" rx="4" transform="translate(880 90)" fill="#7946fd"/>
+  <g id="Process" class="cls-1">
+    <rect class="cls-6" width="942" height="293"/>
+    <text id="TEAM" class="cls-2" transform="translate(43 49)"><tspan x="0" y="0">TEAM</tspan></text>
+    <text id="PROCESS-2" data-name="PROCESS" class="cls-2" transform="translate(345 49)"><tspan x="0" y="0">PROCESS</tspan></text>
+    <text id="Sprint_01" data-name="Sprint 01" class="cls-2" transform="translate(345 97)"><tspan x="0" y="0">Sprint 01</tspan></text>
+    <text id="Sprint_02" data-name="Sprint 02" class="cls-2" transform="translate(493 97)"><tspan x="0" y="0">Sprint 02</tspan></text>
+    <text id="Sprint_03" data-name="Sprint 03" class="cls-2" transform="translate(641 97)"><tspan x="0" y="0">Sprint 03</tspan></text>
+    <text id="Sprint_04" data-name="Sprint 04" class="cls-2" transform="translate(789 97)"><tspan x="0" y="0">Sprint 04</tspan></text>
+    <text id="Pragati" class="cls-3" transform="translate(43 97)"><tspan x="0" y="0">Pragati</tspan></text>
+    <text id="Designer" class="cls-4" transform="translate(133 97)"><tspan x="0" y="0">Designer</tspan></text>
+    <text id="Project_Management" data-name="Project Management" class="cls-4" transform="translate(133 138)"><tspan x="0" y="0">Project Management</tspan></text>
+    <text id="Interviews_Comparative_Analysis_Ideation_Wireframing_" data-name="Interviews
+
+Comparative
+Analysis 
+
+Ideation &amp; 
+Wireframing
+" class="cls-5" transform="translate(345 138)"><tspan x="0" y="0">Interviews</tspan><tspan x="0" y="18"></tspan><tspan x="0" y="36">Comparative</tspan><tspan x="0" y="54">Analysis </tspan><tspan x="0" y="72"></tspan><tspan x="0" y="90">Ideation &amp; </tspan><tspan x="0" y="108">Wireframing</tspan><tspan x="0" y="126"></tspan></text>
+    <text id="High-fidelity_Prototyping_Feedback_Sessions_" data-name="High-fidelity
+Prototyping
+
+Feedback
+Sessions
+" class="cls-5" transform="translate(493 138)"><tspan x="0" y="0">High-fidelity</tspan><tspan x="0" y="18">Prototyping</tspan><tspan x="0" y="36"></tspan><tspan x="0" y="54">Feedback</tspan><tspan x="0" y="72">Sessions</tspan><tspan x="0" y="90"></tspan></text>
+    <text id="Testing_Iteration_Development_" data-name="Testing
+
+Iteration
+
+Development
+
+" class="cls-5" transform="translate(641 138)"><tspan x="0" y="0">Testing</tspan><tspan x="0" y="18"></tspan><tspan x="0" y="36">Iteration</tspan><tspan x="0" y="54"></tspan><tspan x="0" y="72">Development</tspan><tspan x="0" y="90"></tspan><tspan x="0" y="108"></tspan></text>
+    <text id="Development_Testing_Iteration_" data-name="Development
+
+Testing
+
+Iteration
+
+" class="cls-5" transform="translate(789 138)"><tspan x="0" y="0">Development</tspan><tspan x="0" y="18"></tspan><tspan x="0" y="36">Testing</tspan><tspan x="0" y="54"></tspan><tspan x="0" y="72">Iteration</tspan><tspan x="0" y="90"></tspan><tspan x="0" y="108"></tspan></text>
+    <text id="Developer" class="cls-4" transform="translate(133 185)"><tspan x="0" y="0">Developer</tspan></text>
+    <text id="Developer-2" data-name="Developer" class="cls-4" transform="translate(133 231)"><tspan x="0" y="0">Developer</tspan></text>
+    <text id="Kenneth" class="cls-3" transform="translate(43 138)"><tspan x="0" y="0">Kenneth</tspan></text>
+    <text id="Phalguna" class="cls-3" transform="translate(43 185)"><tspan x="0" y="0">Phalguna</tspan></text>
+    <text id="Wyndham" class="cls-3" transform="translate(43 231)"><tspan x="0" y="0">Wyndham</tspan></text>
   </g>
 </svg>

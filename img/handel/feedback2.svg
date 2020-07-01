@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="942" height="293" viewBox="0 0 942 293">
+  <defs>
+    <clipPath id="clip-feedback2">
+      <rect width="942" height="293"/>
+    </clipPath>
+  </defs>
+  <g id="feedback2" clip-path="url(#clip-feedback2)">
+    <rect width="942" height="293" fill="#f7f7f7"/>
+    <text id="The_Edit_Button_on_Review_screen_created_a_click_depth._People_couldn_t_tell_if_they_could_edit_the_info_on_the_fly." data-name="The Edit Button on Review screen   created a click depth. People couldn’t tell if they could edit the info on the fly." transform="translate(62 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">The Edit Button on </tspan><tspan x="0" y="32" xml:space="preserve">Review screen   </tspan><tspan x="0" y="50">created a click </tspan><tspan x="0" y="68">depth. People </tspan><tspan x="0" y="86">couldn’t tell if </tspan><tspan x="0" y="104">they could edit </tspan><tspan x="0" y="122">the info on the </tspan><tspan x="0" y="140">fly.</tspan></text>
+    <text id="Blue_ton_for_all_icons_causes_decision_lag_in_differentiating_the_icons" data-name="Blue ton for all icons causes decision lag in differentiating the icons" transform="translate(302 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">Blue ton for </tspan><tspan x="0" y="32">all icons </tspan><tspan x="0" y="50">causes decision </tspan><tspan x="0" y="68">lag in </tspan><tspan x="0" y="86">differentiating </tspan><tspan x="0" y="104">the icons</tspan></text>
+    <text id="Users_were_unable_to_tell_the_difference_between_add_to_contact_and_save_as_business_card." data-name="Users were unable to tell the difference between add to contact and save as business card." transform="translate(527 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">Users were </tspan><tspan x="0" y="32">unable to tell </tspan><tspan x="0" y="50">the difference </tspan><tspan x="0" y="68">between add to </tspan><tspan x="0" y="86">contact and </tspan><tspan x="0" y="104">save as </tspan><tspan x="0" y="122">business card.</tspan></text>
+    <text id="Context_label_for_location_was_confusing._Label_needed_more_clarity." data-name="Context label for location was confusing. Label needed more clarity." transform="translate(752 131)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="14">Context label </tspan><tspan x="0" y="32">for location was </tspan><tspan x="0" y="50">confusing. Label </tspan><tspan x="0" y="68">needed more </tspan><tspan x="0" y="86">clarity.</tspan></text>
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="58" height="36" rx="18" transform="translate(62 56)" fill="#dbefc7"/>
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="58" height="36" rx="18" transform="translate(292 56)" fill="#dbefc7"/>
+    <rect id="Rectangle_48" data-name="Rectangle 48" width="58" height="36" rx="18" transform="translate(522 56)" fill="#dbefc7"/>
+    <rect id="Rectangle_49" data-name="Rectangle 49" width="58" height="36" rx="18" transform="translate(752 56)" fill="#dbefc7"/>
+    <text id="_01" data-name="01" transform="translate(91 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">01</tspan></text>
+    <text id="_02" data-name="02" transform="translate(321 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">02</tspan></text>
+    <text id="_03" data-name="03" transform="translate(551 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">03</tspan></text>
+    <text id="_04" data-name="04" transform="translate(781 79)" fill="#414141" font-size="13" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="-7.801" y="0">04</tspan></text>
+  </g>
+</svg>
