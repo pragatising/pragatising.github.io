@@ -1,58 +1,43 @@
-@charset "UTF-8";
-@charset "iso-8859-15";
-@import url(//db.onlinewebfonts.com/c/30294b8401300f8aa798b2a02892bd2e?family=Futura+LT);
-@import url(//db.onlinewebfonts.com/c/6daaeacf369f5c15f3308f379ab05b77?family=Futura+LT) @import url(//db.onlinewebfonts.com/c/5520b2b875202fac53dc536bc7aca367?family=Futura);
-@import url(//db.onlinewebfonts.com/c/12fd3b0603f2ab22d6bf2bed80521841?family=Futura+LT);
-
-@font-face {
-    font-family: "Futura LT";
-    src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot");
-    src: url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.eot?#iefix") format("embedded-opentype"),
-        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff2") format("woff2"),
-        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.woff") format("woff"),
-        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.ttf") format("truetype"),
-        url("//db.onlinewebfonts.com/t/12fd3b0603f2ab22d6bf2bed80521841.svg#Futura LT") format("svg");
-}
-
 @media only screen and (min-width: 769px) {
 
-
 /*newindex*/
-.titleProject{
+    .titleProject {
 
-    font-family: Futura;
-    font-size:1.2rem;
-    color:black;
-    margin-bottom: 20px;
-}
+        font-family: "Poppins";
+        font-size: 1.5rem;
+        color: black;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
 
-.divider{
-    border-right: 1px dashed #DADADA;
-
-}
-.projectImgs{
-
-    margin-bottom: 124px;
-    cursor: pointer;
-
-
-
-}
-
-    .projectImgs img{
-         border-radius: 4px;
+    .divider {
+        border-right: 1px dashed #DADADA;
 
     }
-.nameProject{
 
-    height: 360px;
-    margin-left: -34px;
-}
+    .projectImgs {
+
+        margin-bottom: 124px;
+        cursor: pointer;
 
 
-    .close_icon{
-      border-radius: 50%;
 
+    }
+
+    .projectImgs img {
+        border-radius: 4px;
+
+    }
+
+    .nameProject {
+
+        height: 360px;
+        margin-left: -34px;
+    }
+
+
+    .close_icon {
+        border-radius: 50%;
         width: 1.8em;
         height: 1.8em;
         border: 2px solid transparent;
@@ -64,40 +49,44 @@
         border: 2px solid #3BFF00;
         margin: 2px;
         padding: 2px;
-         width: 1.5em;
+        width: 1.5em;
         height: 1.5em;
     }
 
-    }
+}
+
 .stretch {
-   width: 100%;
-   border-bottom: 1px solid #000;
-   line-height: 0.1em;
-   margin: 10px 0 20px;
+    width: 100%;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
 }
 
 .stretch span {
-    background:#fff;
+    background: #fff;
     padding-right: 30px;
 }
-.projectYear{
+
+.projectYear {
     font-family: "Roboto Mono";
-    font-size: 0.8rem;
-    color:black;
+    font-size: 0.7rem;
+    color: black;
     text-align: right;
     margin-right: 10px;
 
 }
 
-.socialIcons a{
-     transition: transform 0.5s ease, box-shadow 0.5s ease;
+.socialIcons a {
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
 
 }
-.socialIcons a:hover{
+
+.socialIcons a:hover {
 
     border-bottom: 2px solid #3BFF00;
 }
-.borderYear{
+
+.borderYear {
     border-bottom: 1px solid black;
     padding-top: 5px;
     width: 20px;
@@ -105,43 +94,67 @@
     float: right;
 }
 
-.subTitle{
+.subTitle {
 
-    font-family: Futura;
+    font-family: "Roboto Mono";
     font-size: 0.7rem;
-    color:grey;
-
-    background:#fff;
-   margin-right: 10px;
-
+    color: grey;
     background: #fff;
-
-
+    margin-right: 10px;
+    background: #fff;
 
 }
 
-.numberProject{
+.numberProject {
     font-family: "Roboto Mono";
     color: black;
     font-size: 40px;
 
 }
 
-.topic{
-      margin-bottom: 50px!important;
+.topic {
+    margin-bottom: 50px !important;
     cursor: pointer;
 
 }
 
-.mainpage1{
+.mainpage1 {
 
     background-color: #fff;
- background-size: 20px 20px;
-  background-image:linear-gradient(to right, #fbfbfb 0.8px, transparent 0.8px), linear-gradient(to bottom, #fafafa 0.8px, transparent 0.8px);
+    background-size: 20px 20px;
+    background-image: linear-gradient(to right, #fbfbfb 0.8px, transparent 0.8px), linear-gradient(to bottom, #fafafa 0.8px, transparent 0.8px);
 }
 
+.logoHover {
 
-.timeline{
+    position: absolute;
+    z-index: 10;
+    padding: 20px;
+    background-color: dimgrey;
+    display: none;
+    color: white;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    border-radius: 4px;
+}
+
+.logoHover span {
+    font-family: "Roboto Mono";
+    font-size: 0.8rem;
+}
+
+.logoHover img {
+    width: 20px;
+}
+
+.logo:hover + .logoHover {
+
+    display: block;
+}
+
+.timeline {
 
     border-right: 1px solid grey;
     height: 100%;
@@ -150,80 +163,80 @@
     margin-left: 400px;
 }
 
-    .smalldevice{
-        display: none;
-    }
+.smalldevice {
+    display: none;
+}
 
 }
 
 
 @media only screen and (max-width: 767px) {
 
-    .sideMenu{
+    .sideMenu {
 
-        display:none!important;
+        display: none !important;
 
     }
 
-    .web_info{
+    .web_info {
 
-        display: none!important;
-            }
+        display: none !important;
+    }
 
-    .yearAxis{
-        display: none!important;
+    .yearAxis {
+        display: none !important;
     }
 
     .stretch span {
-    background:#fff;
-    padding-right: 30px;
-}
+        background: #fff;
+        padding-right: 30px;
+    }
 
     .stretch {
-   width: 100%;
-   border-bottom: 1px solid #000;
-   line-height: 0.1em;
-   margin: 10px 0 20px;
-}
+        width: 100%;
+        border-bottom: 1px solid #000;
+        line-height: 0.1em;
+        margin: 10px 0 20px;
+    }
 
-    .smalldevice{
+    .smalldevice {
 
         margin-bottom: 80px;
-        margin-top:40px!important;
+        margin-top: 40px !important;
     }
 
 
-    .projectYear{
-    font-family: "Roboto Mono";
-    font-size: 0.7rem;
-    color:black;
-    text-align: right;
-    margin-right: 10px;
-}
+    .projectYear {
+        font-family: "Roboto Mono";
+        font-size: 0.7rem;
+        color: black;
+        text-align: right;
+        margin-right: 10px;
+    }
 
 
-    .subTitle{
+    .subTitle {
 
-    font-family: Futura;
-    font-size: 0.7rem;
-    color:grey;
+        font-family: "Poppins";
+        font-size: 0.7rem;
+        color: grey;
 
-    background:#fff;
-    margin-right: 10px;
+        background: #fff;
+        margin-right: 10px;
 
-    background: #fff;
+        background: #fff;
 
-}
+    }
 
 
-.titleProject{
+    .titleProject {
 
-    font-family: Futura;
-    font-size:1.2rem;
-    color:black;
-    margin-bottom: 20px;
+        font-family: "Poppins";
+        font-size: 1.2rem;
+        color: black;
+        margin-bottom: 20px;
 
-}
+    }
 
 }
 
@@ -251,7 +264,7 @@
 
 * {
 
-    font-family: 'Futura LT', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
 }
 
@@ -264,11 +277,13 @@ body {
 
 }
 
-
+.navbar-dropdown {
+    font-size: 0.8rem !important;
+}
 
 .navstyle {
-    font-family: 'Futura LT';
-    font-size: 0.9em !important;
+    font-family: 'Poppins';
+    font-size: 0.8em !important;
     font-weight: 00 !important;
     color: black !important;
     padding-right: 10vw;
@@ -279,22 +294,23 @@ body {
 
 
 
-    .hor-line{
+    .hor-line {
 
-        border-top: 0.01rem solid grey;
-        margin-top: 11px!important;
+        border-top: 0.01rem solid black;
+        margin-top: 11px !important;
         height: 0.5px;
         width: 800px;
-        margin-left:8px;
-/*        margin-right: 0px!important;*/
+        margin-left: 8px;
+        /*        margin-right: 0px!important;*/
     }
 
 
-    .projects{
+    .projects {
 
-        font-family: Futura;
-        font-size:0.7rem;
-        color:black;
+        font-family: "Roboto Mono";
+        font-size: 0.7rem;
+        color: black;
+        font-weight: 500;
     }
 
 
@@ -326,7 +342,7 @@ body {
     }
 
     .navstyle1 {
-        font-family: 'Futura';
+        font-family: 'Poppins';
         font-size: 0.8em !important;
         font-weight: 00 !important;
         color: #adacac;
@@ -355,7 +371,7 @@ body {
     }
 
 
-    .content{
+    .content {
 
 
         background-color: #FAFAFA;
@@ -363,9 +379,9 @@ body {
         width: 95%;
     }
 
-    .content div{
+    .content div {
 
-        padding :20px;
+        padding: 20px;
     }
 
 
@@ -460,12 +476,11 @@ body {
 
 
 
-    .project-section {
-    }
+    .project-section {}
 
     .navstyle1 {
-        font-family: 'Futura';
-        font-size: 0.9em !important;
+        font-family: 'Poppins';
+        font-size: 0.8em !important;
         font-weight: 00 !important;
         color: #CCC;
         padding-right: 10vw;
@@ -473,7 +488,9 @@ body {
     }
 
 
-
+    .navbar-item {
+        font-family: "Poppins" !important;
+    }
 
 
 
@@ -489,7 +506,7 @@ body {
         -o-transition: all .5s;
         transition: all .5s;
         cursor: pointer;
- margin-bottom: 150px !important;
+        margin-bottom: 150px !important;
 
 
 
@@ -563,10 +580,7 @@ body {
 
 }
 
-.column img{
-
-
-}
+.column img {}
 
 .spacing {
     margin-top: 80px !important;
@@ -575,10 +589,20 @@ body {
 
 
 .parafont {
-    font-family: 'Futura LT';
-    font-size: 0.9em !important;
-
+    font-family: 'Poppins';
+    font-size: 1em !important;
+    line-height: 180% !important;
     color: black !important;
+}
+
+.top_header{
+     font-family: "Roboto Mono" !important;
+    font-size: 2em !important;
+    color: black !important;
+    margin-bottom: 30px;
+     margin-top: 100px;
+    font-weight: bold;
+    text-transform: capitalize;
 }
 
 .lightgrey {
@@ -587,38 +611,37 @@ body {
 }
 
 .parafont1 {
-    font-family: 'Futura LT';
-    font-size: 0.9em !important;
-
+    font-family: "Poppins";
+    font-size: 1em !important;
+    line-height: 180% !important;
     color: grey !important;
     margin-bottom: 80px;
-/*    margin-top: 20px !important;*/
-
-
 
 }
 
 .subtitlefont {
 
-    font-family: 'Futura' !important;
-    font-size: 1em !important;
-/*    font-weight: 800!important;*/
+    font-family: "Roboto Mono" !important;
+    font-size: 1.2em !important;
     color: black !important;
-    /* border-bottom: 2px solid black; */
+    margin-bottom: 50px;
+    font-weight: bold;
 
-    margin-bottom: 20px;
 
-}
-.has-carousel{
-    border:none!important;
-}
-.slider-navigation-next{
-    background-color: black!important;
 }
 
-.slider-navigation-previous{
-    background-color: black!important;
+.has-carousel {
+    border: none !important;
 }
+
+.slider-navigation-next {
+    background-color: black !important;
+}
+
+.slider-navigation-previous {
+    background-color: black !important;
+}
+
 .underline-index {
     width: 100%;
     border-top: 1px solid #f3f3f3;
@@ -637,7 +660,7 @@ body {
 
 
 .subtitlefont1 {
-    font-family: 'Futura LT' !important;
+    font-family: 'Poppins' !important;
     font-size: 0.9em !important;
     font-weight: bold !important;
     color: black !important;
@@ -656,16 +679,16 @@ body {
 .project-title {
 
 
-    font-family: Futura;
+    font-family: "Poppins";
     color: black;
     font-size: 0.8rem !important;
     font-weight: 200;
-    margin-bottom:4px!important;
+    margin-bottom: 4px !important;
 
 }
 
 .subs {
-    font-family: Futura;
+    font-family: "Poppins";
     font-size: 0.55rem !important;
     color: grey;
 
@@ -688,18 +711,18 @@ body {
 
 .logo {
 
-    font-family: 'Futura LT';
+    font-family: "Poppins";
     font-size: 0.8em !important;
     font-weight: 00 !important;
     color: black !important;
-    padding-top:0!important;
+    padding-top: 0 !important;
 
 
 }
 
-.storySection{
+.storySection {
 
-    margin-bottom: 70px!important;
+    margin-bottom: 70px !important;
 }
 
 .image-cropper {
@@ -716,63 +739,67 @@ body {
 
     width: auto;
 }
-.story{
 
-    margin-right: 20px!important;
+.story {
+
+    margin-right: 20px !important;
 }
 
-.dividerAbout{
-     border-left: 1px dashed #DADADA;
+.dividerAbout {
+    border-left: 1px dashed #DADADA;
 
 }
-.story p{
+
+.story p {
 
     border-top: 1px solid grey;
     padding-top: 10px;
-    color:grey!important;
+    color: grey !important;
 }
 
-.aboutFont{
+.aboutFont {
     font-family: "Roboto Mono";
     font-size: 0.8rem;
     color: black;
 }
 
 
-.about{
+.about {
 
 
     position: fixed;
     z-index: 9999;
-    top:0px;
+    top: 0px;
 
     width: 100%;
 
-   height:100vh;
+    height: 100vh;
 }
 
-.about1{
+.about1 {
 
 
     position: absolute;
     z-index: 9999;
-    top:0px;
+    top: 0px;
     width: 100%;
-     overflow-y:visible!important;
-     background-color: #fff;
- background-size: 20px 20px;
-  background-image:linear-gradient(to right, #fafafa 1px, transparent 1px), linear-gradient(to bottom, #fafafa 1px, transparent 1px);
+    overflow-y: visible !important;
+    background-color: #fff;
+    background-size: 20px 20px;
+    background-image: linear-gradient(to right, #fafafa 1px, transparent 1px), linear-gradient(to bottom, #fafafa 1px, transparent 1px);
 
 }
 
-.aboutFont b, i{
+.aboutFont b,
+i {
 
     font-family: "Roboto Mono";
 }
-.fixit{
+
+.fixit {
 
     position: fixed;
-    left:4.16rem;
+    left: 4.16rem;
 }
 
 .pronounce {
@@ -783,10 +810,10 @@ body {
 }
 
 
-.socialmedia span{
+.socialmedia span {
 
     margin-right: 10px;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .navstyle1:hover {
@@ -794,7 +821,7 @@ body {
     padding-left: 3%;
     margin-left: 10px;
     transition: 0.34s ease;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .category {
@@ -803,7 +830,7 @@ body {
     color: grey;
     border-radius: 20px;
     padding: 10px 20px 10px 20px;
-    font-family: Futura LT;
+    font-family: "Poppins";
 
     cursor: pointer !important;
     text-transform: uppercase;
@@ -825,12 +852,12 @@ body {
 }
 
 
-.inspire{
+.inspire {
 
-   color: black;
+    color: black;
     background-color: #FAFAFA;
     font-size: 0.8rem;
-    font-family: Futura;
+    font-family: "Poppins";
     margin-right: 40px;
     padding: 20px;
 
@@ -850,7 +877,7 @@ body {
 
 .books h6 {
     text-align: left;
-    font-family: Futura;
+    font-family: "Poppins";
     font-size: 1.2rem;
     color: black;
     text-transform: capitalize;
@@ -864,7 +891,7 @@ body {
 .author {
 
     text-align: left;
-    font-family: Futura;
+    font-family: "Poppins";
     font-size: 0.8rem;
     margin-bottom: 20px;
     padding-bottom: 15px;
@@ -873,7 +900,7 @@ body {
 }
 
 .quote {
-    font-family: Futura;
+    font-family: "Poppins";
     font-size: 0.8rem;
     text-align: left;
     margin-bottom: 15px;
@@ -886,7 +913,7 @@ body {
 }
 
 .recom {
-    font-family: Futura LT;
+    font-family: "Poppins";
     font-size: 0.8rem;
     text-align: left;
     color: grey;
@@ -897,7 +924,7 @@ body {
     font-size: 0.8rem;
     font-weight: light;
 
-    font-family: Futura LT !important;
+    font-family: "Poppins" !important;
 
 }
 
@@ -905,18 +932,18 @@ body {
 .books-red {
 
     text-align: left;
-    font-family: Futura LT;
+    font-family: "Poppins";
     color: black;
     margin-bottom: 100px;
 
 }
 
-.gallery{
+.gallery {
 
     height: 350px;
     object-fit: cover;
-     margin-bottom: 80px! important;
-     margin-top: 80px!important;
+    margin-bottom: 80px ! important;
+    margin-top: 80px !important;
 
 }
 
@@ -976,7 +1003,7 @@ body {
 
 }
 
-.mainpage{
+.mainpage {
     margin-bottom: 200px;
 }
 
@@ -1003,7 +1030,7 @@ body {
 
 
 #my-name {
-    font-family: 'Futura PT', serif;
+    font-family: '"Poppins" PT', serif;
     font-weight: 200;
     text-align: center;
     color: black;
@@ -1023,11 +1050,12 @@ body {
     border-bottom: 0.1vw solid black;
     padding-top: 1vw;
 }
-.line-anime{
-    margin-top:100px;
+
+.line-anime {
+    margin-top: 100px;
 }
-.
-.navbar-dropdown {
+
+. .navbar-dropdown {
     box-shadow: none !important;
     border-top: 1px solid black !important;
     padding: 9px;
@@ -1053,13 +1081,96 @@ body {
 
 .project-info {
 
-    font-family: Futura LT;
+    font-family: "Roboto Mono";
     color: black;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     letter-spacing: 1px;
     margin-bottom: 100px;
-    padding-right:60px;
+    padding-right: 60px;
 
+}
+
+.reddish {
+
+    padding: 10px 20px 10px 20px;
+    background-color: #FFEDED;
+    color: #FA3838;
+    border-radius: 30px;
+}
+
+.greenish {
+
+    padding: 10px 20px 10px 20px;
+    background-color: #BEF5B6;
+    color: black;
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+
+.highlightGreen{
+    padding-top:1px;
+    padding-bottom:1px;
+    padding-left:4px;
+    padding-right:4px;
+    background-color: #BEF5B6;
+    color: black;
+    border-radius: 30px;
+
+
+}
+
+.highlightTeal{
+    padding-top:1px;
+    padding-bottom:1px;
+    padding-left:4px;
+    padding-right:4px;
+    background-color: #ACF7E0;
+    color: black;
+    border-radius: 30px;
+
+
+}
+
+.highlightBlue{
+
+    padding-top:1px;
+    padding-bottom:1px;
+    padding-left:4px;
+    padding-right:4px;
+    background-color: #D3EAFD;
+    color: black;
+    border-radius: 30px;
+
+}
+
+.highlightYellow{
+
+    padding-top:1px;
+    padding-bottom:1px;
+    padding-left:4px;
+    padding-right:4px;
+    background-color: #FAEC9C;
+    color: black;
+    border-radius: 30px;
+}
+
+.bluish {
+
+    padding: 10px 20px 10px 20px;
+    background-color: #D3EAFD;
+    color: black;
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+.yellowish {
+
+    padding: 10px 20px 10px 20px;
+    background-color: #AEFCDE;
+    color: black;
+    border-radius: 30px;
+    margin-right: 20px;
 }
 
 .divide {
@@ -1082,7 +1193,7 @@ body {
 
 
 .footer-text {
-    font-family: Futura LT;
+    font-family: "Poppins";
     font-weight: 100;
     color: grey;
     font-size: 12px;
@@ -1104,7 +1215,7 @@ body {
 
 .heading-para {
 
-    font-family: 'Futura PT', sans-serif;
+    font-family: '"Poppins" PT', sans-serif;
     font-size: 1em;
 }
 
@@ -1113,7 +1224,7 @@ body {
  */
 
 .page-title {
-    font-family: Futura PT;
+    font-family: "Poppins"PT;
     font-size: 1.8vw;
     font-weight: 500;
     margin-top: 5%;
@@ -1136,7 +1247,7 @@ body {
 
 .page-title-sub {
 
-    font-family: Futura PT;
+    font-family: "Poppins"PT;
     font-size: 1.1em;
     font-weight: 200;
     color: grey;
@@ -1146,7 +1257,7 @@ body {
 
 .sub-head {
 
-    font-family: Futura PT;
+    font-family: "Poppins"PT;
     font-size: 1.2em;
     font-weight: 300;
     margin-top: 10%;
@@ -1201,7 +1312,7 @@ handel specific */
 
 #button::after {
     content: "\2191";
-    font-family: Futura;
+    font-family: "Poppins";
     font-weight: normal;
     font-style: normal;
     font-size: 1em;
