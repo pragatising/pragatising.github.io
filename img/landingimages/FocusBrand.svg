@@ -29,7 +29,7 @@
           <rect id="ChatBoxBG-2" data-name="ChatBoxBG" width="334" height="339" rx="20" transform="translate(0 0)" fill="#fff"/>
         </g>
         <g id="Chatboxhead" transform="translate(0 0.146)">
-          <path id="HeaderBox" d="M20,0H314.145a20,20,0,0,1,20,20V36.476a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z"/>
+          <rect id="HeaderBox" width="334.145" height="36.476"/>
           <text id="BI_Analyst" data-name="BI Analyst" transform="translate(33.821 7.244)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">BI Analyst</tspan></text>
           <g id="Cross" transform="translate(304.456 12.655)">
             <line id="Line_2" data-name="Line 2" x2="11.911" y2="11.166" transform="matrix(0.999, 0.052, -0.052, 0.999, 0.584, 0.068)" fill="none" stroke="#fff" stroke-width="4"/>
@@ -64,7 +64,7 @@
           </g>
         </g>
         <g id="Component" transform="translate(53 0)">
-          <rect id="Rectangle_95" data-name="Rectangle 95" width="203" height="91" rx="14" fill="#f8f8f8"/>
+          <rect id="Rectangle_95" data-name="Rectangle 95" width="203" height="90" rx="13" fill="#ededed"/>
           <text id="Hi_Joe_Decatur_Sales_Data_is_available_" data-name="Hi Joe! Decatur Sales Data is available!" transform="translate(19 20)" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">Hi Joe! Decatur Sales </tspan><tspan x="0" y="40">Data is available!</tspan></text>
         </g>
       </g>
