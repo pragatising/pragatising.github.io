@@ -5,7 +5,7 @@
 /*newindex*/
     .titleProject {
 
-        font-family: "Poppins";
+        font-family: "Roboto";
         font-size: 1.5rem;
         color: black;
         margin-bottom: 20px;
@@ -219,7 +219,7 @@
 
     .subTitle {
 
-        font-family: "Poppins";
+        font-family: "Roboto";
         font-size: 0.7rem;
         color: grey;
 
@@ -233,7 +233,7 @@
 
     .titleProject {
 
-        font-family: "Poppins";
+        font-family: "Roboto";
         font-size: 1.2rem;
         color: black;
         margin-bottom: 20px;
@@ -266,7 +266,7 @@
 
 * {
 
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -284,7 +284,7 @@ body {
 }
 
 .navstyle {
-    font-family: 'Poppins';
+    font-family: 'Roboto';
     font-size: 0.8em !important;
     font-weight: 00 !important;
     color: black !important;
@@ -344,7 +344,7 @@ body {
     }
 
     .navstyle1 {
-        font-family: 'Poppins';
+        font-family: 'Roboto';
         font-size: 0.8em !important;
         font-weight: 00 !important;
         color: #adacac;
@@ -481,7 +481,7 @@ body {
     .project-section {}
 
     .navstyle1 {
-        font-family: 'Poppins';
+        font-family: 'Roboto';
         font-size: 0.8em !important;
         font-weight: 00 !important;
         color: #CCC;
@@ -491,7 +491,7 @@ body {
 
 
     .navbar-item {
-        font-family: "Poppins" !important;
+        font-family: "Roboto" !important;
     }
 
 
@@ -591,7 +591,7 @@ body {
 
 
 .parafont {
-    font-family: 'Poppins';
+    font-family: 'Roboto';
     font-size: 1em !important;
     line-height: 180% !important;
     color: black !important;
@@ -613,7 +613,7 @@ body {
 }
 
 .parafont1 {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 1em !important;
     line-height: 180% !important;
     color: grey !important;
@@ -662,7 +662,7 @@ body {
 
 
 .subtitlefont1 {
-    font-family: 'Poppins' !important;
+    font-family: 'Roboto' !important;
     font-size: 0.9em !important;
     font-weight: bold !important;
     color: black !important;
@@ -681,7 +681,7 @@ body {
 .project-title {
 
 
-    font-family: "Poppins";
+    font-family: "Roboto";
     color: black;
     font-size: 0.8rem !important;
     font-weight: 200;
@@ -690,7 +690,7 @@ body {
 }
 
 .subs {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 0.55rem !important;
     color: grey;
 
@@ -713,7 +713,7 @@ body {
 
 .logo {
 
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 0.8em !important;
     font-weight: 00 !important;
     color: black !important;
@@ -832,7 +832,7 @@ i {
     color: grey;
     border-radius: 20px;
     padding: 10px 20px 10px 20px;
-    font-family: "Poppins";
+    font-family: "Roboto";
 
     cursor: pointer !important;
     text-transform: uppercase;
@@ -859,7 +859,7 @@ i {
     color: black;
     background-color: #FAFAFA;
     font-size: 0.8rem;
-    font-family: "Poppins";
+    font-family: "Roboto";
     margin-right: 40px;
     padding: 20px;
 
@@ -879,7 +879,7 @@ i {
 
 .books h6 {
     text-align: left;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 1.2rem;
     color: black;
     text-transform: capitalize;
@@ -893,7 +893,7 @@ i {
 .author {
 
     text-align: left;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 0.8rem;
     margin-bottom: 20px;
     padding-bottom: 15px;
@@ -902,7 +902,7 @@ i {
 }
 
 .quote {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 0.8rem;
     text-align: left;
     margin-bottom: 15px;
@@ -915,7 +915,7 @@ i {
 }
 
 .recom {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 0.8rem;
     text-align: left;
     color: grey;
@@ -926,7 +926,7 @@ i {
     font-size: 0.8rem;
     font-weight: light;
 
-    font-family: "Poppins" !important;
+    font-family: "Roboto" !important;
 
 }
 
@@ -934,7 +934,7 @@ i {
 .books-red {
 
     text-align: left;
-    font-family: "Poppins";
+    font-family: "Roboto";
     color: black;
     margin-bottom: 100px;
 
@@ -1032,7 +1032,7 @@ i {
 
 
 #my-name {
-    font-family: '"Poppins" PT', serif;
+    font-family: '"Roboto" PT', serif;
     font-weight: 200;
     text-align: center;
     color: black;
@@ -1195,7 +1195,7 @@ i {
 
 
 .footer-text {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 100;
     color: grey;
     font-size: 12px;
@@ -1217,7 +1217,7 @@ i {
 
 .heading-para {
 
-    font-family: '"Poppins" PT', sans-serif;
+    font-family: '"Roboto" PT', sans-serif;
     font-size: 1em;
 }
 
@@ -1226,7 +1226,7 @@ i {
  */
 
 .page-title {
-    font-family: "Poppins"PT;
+    font-family: "Roboto"PT;
     font-size: 1.8vw;
     font-weight: 500;
     margin-top: 5%;
@@ -1249,7 +1249,7 @@ i {
 
 .page-title-sub {
 
-    font-family: "Poppins"PT;
+    font-family: "Roboto"PT;
     font-size: 1.1em;
     font-weight: 200;
     color: grey;
@@ -1259,7 +1259,7 @@ i {
 
 .sub-head {
 
-    font-family: "Poppins"PT;
+    font-family: "Roboto"PT;
     font-size: 1.2em;
     font-weight: 300;
     margin-top: 10%;
@@ -1314,7 +1314,7 @@ handel specific */
 
 #button::after {
     content: "\2191";
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: normal;
     font-style: normal;
     font-size: 1em;
