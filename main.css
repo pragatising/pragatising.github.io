@@ -1,3 +1,5 @@
+
+
 @media only screen and (min-width: 769px) {
 
 /*newindex*/
@@ -68,7 +70,7 @@
 }
 
 .projectYear {
-    font-family: "Roboto Mono";
+   font-family: 'Roboto Mono', monospace;
     font-size: 0.7rem;
     color: black;
     text-align: right;
@@ -96,7 +98,7 @@
 
 .subTitle {
 
-    font-family: "Roboto Mono";
+    font-family: 'Roboto Mono', monospace;
     font-size: 0.7rem;
     color: grey;
     background: #fff;
@@ -106,7 +108,7 @@
 }
 
 .numberProject {
-    font-family: "Roboto Mono";
+    font-family: 'Roboto Mono', monospace;
     color: black;
     font-size: 40px;
 
@@ -141,7 +143,7 @@
 }
 
 .logoHover span {
-    font-family: "Roboto Mono";
+    font-family: 'Roboto Mono', monospace;
     font-size: 0.8rem;
 }
 
@@ -207,7 +209,7 @@
 
 
     .projectYear {
-        font-family: "Roboto Mono";
+       font-family: 'Roboto Mono', monospace;
         font-size: 0.7rem;
         color: black;
         text-align: right;
@@ -307,7 +309,7 @@ body {
 
     .projects {
 
-        font-family: "Roboto Mono";
+       font-family: 'Roboto Mono', monospace;
         font-size: 0.7rem;
         color: black;
         font-weight: 500;
@@ -596,7 +598,7 @@ body {
 }
 
 .top_header{
-     font-family: "Roboto Mono" !important;
+    font-family: 'Roboto Mono', monospace;
     font-size: 2em !important;
     color: black !important;
     margin-bottom: 30px;
@@ -621,7 +623,7 @@ body {
 
 .subtitlefont {
 
-    font-family: "Roboto Mono" !important;
+   font-family: 'Roboto Mono', monospace;
     font-size: 1.2em !important;
     color: black !important;
     margin-bottom: 50px;
@@ -758,7 +760,7 @@ body {
 }
 
 .aboutFont {
-    font-family: "Roboto Mono";
+   font-family: 'Roboto Mono', monospace;
     font-size: 0.8rem;
     color: black;
 }
@@ -793,7 +795,7 @@ body {
 .aboutFont b,
 i {
 
-    font-family: "Roboto Mono";
+    font-family: 'Roboto Mono', monospace;
 }
 
 .fixit {
@@ -1081,7 +1083,7 @@ i {
 
 .project-info {
 
-    font-family: "Roboto Mono";
+   font-family: 'Roboto Mono', monospace;
     color: black;
     font-size: 0.7rem;
     letter-spacing: 1px;
