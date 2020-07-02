@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2415" height="811" viewBox="0 0 2415 811">
+  <defs>
+    <clipPath id="clip-Challenges2">
+      <rect width="2415" height="811"/>
+    </clipPath>
+  </defs>
+  <g id="Challenges2" clip-path="url(#clip-Challenges2)">
+    <rect width="2415" height="811" fill="#fdf8f5"/>
+    <text id="CHALLENGES" transform="translate(556 231)" fill="#838383" font-size="30" font-family="RobotoMono-Medium, Roboto Mono" font-weight="500"><tspan x="0" y="31">CHALLENGES</tspan></text>
+    <text id="It_was_of_utmost_importance_that_our_design_should_be_scalable_and_as_more_history_is_collected_the_design_should_seamlessly_accommodate_it_" data-name="It was of utmost importance that our design should be scalable and as more history is collected, the design should seamlessly accommodate it!" transform="translate(556 341)" font-size="50" font-family="PlayfairDisplay-Regular, Playfair Display"><tspan x="0" y="54">It was of utmost importance that our design should be </tspan><tspan x="0" y="121">scalable and as more history is collected, the design should </tspan><tspan x="0" y="188">seamlessly accommodate it!</tspan></text>
+    <path id="Icon_awesome-star-of-life" data-name="Icon awesome-star-of-life" d="M33.187,23.515,23.629,18l9.558-5.515a1.125,1.125,0,0,0,.412-1.537l-2.251-3.9a1.126,1.126,0,0,0-1.538-.412l-9.558,5.515V1.125A1.125,1.125,0,0,0,19.126,0h-4.5A1.125,1.125,0,0,0,13.5,1.125V12.154L3.94,6.64A1.126,1.126,0,0,0,2.4,7.052l-2.251,3.9a1.125,1.125,0,0,0,.412,1.537L10.121,18,.563,23.515a1.125,1.125,0,0,0-.412,1.537l2.251,3.9a1.127,1.127,0,0,0,1.538.412L13.5,23.846V34.875A1.125,1.125,0,0,0,14.624,36h4.5a1.125,1.125,0,0,0,1.126-1.125V23.846L29.81,29.36a1.126,1.126,0,0,0,1.538-.412l2.251-3.9A1.124,1.124,0,0,0,33.187,23.515Z" transform="translate(423 231.5)"/>
+  </g>
+</svg>
