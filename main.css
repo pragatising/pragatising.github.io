@@ -1,8 +1,6 @@
-
-
 @media only screen and (min-width: 769px) {
 
-/*newindex*/
+    /*newindex*/
     .titleProject {
 
         font-family: "Roboto";
@@ -21,20 +19,29 @@
 
         margin-bottom: 124px;
         cursor: pointer;
+        margin-right: 14px;
+    }
 
 
+    .yearAxis {
 
+        margin-top: 36px;
+        margin-right:0!important;
+        padding-right:0!important;
     }
 
     .projectImgs img {
         border-radius: 4px;
 
+
     }
 
     .nameProject {
 
-        height: 400px;
-        margin-top:44px
+
+        margin-top: 104px;
+        margin-left:0;
+        padding-left:0!important;
     }
 
 
@@ -70,7 +77,7 @@
 }
 
 .projectYear {
-   font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
     font-size: 0.7rem;
     color: black;
     text-align: right;
@@ -172,76 +179,6 @@
 }
 
 
-@media only screen and (max-width: 768px) {
-
-    .sideMenu {
-
-        display: none !important;
-
-    }
-
-    .web_info {
-
-        display: none !important;
-    }
-
-    .yearAxis {
-        display: none !important;
-    }
-
-    .stretch span {
-        background: #fff;
-        padding-right: 30px;
-    }
-
-    .stretch {
-        width: 100%;
-        border-bottom: 1px solid #000;
-        line-height: 0.1em;
-        margin: 10px 0 20px;
-    }
-
-    .smalldevice {
-
-        margin-bottom: 80px;
-        margin-top: 40px !important;
-    }
-
-
-    .projectYear {
-       font-family: 'Roboto Mono', monospace;
-        font-size: 0.7rem;
-        color: black;
-        text-align: right;
-        margin-right: 10px;
-    }
-
-
-    .subTitle {
-
-        font-family: "Roboto";
-        font-size: 0.7rem;
-        color: grey;
-
-        background: #fff;
-        margin-right: 10px;
-
-        background: #fff;
-
-    }
-
-
-    .titleProject {
-
-        font-family: "Roboto";
-        font-size: 2rem;
-        color: black;
-        margin-bottom: 20px;
-
-    }
-
-}
-
 /*newindex*/
 
 .footer {
@@ -309,7 +246,7 @@ body {
 
     .projects {
 
-       font-family: 'Roboto Mono', monospace;
+        font-family: 'Roboto Mono', monospace;
         font-size: 0.8rem;
         color: black;
         font-weight: 500;
@@ -598,12 +535,12 @@ body {
     color: black !important;
 }
 
-.top_header{
+.top_header {
     font-family: 'Roboto Mono', monospace;
     font-size: 2em !important;
     color: black !important;
     margin-bottom: 30px;
-     margin-top: 100px;
+    margin-top: 100px;
     font-weight: bold;
     text-transform: capitalize;
 }
@@ -625,13 +562,13 @@ body {
 
 .subtitlefont {
 
-   font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
     font-size: 1.2em !important;
     color: black !important;
     margin-bottom: 30px;
     font-weight: bold;
-     margin-top: 70px;
-      text-transform: capitalize;
+    margin-top: 70px;
+    text-transform: capitalize;
 
 
 }
@@ -702,29 +639,31 @@ body {
 
 }
 
-.takeAway{
+.takeAway {
 
-border-left: 4px solid dodgerblue;
-padding-left:80px!important;
-padding-top:40px;
-padding-bottom:30px;
-padding-right:60px!important;
-background-color: #fafafa;
-border-radius: 5px;
-margin-top:60px!important;
+    border-left: 4px solid dodgerblue;
+    padding-left: 80px !important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-right: 60px !important;
+    background-color: #fafafa;
+    border-radius: 5px;
+    margin-top: 60px !important;
 }
 
-img{
+img {
 
-    margin-top:40px;
+    margin-top: 40px;
 
 }
-ul,li{
+
+ul,
+li {
     font-family: 'Roboto Mono', monospace;
-color:black;
-    list-style:circle;
+    color: black;
+    list-style: circle;
     font-size: 1rem;
-    margin-bottom: 10px!important;
+    margin-bottom: 10px !important;
 }
 
 .cover-images {
@@ -740,7 +679,7 @@ color:black;
 
 .logo {
 
-    font-family: "Roboto Mono"!important;
+    font-family: "Roboto Mono" !important;
     font-size: 0.8em !important;
     font-weight: 500 !important;
     color: black !important;
@@ -787,7 +726,7 @@ color:black;
 }
 
 .aboutFont {
-   font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
     font-size: 0.8rem;
     color: black;
 }
@@ -1110,7 +1049,7 @@ i {
 
 .project-info {
 
-   font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
     color: black;
     font-size: 0.7rem;
     letter-spacing: 1px;
@@ -1137,11 +1076,11 @@ i {
 }
 
 
-.highlightGreen{
-    padding-top:1px;
-    padding-bottom:1px;
-    padding-left:4px;
-    padding-right:4px;
+.highlightGreen {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
     background-color: #BEF5B6;
     color: black;
     border-radius: 30px;
@@ -1149,11 +1088,11 @@ i {
 
 }
 
-.highlightTeal{
-    padding-top:1px;
-    padding-bottom:1px;
-    padding-left:4px;
-    padding-right:4px;
+.highlightTeal {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
     background-color: #ACF7E0;
     color: black;
     border-radius: 30px;
@@ -1161,24 +1100,24 @@ i {
 
 }
 
-.highlightBlue{
+.highlightBlue {
 
-    padding-top:1px;
-    padding-bottom:1px;
-    padding-left:4px;
-    padding-right:4px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
     background-color: #D3EAFD;
     color: black;
     border-radius: 30px;
 
 }
 
-.highlightYellow{
+.highlightYellow {
 
-    padding-top:1px;
-    padding-bottom:1px;
-    padding-left:4px;
-    padding-right:4px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
     background-color: #FAEC9C;
     color: black;
     border-radius: 30px;
