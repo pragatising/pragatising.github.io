@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1509" height="1763" viewBox="0 0 1509 1763">
+  <defs>
+    <clipPath id="clip-convoDesign">
+      <rect width="1509" height="1763"/>
+    </clipPath>
+  </defs>
+  <g id="convoDesign" clip-path="url(#clip-convoDesign)">
+    <rect width="1509" height="1763" fill="#fafafa"/>
+    <text id="Goal_1:_Get_Insights" data-name="Goal 1: Get Insights" transform="translate(79 80)" fill="#0076ff" font-size="20" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">Goal 1: Get Insights</tspan></text>
+    <text id="Scenario_1:_Bot_introduces_itself" data-name="Scenario 1: Bot introduces itself" transform="translate(79 158)" fill="#0076ff" font-size="20" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">Scenario 1: Bot introduces itself</tspan></text>
+    <text id="Scenario_2:_Bot_frequently_sends_updates" data-name="Scenario 2: Bot frequently sends updates" transform="translate(820 158)" fill="#0076ff" font-size="20" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">Scenario 2: Bot frequently sends updates</tspan></text>
+    <text id="Bot_:_" data-name="Bot : " transform="translate(820 202)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot : </tspan></text>
+    <text id="Bot_:_2" data-name="Bot : " transform="translate(820 371)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot : </tspan></text>
+    <text id="Bot_:_3" data-name="Bot : " transform="translate(820 451)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot : </tspan></text>
+    <text id="Bot_:_4" data-name="Bot : " transform="translate(79 202)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot : </tspan></text>
+    <text id="Bot_:_5" data-name="Bot : " transform="translate(79 387)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot : </tspan></text>
+    <text id="User" transform="translate(79 322)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">User</tspan></text>
+    <text id="Hi_Mariya_sales_data_for_July_s_accounting_period_is_available_" data-name="Hi Mariya, sales data for July’s accounting period is available! " transform="translate(931 202)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Hi Mariya, sales data </tspan><tspan x="0" y="45">for July’s accounting </tspan><tspan x="0" y="71">period is available! </tspan></text>
+    <text id="NY_sales_dipped_in_the_last_two_weeks." data-name="NY sales dipped in the last two weeks." transform="translate(931 371)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">NY sales dipped in the </tspan><tspan x="0" y="45">last two weeks.</tspan></text>
+    <text id="Net_ATL_sales_has_increased_by_4_." data-name="Net ATL sales has increased by 4%." transform="translate(931 451)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Net ATL sales has </tspan><tspan x="0" y="45">increased by 4%.</tspan></text>
+    <text id="I_m_your_BI_analyst._Ask_me_anything_about_sales_data_or_insights." data-name="I’m your BI analyst. Ask me anything about sales data or insights." transform="translate(190 202)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">I’m your BI analyst. </tspan><tspan x="0" y="45">Ask me anything about </tspan><tspan x="0" y="71">sales data or insights.</tspan></text>
+    <text id="I_can_help_you_with_finding_insights_from_the_data." data-name="I can help you with finding insights from the data." transform="translate(190 387)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">I can help you with </tspan><tspan x="0" y="45">finding insights from </tspan><tspan x="0" y="71">the data.</tspan></text>
+    <text id="What_s_that_" data-name="What’s that?" transform="translate(190 322)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">What’s that?</tspan></text>
+    <text id="User_:_" data-name="User : " transform="translate(79 515)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">User : </tspan></text>
+    <text id="User_:_2" data-name="User : " transform="translate(820 532)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">User : </tspan></text>
+    <text id="User_:_3" data-name="User : " transform="translate(820 796)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">User : </tspan></text>
+    <text id="Bot_:" data-name="Bot :" transform="translate(820 870)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot :</tspan></text>
+    <text id="User_:" data-name="User :" transform="translate(820 1019)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">User :</tspan></text>
+    <text id="Bot_:-2" data-name="Bot :" transform="translate(820 1114)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot :</tspan></text>
+    <text id="Bot_:-3" data-name="Bot :" transform="translate(820 1361)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot :</tspan></text>
+    <text id="User_:-2" data-name="User :" transform="translate(820 1293)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">User :</tspan></text>
+    <text id="Bot_:-4" data-name="Bot :" transform="translate(820 588)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot :</tspan></text>
+    <text id="Bot_:-5" data-name="Bot :" transform="translate(820 721)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot :</tspan></text>
+    <text id="Bot_:-6" data-name="Bot :" transform="translate(79 608)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot :</tspan></text>
+    <text id="User_:-3" data-name="User :" transform="translate(85 977)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">User :</tspan></text>
+    <text id="Bot_:-7" data-name="Bot :" transform="translate(85 1069)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Bot :</tspan></text>
+    <text id="How_is_Moe_s_sales_in_NY_doing_" data-name="How is Moe’s sales in NY doing?" transform="translate(190 515)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">How is Moe’s sales in </tspan><tspan x="0" y="45">NY doing?</tspan></text>
+    <text id="Do_you_know_why_" data-name="Do you know why?" transform="translate(931 532)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Do you know why?</tspan></text>
+    <text id="I_want_county_wise_report." data-name="I want county wise report." transform="translate(931 796)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">I want county wise </tspan><tspan x="0" y="45">report.</tspan></text>
+    <text id="Sure_For_which_state_do_you_want_county_wise_data_" data-name="Sure! For which state do you want county wise data?" transform="translate(931 870)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Sure! For which state </tspan><tspan x="0" y="45">do you want county wise </tspan><tspan x="0" y="71">data?</tspan></text>
+    <text id="All_counties." data-name="All counties." transform="translate(931 1019)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">All counties.</tspan></text>
+    <text id="I_m_confused_" data-name="I’m confused!" transform="translate(931 1114)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">I’m confused!</tspan></text>
+    <text id="Decatur_sales_has_risen_the_highest_which_a_6_increase_while_Cobb_s_county_has_dipped_by_1_._" data-name="Decatur sales has risen the highest which a 6% increase while Cobb’s county has dipped by 1%. " transform="translate(931 1361)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Decatur sales has risen </tspan><tspan x="0" y="45">the highest which a 6% </tspan><tspan x="0" y="71">increase while Cobb’s </tspan><tspan x="0" y="97">county has dipped by 1%. </tspan></text>
+    <text id="No_sorry_Georgia_" data-name="No sorry, Georgia!" transform="translate(931 1057)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">No sorry, Georgia!</tspan></text>
+    <text id="Which_state_do_you_want_county_wise_data_" data-name="Which state do you want county wise data?" transform="translate(931 1182)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Which state do you want </tspan><tspan x="0" y="45">county wise data?</tspan></text>
+    <text id="Goergia" transform="translate(931 1293)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Goergia</tspan></text>
+    <text id="I_wish_I_knew_that_I_can_only_analyse_and_compare_the_available_data." data-name="I wish I knew that, I can only analyse and compare the available data." transform="translate(931 588)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">I wish I knew that, I </tspan><tspan x="0" y="45">can only analyse and </tspan><tspan x="0" y="71">compare the available </tspan><tspan x="0" y="97">data.</tspan></text>
+    <text id="Is_there_anything_else_I_can_answer_" data-name="Is there anything else I can answer?" transform="translate(931 721)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Is there anything else </tspan><tspan x="0" y="45">I can answer?</tspan></text>
+    <text id="Last_week_the_comp_sales_dipped_by_3_._Net_sales_are_at_7680065." data-name="Last week the comp sales dipped by 3%. Net sales are at 7680065." transform="translate(190 608)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">Last week the comp </tspan><tspan x="0" y="45">sales dipped by 3%. Net </tspan><tspan x="0" y="71">sales are at 7680065.</tspan></text>
+    <text id="I_want_to_see_last_two_week_s_sales." data-name="I want to see last two week’s sales." transform="translate(196 977)" fill="#747474" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">I want to see last two </tspan><tspan x="0" y="45">week’s sales.</tspan></text>
+    <text id="What_location_do_you_want_the_sales_insights_for_" data-name="What location do you want the sales insights for?" transform="translate(196 1069)" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="19">What location do you </tspan><tspan x="0" y="45">want the sales insights </tspan><tspan x="0" y="71">for?</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 187)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="188" height="38" rx="19" transform="translate(190 708)" fill="#32d872"/>
+      <text id="Download_Report" data-name="Download Report" transform="translate(216 718)" fill="#fff" font-size="12" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="14.991" y="13">Download Report</tspan></text>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="248" height="167" transform="translate(190 709)" fill="#e5e5e5"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="248" height="167" transform="translate(931 1496)" fill="#e5e5e5"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(741 -414)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="188" height="38" rx="19" transform="translate(190 708)" fill="#32d872"/>
+      <text id="Download_Report-2" data-name="Download Report" transform="translate(216 718)" fill="#fff" font-size="12" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="14.991" y="13">Download Report</tspan></text>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(741 974)">
+      <rect id="Rectangle_2-3" data-name="Rectangle 2" width="188" height="38" rx="19" transform="translate(190 708)" fill="#32d872"/>
+      <text id="Download_Report-3" data-name="Download Report" transform="translate(216 718)" fill="#fff" font-size="12" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="14.991" y="13">Download Report</tspan></text>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(0 -15)">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#0ed892"/>
+      <text id="Cues" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Cues</tspan></text>
+      <path id="Icon_feather-check" data-name="Icon feather-check" d="M19.091,9l-9,9L6,13.909" transform="translate(619.9 537.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(735 266)">
+      <rect id="Rectangle_6-2" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#1fe398"/>
+      <text id="Intent" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Intent</tspan></text>
+      <path id="Icon_feather-check-2" data-name="Icon feather-check" d="M19.091,9l-9,9L6,13.909" transform="translate(619.9 537.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(0 542)">
+      <rect id="Rectangle_6-3" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#eacd30"/>
+      <text id="Guiding" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Guiding</tspan></text>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(735 658)">
+      <rect id="Rectangle_6-4" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#eacd30"/>
+      <text id="Guiding-2" data-name="Guiding" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Guiding</tspan></text>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(735 185)">
+      <rect id="Rectangle_6-5" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#eacd30"/>
+      <text id="Guiding-3" data-name="Guiding" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Guiding</tspan></text>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(735 344)">
+      <rect id="Rectangle_6-6" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#eacd30"/>
+      <text id="Guiding-4" data-name="Guiding" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Guiding</tspan></text>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(735 392)">
+      <rect id="Rectangle_6-7" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#4afff8"/>
+      <text id="Guess_Context" data-name="Guess Context" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Guess Context</tspan></text>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(0 -135)">
+      <rect id="Rectangle_6-8" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#ff6c6c"/>
+      <text id="Error_Message" data-name="Error Message" transform="translate(537 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Error Message</tspan></text>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(735 65)">
+      <rect id="Rectangle_6-9" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#ff6c6c"/>
+      <text id="Error_Message-2" data-name="Error Message" transform="translate(537 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Error Message</tspan></text>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(0 447)">
+      <rect id="Rectangle_6-10" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#ff7227"/>
+      <text id="Cues-2" data-name="Cues" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Cues</tspan></text>
+      <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M21.065,8.878,19.711,7.523,14.294,12.94,8.878,7.523,7.523,8.878l5.417,5.417L7.523,19.711l1.354,1.354,5.417-5.417,5.417,5.417,1.354-1.354-5.417-5.417Z" transform="translate(616.706 537.706)"/>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(735 489)">
+      <rect id="Rectangle_6-11" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#ff7227"/>
+      <text id="Cues-3" data-name="Cues" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Cues</tspan></text>
+      <path id="Icon_ionic-md-close-2" data-name="Icon ionic-md-close" d="M21.065,8.878,19.711,7.523,14.294,12.94,8.878,7.523,7.523,8.878l5.417,5.417L7.523,19.711l1.354,1.354,5.417-5.417,5.417,5.417,1.354-1.354-5.417-5.417Z" transform="translate(616.706 537.706)"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(735 -4)">
+      <rect id="Rectangle_6-12" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#ff7227"/>
+      <text id="Cues-4" data-name="Cues" transform="translate(538 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Cues</tspan></text>
+      <path id="Icon_ionic-md-close-3" data-name="Icon ionic-md-close" d="M21.065,8.878,19.711,7.523,14.294,12.94,8.878,7.523,7.523,8.878l5.417,5.417L7.523,19.711l1.354,1.354,5.417-5.417,5.417,5.417,1.354-1.354-5.417-5.417Z" transform="translate(616.706 537.706)"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="119" transform="translate(267.5 536.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="94" transform="translate(190.5 567.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" x2="136" transform="translate(931.5 1048.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x2="89" transform="translate(1034.5 1087.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" x2="124" transform="translate(999.5 823.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="94" transform="translate(344.5 1004.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x2="131" transform="translate(196.5 1033.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <g id="Group_9" data-name="Group 9" transform="translate(735 578)">
+      <rect id="Rectangle_6-13" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#ff6c6c"/>
+      <text id="Error_Message-3" data-name="Error Message" transform="translate(537 541)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Error Message</tspan></text>
+    </g>
+    <text id="Chart" transform="translate(253 782)" fill="#848484" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="26.996" y="19">Chart</tspan></text>
+    <text id="Chart-2" data-name="Chart" transform="translate(1000 1580)" fill="#848484" font-size="18" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="26.996" y="19">Chart</tspan></text>
+    <g id="Icon_feather-download" data-name="Icon feather-download" transform="translate(462.8 774.5)">
+      <path id="Path_10" data-name="Path 10" d="M31.5,22.5v6a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3v-6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_11" data-name="Path 11" d="M10.5,15,18,22.5,25.5,15" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_12" data-name="Path 12" d="M18,22.5V4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Icon_feather-download-2" data-name="Icon feather-download" transform="translate(1209.8 1561.5)">
+      <path id="Path_10-2" data-name="Path 10" d="M31.5,22.5v6a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3v-6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_11-2" data-name="Path 11" d="M10.5,15,18,22.5,25.5,15" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_12-2" data-name="Path 12" d="M18,22.5V4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(735 -328)">
+      <rect id="Rectangle_6-14" data-name="Rectangle 6" width="165" height="42" rx="6" transform="translate(514 530)" fill="#7ecdff"/>
+      <text id="Routine_Updates" data-name="Routine Updates" transform="translate(525 540)" font-size="15" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="16">Routine Updates</tspan></text>
+    </g>
+  </g>
+</svg>

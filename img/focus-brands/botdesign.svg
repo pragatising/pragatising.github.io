@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1809" height="408" viewBox="0 0 1809 408">
+  <defs>
+    <clipPath id="clip-botdesign">
+      <rect width="1809" height="408"/>
+    </clipPath>
+  </defs>
+  <g id="botdesign" clip-path="url(#clip-botdesign)">
+    <rect width="1809" height="408" fill="#fafafa"/>
+    <text id="Scenarios" transform="translate(120 273)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">Scenarios</tspan></text>
+    <text id="Bot_Persona_" data-name="Bot Persona " transform="translate(486 273)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">Bot Persona </tspan></text>
+    <text id="Conversation_Flow" data-name="Conversation Flow" transform="translate(886 273)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">Conversation Flow</tspan></text>
+    <text id="Conversation_UI" data-name="Conversation UI" transform="translate(1412 273)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">Conversation UI</tspan></text>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="33" cy="33" r="33" transform="translate(168 147)" fill="#eceff4"/>
+    <text id="_1" data-name="1" transform="translate(192 192)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="33" cy="33" r="33" transform="translate(543 148)" fill="#eceff4"/>
+    <text id="_2" data-name="2" transform="translate(568 193)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="33" cy="33" r="33" transform="translate(1006 147)" fill="#eceff4"/>
+    <text id="_3" data-name="3" transform="translate(1030 192)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="33" cy="33" r="33" transform="translate(1510 149)" fill="#eceff4"/>
+    <text id="_4" data-name="4" transform="translate(1534 194)" fill="#0076ff" font-size="30" font-family="RobotoMono-Bold, Roboto Mono" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+  </g>
+</svg>
