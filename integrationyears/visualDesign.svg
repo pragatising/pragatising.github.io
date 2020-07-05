@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1700" viewBox="0 0 1920 1700">
+  <defs>
+    <filter id="Oval_2" x="929" y="1254" width="30" height="30" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1" x="1401" y="1382" width="138" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="red" flood-opacity="0.353"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-2" x="84" y="1380" width="133" height="133" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="red" flood-opacity="0.353"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-3" x="208" y="1380" width="133" height="133" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="red" flood-opacity="0.353"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-4" x="946" y="1382" width="459" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-color="red" flood-opacity="0.353"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-VD">
+      <rect width="1920" height="1700"/>
+    </clipPath>
+  </defs>
+  <g id="VD" clip-path="url(#clip-VD)">
+    <rect width="1920" height="1700" fill="#fafafa"/>
+    <text id="Bodoni" transform="translate(117 124)" font-size="40" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="37">Bodoni</tspan></text>
+    <text id="Primary_Colors" data-name="Primary Colors" transform="translate(1369 124)" font-size="40" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="37">Primary Colors</tspan></text>
+    <text id="Accent_Colors" data-name="Accent Colors" transform="translate(1369 564)" font-size="40" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="37">Accent Colors</tspan></text>
+    <text id="Futura" transform="translate(117 590)" font-size="40" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="42">Futura</tspan></text>
+    <text id="Components" transform="translate(118 1023)" font-size="40" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="42">Components</tspan></text>
+    <text id="Page_Title" data-name="Page Title" transform="translate(117 262)" font-size="70" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="65">Page Title</tspan></text>
+    <text id="_70pt" data-name="70pt" transform="translate(642 270)" font-size="70" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="65">70pt</tspan></text>
+    <text id="Bold" transform="translate(1010 270)" font-size="70" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="65">Bold</tspan></text>
+    <text id="Stories_Title" data-name="Stories Title" transform="translate(117 391)" font-size="30" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="28">Stories Title</tspan></text>
+    <text id="_30pt" data-name="30pt" transform="translate(642 391)" font-size="30" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="28">30pt</tspan></text>
+    <text id="Bold-2" data-name="Bold" transform="translate(1010 391)" font-size="30" font-family="BodoniSvtyTwoITCTT-Bold, 'Bodoni 72'" font-weight="700"><tspan x="0" y="28">Bold</tspan></text>
+    <text id="Stories_Title-2" data-name="Stories Title" transform="translate(117 461)" font-size="30" font-family="BodoniSvtyTwoITCTT-BookIta, 'Bodoni 72'" font-style="italic"><tspan x="0" y="28">Stories Title</tspan></text>
+    <text id="_18pt" data-name="18pt" transform="translate(642 461)" font-size="30" font-family="BodoniSvtyTwoITCTT-BookIta, 'Bodoni 72'" font-style="italic"><tspan x="0" y="28">18pt</tspan></text>
+    <text id="Book_Italic" data-name="Book Italic" transform="translate(1010 461)" font-size="30" font-family="BodoniSvtyTwoITCTT-BookIta, 'Bodoni 72'" font-style="italic"><tspan x="0" y="28">Book Italic</tspan></text>
+    <text id="Paragraph" transform="translate(117 687)" font-size="25" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="26">Paragraph</tspan></text>
+    <text id="Paragraph-2" data-name="Paragraph" transform="translate(117 757)" font-size="20" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="21">Paragraph</tspan></text>
+    <text id="Paragraph-3" data-name="Paragraph" transform="translate(117 828)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Paragraph</tspan></text>
+    <text id="_25pt" data-name="25pt" transform="translate(642 687)" font-size="30" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="31">25pt</tspan></text>
+    <text id="_20pt" data-name="20pt" transform="translate(642 757)" font-size="20" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="21">20pt</tspan></text>
+    <text id="_20pt-2" data-name="20pt" transform="translate(642 828)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">20pt</tspan></text>
+    <text id="Medium" transform="translate(1010 687)" font-size="25" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="26">Medium</tspan></text>
+    <text id="Medium-2" data-name="Medium" transform="translate(1010 757)" font-size="20" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="21">Medium</tspan></text>
+    <text id="Medium-3" data-name="Medium" transform="translate(1010 828)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Medium</tspan></text>
+    <line id="Line_17" data-name="Line 17" x2="173" transform="translate(439.5 313.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_23" data-name="Line 23" x2="173" transform="translate(800.5 313.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_18" data-name="Line 18" x2="173" transform="translate(439.5 408.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_24" data-name="Line 24" x2="173" transform="translate(800.5 408.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_19" data-name="Line 19" x2="173" transform="translate(439.5 478.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_25" data-name="Line 25" x2="173" transform="translate(800.5 478.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_20" data-name="Line 20" x2="173" transform="translate(439.5 704.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_26" data-name="Line 26" x2="173" transform="translate(800.5 704.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_21" data-name="Line 21" x2="173" transform="translate(439.5 774.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_27" data-name="Line 27" x2="173" transform="translate(800.5 774.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_22" data-name="Line 22" x2="173" transform="translate(439.5 844.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <line id="Line_28" data-name="Line 28" x2="173" transform="translate(800.5 844.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3"/>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(1382 280)" fill="#fdf8f5" stroke="#707070" stroke-width="1">
+      <circle cx="43" cy="43" r="43" stroke="none"/>
+      <circle cx="43" cy="43" r="42.5" fill="none"/>
+    </g>
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(1382 676)" fill="#ff3b00" stroke="#707070" stroke-width="1">
+      <circle cx="43" cy="43" r="43" stroke="none"/>
+      <circle cx="43" cy="43" r="42.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(1527 281)" stroke="#707070" stroke-width="1">
+      <circle cx="43" cy="43" r="43" stroke="none"/>
+      <circle cx="43" cy="43" r="42.5" fill="none"/>
+    </g>
+    <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(1672 677)" fill="#bfbfbf" stroke="#707070" stroke-width="1">
+      <circle cx="43" cy="43" r="43" stroke="none"/>
+      <circle cx="43" cy="43" r="42.5" fill="none"/>
+    </g>
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(1672 280)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="43" cy="43" r="43" stroke="none"/>
+      <circle cx="43" cy="43" r="42.5" fill="none"/>
+    </g>
+    <text id="_BFBFBF" data-name="#BFBFBF" transform="translate(1672 797)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">#BFBFBF</tspan></text>
+    <text id="_000000" data-name="#000000" transform="translate(1523 387)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">#000000</tspan></text>
+    <text id="_FFFFFF" data-name="#FFFFFF" transform="translate(1672 387)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">#FFFFFF</tspan></text>
+    <text id="_FF3B00" data-name="#FF3B00" transform="translate(1382 797)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">#FF3B00</tspan></text>
+    <text id="_FDF8F5" data-name="#FDF8F5" transform="translate(1378 387)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">#FDF8F5</tspan></text>
+    <g id="Group_53" data-name="Group 53" transform="translate(117 252.947)">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="1686" height="100" transform="translate(0 966.053)"/>
+      <g id="Group_54" data-name="Group 54" transform="translate(458.82 1007.272)">
+        <g id="next" transform="translate(126.716 1.15)">
+          <path id="Shape_Copy" data-name="Shape Copy" d="M11.689,7.593.6.066A.39.39,0,0,0,.2.043.375.375,0,0,0,0,.376V15.43a.376.376,0,0,0,.2.333.389.389,0,0,0,.4-.024l11.09-7.527a.373.373,0,0,0,0-.619Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+          <path id="Line" d="M1.688,0V14.818" transform="translate(14.393 0.988)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+        <g id="prev" transform="translate(0 1.15)">
+          <path id="Shape_Copy-2" data-name="Shape Copy" d="M10.391,8.213.533,15.74a.314.314,0,0,1-.351.023A.383.383,0,0,1,0,15.43V.376A.384.384,0,0,1,.182.043.313.313,0,0,1,.533.067l9.858,7.527a.4.4,0,0,1,0,.619Z" transform="translate(15.367 15.806) rotate(180)" fill="#fff" stroke="#fff" stroke-width="1"/>
+          <path id="Line-2" data-name="Line" d="M0,14.752V0" transform="translate(0 15.806) rotate(180)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+        <g id="play" transform="translate(65.156 0)">
+          <path id="Shape" d="M13.6,8.52.7.074A.468.468,0,0,0,.238.048.42.42,0,0,0,0,.422V17.314a.42.42,0,0,0,.238.374.466.466,0,0,0,.46-.027L13.6,9.215a.41.41,0,0,0,0-.7Z" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="volume" transform="translate(1291.132 1009.906) rotate(90)">
+        <g id="Group_6" data-name="Group 6">
+          <path id="Line_3" data-name="Line 3" d="M0,0V519.821" transform="translate(6.147)" fill="none" stroke="#ebebeb" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+          <path id="Line_3_Copy" data-name="Line 3 Copy" d="M0,0V52.688" transform="translate(6.147 467.134)" fill="none" stroke="#ff3b00" stroke-linecap="square" stroke-miterlimit="10" stroke-width="5"/>
+          <g transform="matrix(0, -1, 1, 0, -1262.85, 1408.13)" filter="url(#Oval_2)">
+            <circle id="Oval_2-2" data-name="Oval 2" cx="6" cy="6" r="6" transform="translate(950 1263) rotate(90)" fill="#ff3b00" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="repeat" transform="translate(1549.262 1005.516)">
+        <path id="Shape-2" data-name="Shape" d="M17,0A.894.894,0,0,0,16.1.895a2.687,2.687,0,0,1-2.684,2.684H6.262V.895A.895.895,0,0,0,4.808.2L.335,3.775a.9.9,0,0,0,0,1.4L4.808,8.752a.895.895,0,0,0,1.454-.7V5.369h7.156A4.478,4.478,0,0,0,17.89.895.894.894,0,0,0,17,0Z" transform="translate(0 11.895)" fill="#fff"/>
+        <path id="Shape-3" data-name="Shape" d="M.895,8.948a.894.894,0,0,0,.895-.895A2.687,2.687,0,0,1,4.473,5.369h7.156V8.053a.895.895,0,0,0,1.454.7l4.473-3.579a.9.9,0,0,0,0-1.4L13.082.2a.895.895,0,0,0-1.454.7V3.579H4.473A4.478,4.478,0,0,0,0,8.053.894.894,0,0,0,.895,8.948Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+      <text id="_0.18" data-name="0.18" transform="translate(703 1004.053)" fill="#fff" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="6.456" y="19">0.18</tspan></text>
+      <text id="_2.3" data-name="2.3" transform="translate(1300 1004.053)" fill="#fff" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="10.613" y="19">2.3</tspan></text>
+      <path id="Icon_awesome-share-alt-square" data-name="Icon awesome-share-alt-square" d="M19.758,4.367V19.891a2.117,2.117,0,0,1-2.117,2.117H2.117A2.117,2.117,0,0,1,0,19.891V4.367A2.117,2.117,0,0,1,2.117,2.25H17.641A2.117,2.117,0,0,1,19.758,4.367Zm-6.351,9.526a2.461,2.461,0,0,0-1.666.647l-3-1.8a2.485,2.485,0,0,0,0-1.226l3-1.8a2.463,2.463,0,1,0-.727-1.21l-3,1.8a2.47,2.47,0,1,0,0,3.645l3,1.8a2.47,2.47,0,1,0,2.393-1.857Z" transform="translate(1435.295 1004.144)" fill="#fff"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="370" height="100" transform="translate(0 966.053)" fill="#535353"/>
+      <text id="Do_you_want_to_live_on_your_knees_or_die_on_your_feet_" data-name="Do you want to live on your knees or die on your feet?" transform="translate(54 1001.053)" fill="#fff" font-size="20" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="21">Do you want to live on </tspan></text>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(444.5 822)">
+      <g transform="matrix(1, 0, 0, 1, -444.5, -822)" filter="url(#Rectangle_1)">
+        <rect id="Rectangle_1-5" data-name="Rectangle 1" width="78" height="78" rx="39" transform="translate(1431 1406)" fill="#ff3b00"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(1010.383 613.448)">
+        <line id="Line_6" data-name="Line 6" x2="27" transform="translate(0 10.481)" fill="none" stroke="#fff" stroke-width="2"/>
+        <path id="Path_3" data-name="Path 3" d="M2663.35,668.9l10.226,10.54-10.226,8.881" transform="translate(-2645.677 -668.896)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(-1470.727 761.273)">
+      <g id="Group_6-2" data-name="Group 6" transform="translate(1584.727 642.727)">
+        <g transform="matrix(1, 0, 0, 1, -114, -1404)" filter="url(#Rectangle_1-2)">
+          <rect id="Rectangle_1-6" data-name="Rectangle 1" width="73" height="73" rx="36.5" transform="translate(114 1404)" fill="#ff3b00"/>
+        </g>
+        <path id="Polygon_1" data-name="Polygon 1" d="M15.136,1.481a1,1,0,0,1,1.728,0L31.123,25.925a1,1,0,0,1-.864,1.5H1.741a1,1,0,0,1-.864-1.5Z" transform="translate(53.427 21) rotate(90)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_146" data-name="Group 146" transform="translate(-1346.727 761.273)">
+      <g id="Group_6-3" data-name="Group 6" transform="translate(1584.727 642.727)">
+        <g transform="matrix(1, 0, 0, 1, -238, -1404)" filter="url(#Rectangle_1-3)">
+          <rect id="Rectangle_1-7" data-name="Rectangle 1" width="73" height="73" rx="36.5" transform="translate(238 1404)" fill="#ff3b00"/>
+        </g>
+        <g id="Group_147" data-name="Group 147" transform="translate(-5.5 -2.5)">
+          <line id="Line_29" data-name="Line 29" y2="12" transform="translate(29.5 36.5)" fill="none" stroke="#fff" stroke-width="3"/>
+          <line id="Line_30" data-name="Line 30" y2="31" transform="translate(37.5 23.5)" fill="none" stroke="#fff" stroke-width="3"/>
+          <path id="Path_36" data-name="Path 36" d="M0,0V16.364" transform="translate(46.5 29.873)" fill="none" stroke="#fff" stroke-width="3"/>
+          <line id="Line_32" data-name="Line 32" y2="6" transform="translate(55.5 36.5)" fill="none" stroke="#fff" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_148" data-name="Group 148" transform="translate(-1310.49 521.311)">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="54" height="54" transform="translate(1847.49 892.689)"/>
+      <path id="Path_4" data-name="Path 4" d="M0,.155S14.322-13.752,14.341-14,28.349,0,28.349,0" transform="translate(1860.641 926.711)" fill="none" stroke="#fff" stroke-width="5"/>
+    </g>
+    <g id="Group_149" data-name="Group 149" transform="translate(-1200.49 521.311)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="54" height="54" transform="translate(1847.49 892.689)"/>
+      <path id="Path_35" data-name="Path 35" d="M0,0H27" transform="translate(1861.641 919.876)" fill="none" stroke="#fff" stroke-width="5"/>
+    </g>
+    <line id="Line_14" data-name="Line 14" y2="43.734" transform="translate(1664.234 1430.993)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="Path_37" data-name="Path 37" transform="translate(1654.5 1413.5)">
+      <path d="M 14.8229923248291 14.49346160888672 L 5.169538497924805 14.49346160888672 L 9.996265411376953 6.046696186065674 L 14.8229923248291 14.49346160888672 Z" stroke="none"/>
+      <path d="M 9.996265411376953 1.9073486328125e-06 L 19.99253463745117 17.49346160888672 L -3.814697265625e-06 17.49346160888672 L 9.996265411376953 1.9073486328125e-06 Z" stroke="none"/>
+    </g>
+    <g id="Group_1-2" data-name="Group 1" transform="translate(-5 826)">
+      <g transform="matrix(1, 0, 0, 1, 5, -826)" filter="url(#Rectangle_1-4)">
+        <rect id="Rectangle_1-8" data-name="Rectangle 1" width="399" height="78" rx="8" transform="translate(976 1406)" fill="#ff3b00"/>
+      </g>
+      <text id="BUTTON" transform="translate(1104 604)" fill="#fff" font-size="25" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="26.39" y="26">BUTTON</tspan></text>
+    </g>
+    <text id="State1" transform="translate(110 1516)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">State1</tspan></text>
+    <text id="State1-2" data-name="State1" transform="translate(537 1513)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">State1</tspan></text>
+    <text id="Play-2" data-name="Play" transform="translate(110 1549)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Play</tspan></text>
+    <text id="Minimised" transform="translate(537 1546)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Minimised</tspan></text>
+    <text id="State2" transform="translate(266 1516)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">State2</tspan></text>
+    <text id="State2-2" data-name="State2" transform="translate(693 1513)" fill="gray" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">State2</tspan></text>
+    <text id="Playing" transform="translate(266 1549)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Playing</tspan></text>
+    <text id="Showing" transform="translate(693 1546)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Showing</tspan></text>
+    <text id="Year_Separator" data-name="Year Separator" transform="translate(1622 1503)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Year Separator</tspan></text>
+    <text id="Enter" transform="translate(1447 1503)" font-size="20" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="0" y="21">Enter</tspan></text>
+    <line id="Line_33" data-name="Line 33" x2="1689" transform="translate(114.5 206.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_34" data-name="Line 34" x2="1689" transform="translate(115.5 1109.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
