@@ -224,12 +224,11 @@ body {
 }
 
 .navstyle {
-    font-family: 'Roboto';
+    font-family: 'Roboto Mono';
     font-size: 0.8em !important;
-    font-weight: 00 !important;
-    color: black !important;
+    font-weight: 500;
+    color: grey !important;
     padding-right: 10vw;
-
 }
 
 @media only screen and (min-width: 641px) {
@@ -606,16 +605,19 @@ body {
 
 
 .subtitlefont1 {
-    font-family: 'Roboto' !important;
-    font-size: 0.9em !important;
+    font-family: 'Roboto Mono' !important;
+    font-size: 1em !important;
     font-weight: bold !important;
     color: black !important;
-
-
-
+    margin-top:10px;
 
 }
 
+.visualDesign{
+    margin-top:100px!important;
+    background-color:#fafafa;
+
+}
 .resize-img {
 
     width: 40vw !important;
@@ -669,6 +671,40 @@ li {
     margin-bottom: 10px !important;
 }
 
+.introText{
+    font-family: "Roboto Mono";
+    font-size: 0.8em;
+    color:black;
+    margin-bottom: 0px;
+    padding-bottom: 0px!important;
+    font-weight: bold;
+    text-align: center;
+
+}
+.introText span{
+    border-bottom: 1px solid black!important;
+    padding-bottom: 8px;
+     font-family: "Roboto Mono";
+
+}
+#coverText{
+height: 50vh;
+padding: 0;
+display: flex;
+flex-wrap: nowrap;
+justify-content: center;
+align-items: center;
+padding-top: 30vh;
+}
+.socialMedia img{
+   width:35px;
+
+}
+.socialMedia{
+
+    padding:10px;
+    cursor: pointer;
+}
 .cover-images {
 
     width: 100% !important;
@@ -683,7 +719,7 @@ li {
 .logo {
 
     font-family: "Roboto Mono" !important;
-    font-size: 0.8em !important;
+    font-size: 1em !important;
     font-weight: 500 !important;
     color: black !important;
     padding-top: 2px !important;
@@ -756,9 +792,19 @@ li {
     width: 100%;
     overflow-y: visible !important;
     background-color: #fff;
+/*
     background-size: 20px 20px;
     background-image: linear-gradient(to right, #fafafa 1px, transparent 1px), linear-gradient(to bottom, #fafafa 1px, transparent 1px);
+*/
 
+}
+
+html {
+  overflow:   scroll;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
 }
 
 .aboutFont b,
@@ -781,6 +827,22 @@ i {
 }
 
 
+#scrollDown
+{
+margin-top: 20px!important;
+-webkit-animation: pulse 2s infinite!important;
+animation: pulse 2s infinite!important;
+display: block;
+
+
+}
+
+
+
+.scrollDown{
+    margin-top:80px!important;
+    margin-bottom: 200px!important;
+}
 .socialmedia span {
 
     margin-right: 10px;
@@ -931,6 +993,7 @@ i {
     object-fit: cover;
 
     margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 .books-red h6 {
@@ -1045,8 +1108,12 @@ i {
 
 }
 
+.about-modal{
+    cursor: pointer;
+}
 .nav-border {
-    border-bottom: 0.5px solid #f2f0ee;
+/*    border-bottom: 0.5px solid #f2f0ee;*/
+    margin-top:20px!important;
 }
 
 .project-info {
