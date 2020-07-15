@@ -542,7 +542,7 @@ body {
 
 }
 
-.column img {}
+
 
 .spacing {
     margin-top: 80px !important;
@@ -552,16 +552,15 @@ body {
 
 .parafont {
     font-family: 'Roboto';
-    font-size: 1em !important;
-    line-height: 180% !important;
+    font-size: 16px !important;
+    line-height: 28px !important;
     color: black !important;
 }
 
 .top_header {
     font-family: 'Roboto Mono', monospace;
-    font-size: 2em !important;
+    font-size: 30px !important;
     color: black !important;
-    margin-bottom: 30px;
     margin-top: 100px;
     font-weight: bold;
     text-transform: capitalize;
@@ -574,8 +573,8 @@ body {
 
 .parafont1 {
     font-family: "Roboto";
-    font-size: 1em !important;
-    line-height: 180% !important;
+    font-size: 16px !important;
+    line-height: 28px !important;
     color: grey !important;
 
 
@@ -585,12 +584,13 @@ body {
 .subtitlefont {
 
     font-family: 'Roboto Mono', monospace;
-    font-size: 1.2em !important;
+    font-size: 16px !important;
     color: black !important;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-weight: bold;
     margin-top: 70px;
     text-transform: capitalize;
+    line-height: 28px;
 
 
 }
@@ -666,7 +666,7 @@ body {
 
 .blurb{
 
-    font-family: "Roboto Mono";
+    font-family: "Roboto Mono"!important;
     font-size: 0.8rem;
     font-weight: 500;
     color:black;
@@ -674,13 +674,12 @@ body {
 
 .takeAway {
 
-    border-left: 4px solid dodgerblue;
+    border-left: 10px solid #00ffa2 ;
     padding-left: 80px !important;
     padding-top: 40px;
     padding-bottom: 30px;
     padding-right: 60px !important;
     background-color: #fafafa;
-    border-radius: 5px;
     margin-top: 60px !important;
     text-transform: none!important;
 }
@@ -688,6 +687,7 @@ body {
 img {
 
     margin-top: 40px;
+     margin-bottom: 40px;
 
 }
 
@@ -1077,7 +1077,7 @@ display: block;
 }
 
 .mockup {
-   border-radius: 8px;
+border-radius: 8px;
 width: 67%;
 border: 1px solid #e9e9e9;
 }
@@ -1149,13 +1149,12 @@ border: 1px solid #e9e9e9;
 
     font-family: 'Roboto Mono', monospace;
     color: black;
-    font-size: 0.7rem;
-    letter-spacing: 1px;
-    margin-bottom: 100px;
-    padding-right: 60px;
+    font-size: 12px;
+
 
 }
 
+/*
 .reddish {
 
     padding: 10px 20px 10px 20px;
@@ -1163,41 +1162,45 @@ border: 1px solid #e9e9e9;
     color: #FA3838;
     border-radius: 30px;
 }
+*/
 
 .greenish {
 
     padding: 10px 20px 10px 20px;
-    background-color: #BEF5B6;
+    background-color: #00ffa2;
     color: black;
     border-radius: 30px;
     margin-right: 20px;
 }
 
 
-.highlightGreen {
+.highlight {
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 4px;
     padding-right: 4px;
-    background-color: #BEF5B6;
+    background-color: #00ffa2;
     color: black;
     border-radius: 30px;
 
 
 }
+/*
 
 .highlightTeal {
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 4px;
     padding-right: 4px;
-    background-color: #ACF7E0;
+    background-color: #00ffa2;
     color: black;
     border-radius: 30px;
 
 
 }
+*/
 
+/*
 .highlightBlue {
 
     padding-top: 1px;
@@ -1220,11 +1223,13 @@ border: 1px solid #e9e9e9;
     color: black;
     border-radius: 30px;
 }
+*/
 
+/*
 .bluish {
 
     padding: 10px 20px 10px 20px;
-    background-color: #D3EAFD;
+    background-color: #00ffa2;
     color: black;
     border-radius: 30px;
     margin-right: 20px;
@@ -1238,6 +1243,7 @@ border: 1px solid #e9e9e9;
     border-radius: 30px;
     margin-right: 20px;
 }
+*/
 
 .divide {
     border: 0;
@@ -1358,8 +1364,27 @@ handel specific */
 
 /* button scroll to top */
 
+#menu{
+    display: inline-block;
+    width: 100%;
+    background-color: white;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    bottom: 5px;
+    right: 200px;
+    transition: background-color .3s,
+    opacity .5s, visibility .5s;
+    opacity: 1;
+    z-index: 1000;
+    font-size: 15px;
+    font-family: "Roboto Mono";
+    align-content: center;
+}
 
-#button {
+
+
+#scrollUp {
     display: inline-block;
     background-color: black;
     width: 50px;
@@ -1367,7 +1392,7 @@ handel specific */
     text-align: center;
     border-radius: 25px;
     position: fixed;
-    bottom: 30px;
+    bottom: 5px;
     right: 30px;
     transition: background-color .3s,
         opacity .5s, visibility .5s;
@@ -1376,7 +1401,7 @@ handel specific */
     z-index: 1000;
 }
 
-#button::after {
+#scrollUp::after {
     content: "\2191";
     font-family: "Roboto";
     font-weight: normal;
@@ -1386,16 +1411,16 @@ handel specific */
     color: #fff;
 }
 
-#button:hover {
+#scrollUp:hover {
     cursor: pointer;
     background-color: #333;
 }
 
-#button:active {
+#scrollUp:active {
     background-color: #555;
 }
 
-#button.show {
+#scrollUp.show {
     opacity: 1;
     visibility: visible;
 }
