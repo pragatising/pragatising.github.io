@@ -22,11 +22,13 @@
     }
 
     .demoStyle{
-        border-radius: 0.5vw!important;
-        box-shadow: 1px 1px 4px 0px #0b16691c!important;
+        border-radius: 8px!important;
         width:100%;
         margin-bottom: 40px;
         margin-top:20px;
+        border: 1px solid #e9e9e9;
+        padding:0!important;
+
     }
 
     .yearAxis {
@@ -1174,7 +1176,7 @@ border: 1px solid #e9e9e9;
 }
 
 
-.highlight {
+.highlightGreen {
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 4px;
@@ -1187,7 +1189,7 @@ border: 1px solid #e9e9e9;
 }
 /*
 
-.highlightTeal {
+.highlightGreenTeal {
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 4px;
@@ -1201,7 +1203,7 @@ border: 1px solid #e9e9e9;
 */
 
 /*
-.highlightBlue {
+.highlightGreenBlue {
 
     padding-top: 1px;
     padding-bottom: 1px;
@@ -1213,7 +1215,7 @@ border: 1px solid #e9e9e9;
 
 }
 
-.highlightYellow {
+.highlightGreenYellow {
 
     padding-top: 1px;
     padding-bottom: 1px;
