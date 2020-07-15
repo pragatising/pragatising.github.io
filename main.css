@@ -119,9 +119,8 @@
     background: #fff;
 }
 
-.caseStudy img{
- height: 8px;
-margin-top:25px!important;
+.caseStudyImg{
+ height:10px!important;
 }
 
 .caseStudy{
@@ -129,6 +128,8 @@ margin-top:25px!important;
    transition-property: background-color, color, padding;
     transition-duration: 0.2s;
     transition-timing-function: ease-in;
+    display: inline-block;
+    margin-top: 35px;
 }
 .caseStudy:hover{
    cursor:pointer;
